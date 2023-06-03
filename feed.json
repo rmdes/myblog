@@ -7,6 +7,174 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2023/06/03/codecompose-a-largescale.html",
+				
+				"content_html": "<p>CodeCompose: A Large-Scale Industrial Deployment of AI-assisted Code Authoring</p>\n<p><a href=\"https://arxiv.org/abs/2305.12050\">arxiv.org/abs/2305&hellip;.</a></p>\n",
+				"content_text": "CodeCompose: A Large-Scale Industrial Deployment of AI-assisted Code Authoring\n\n[arxiv.org/abs/2305....](https://arxiv.org/abs/2305.12050)\n",
+				"date_published": "2023-06-03T19:36:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/03/codecompose-a-largescale.html",
+				"tags": ["AI"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/03/testing-posting-from.html",
+				
+				"content_html": "<p>Testing posting from my blog to Twitter, Bluesky, Mastodon and Nostr</p>\n",
+				"content_text": "Testing posting from my blog to Twitter, Bluesky, Mastodon and Nostr\n",
+				"date_published": "2023-06-03T14:54:08+02:00",
+				"url": "https://blog.rmendes.net/2023/06/03/testing-posting-from.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/02/bluesky-private-beta.html",
+				
+				"content_html": "<p>Bluesky Private Beta Update &amp; Roadmap\n<a href=\"https://blueskyweb.xyz/blog/6-02-2023-beta-update\">blueskyweb.xyz/blog/6-02&hellip;</a></p>\n",
+				"content_text": "Bluesky Private Beta Update & Roadmap\n[blueskyweb.xyz/blog/6-02...](https://blueskyweb.xyz/blog/6-02-2023-beta-update)\n",
+				"date_published": "2023-06-02T20:41:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/02/bluesky-private-beta.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/02/great-read-and.html",
+				
+				"content_html": "<p>Great read and important to know!</p>\n<p>What Information is Public on #Bluesky?</p>\n<p>Last updated May 16th 2023\nFollow Eepy @ eepy.bsky.social\n<a href=\"https://write.as/lajpcs033np8qypv.md\">write.as/lajpcs033&hellip;</a></p>\n",
+				"content_text": "Great read and important to know! \n\nWhat Information is Public on #Bluesky?\n\nLast updated May 16th 2023\nFollow Eepy @ eepy.bsky.social\n[write.as/lajpcs033...](https://write.as/lajpcs033np8qypv.md)\n",
+				"date_published": "2023-06-02T20:31:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/02/great-read-and.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/01/wow-this-comment.html",
+				
+				"content_html": "<p>Wow this comment thread 😅\nShow HN: I made CSS Pro, a re-imagined Devtools for web design</p>\n<p><a href=\"https://csspro.com\">csspro.com</a></p>\n<p><a href=\"https://news.ycombinator.com/item?id=36148807\">news.ycombinator.com/item</a></p>\n",
+				"content_text": "Wow this comment thread 😅\nShow HN: I made CSS Pro, a re-imagined Devtools for web design\n\n[csspro.com](https://csspro.com)\n\n[news.ycombinator.com/item](https://news.ycombinator.com/item?id=36148807)\n",
+				"date_published": "2023-06-01T19:24:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/01/wow-this-comment.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/01/intressante-promenade-qui.html",
+				
+				"content_html": "<p>Intéressante promenade qui me ramène a mes origines de campagnard atteri en ville comme un alien sur une planète inconnue, tellement de point commun sur la recherche de l&rsquo;identité, sur le fait d&rsquo;appartenir ou pas à où l&rsquo;on vit.</p>\n<p>&ldquo;Le complexe rural 4/4 : Choisir de revenir&rdquo; on <a href=\"https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/choisir-de-revenir-8769680\">www.radiofrance.fr/francecul&hellip;</a></p>\n",
+				"content_text": "Intéressante promenade qui me ramène a mes origines de campagnard atteri en ville comme un alien sur une planète inconnue, tellement de point commun sur la recherche de l'identité, sur le fait d'appartenir ou pas à où l'on vit. \n\n\"Le complexe rural 4/4 : Choisir de revenir\" on [www.radiofrance.fr/francecul...](https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/choisir-de-revenir-8769680) \n",
+				"date_published": "2023-06-01T17:44:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/01/intressante-promenade-qui.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/01/jaime-pas-du.html",
+				
+				"content_html": "<p>J&rsquo;aime pas du tout l&rsquo;utilisation du terme conscience dans le contexte de l&rsquo;IA, même l&rsquo;utilisation du terme &ldquo;conscience fonctionnelle&rdquo; encore moins phénomènale. En plein délire américain.</p>\n<p>&ldquo;Intelligence artificielle : en mon âme et conscience&rdquo; on <a href=\"https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/conscience-artificielle-4375043\">www.radiofrance.fr/francecul&hellip;</a> from @radiofrance</p>\n",
+				"content_text": "J'aime pas du tout l'utilisation du terme conscience dans le contexte de l'IA, même l'utilisation du terme \"conscience fonctionnelle\" encore moins phénomènale. En plein délire américain. \n\n\"Intelligence artificielle : en mon âme et conscience\" on [www.radiofrance.fr/francecul...](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/conscience-artificielle-4375043) from @radiofrance\n",
+				"date_published": "2023-06-01T16:29:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/01/jaime-pas-du.html",
+				"tags": ["AI"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/01/neat-rss-tool.html",
+				
+				"content_html": "<p>Neat #RSS tool to subscribe to Bluesky accounts from your feed reader. <a href=\"https://bluestream.deno.dev/\">bluestream.deno.dev</a></p>\n",
+				"content_text": "Neat #RSS tool to subscribe to Bluesky accounts from your feed reader. [bluestream.deno.dev](https://bluestream.deno.dev/)\n",
+				"date_published": "2023-06-01T15:04:50+02:00",
+				"url": "https://blog.rmendes.net/2023/06/01/neat-rss-tool.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/01/interesting-tool-to.html",
+				
+				"content_html": "<p>Interesting tool to construct Bluesky custom feeds : <a href=\"https://azul.raios.xyz\">azul.raios.xyz</a>, also interesting how you can explore who your mutuals blocks.</p>\n",
+				"content_text": "Interesting tool to construct Bluesky custom feeds : [azul.raios.xyz](https://azul.raios.xyz), also interesting how you can explore who your mutuals blocks. \n",
+				"date_published": "2023-06-01T10:46:07+02:00",
+				"url": "https://blog.rmendes.net/2023/06/01/interesting-tool-to.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/01/ai-killed-copyrights.html",
+				
+				"content_html": "<p>AI killed copyrights? It&rsquo;s not just in Japan, the entire industry is built on stolen valor but everyone is silent because &ldquo;too much at stake&rdquo;?</p>\n<p>Japan Goes All In: Copyright Doesn’t Apply To AI Training</p>\n<p><a href=\"https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/\">technomancers.ai/japan-goe&hellip;</a></p>\n",
+				"content_text": "AI killed copyrights? It's not just in Japan, the entire industry is built on stolen valor but everyone is silent because \"too much at stake\"? \n\nJapan Goes All In: Copyright Doesn’t Apply To AI Training\n\n[technomancers.ai/japan-goe...](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)\n",
+				"date_published": "2023-06-01T08:48:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/01/ai-killed-copyrights.html",
+				"tags": ["AI"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/01/soon-in-belgium.html",
+				
+				"content_html": "<p>Soon in Belgium and all across Europe?</p>\n<p>Authenticate an OpenPGP key with an eID card, now in Germany!</p>\n<p><a href=\"https://pgp.governikus.de/?lang=EN\">pgp.governikus.de</a></p>\n",
+				"content_text": "Soon in Belgium and all across Europe? \n\nAuthenticate an OpenPGP key with an eID card, now in Germany! \n\n[pgp.governikus.de](https://pgp.governikus.de/?lang=EN)\n",
+				"date_published": "2023-06-01T08:46:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/01/soon-in-belgium.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/05/31/assises-nationales-de.html",
+				
+				"content_html": "<p>Assises nationales de lutte contre les dérives sectaires - <a href=\"https://youtube.com/playlist?list=PLX3CQXaqcI-LCuSEVNB2F3Q-2y-yS5LFK\">Playlist Videos Youtube</a></p>\n",
+				"content_text": "Assises nationales de lutte contre les dérives sectaires - [Playlist Videos Youtube](https://youtube.com/playlist?list=PLX3CQXaqcI-LCuSEVNB2F3Q-2y-yS5LFK) \n",
+				"date_published": "2023-05-31T13:25:23+02:00",
+				"url": "https://blog.rmendes.net/2023/05/31/assises-nationales-de.html",
+				"tags": ["Videos"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/05/31/must-read-on.html",
+				
+				"content_html": "<p>Must read on #AI</p>\n<p>‘I do not think ethical surveillance can exist’: Rumman Chowdhury on accountability in AI</p>\n<p><a href=\"https://www.theguardian.com/technology/2023/may/29/rumman-chowdhury-interview-artificial-intelligence-accountability\">www.theguardian.com/technolog&hellip;</a></p>\n",
+				"content_text": "Must read on #AI\n\n‘I do not think ethical surveillance can exist’: Rumman Chowdhury on accountability in AI \n\n[www.theguardian.com/technolog...](https://www.theguardian.com/technology/2023/may/29/rumman-chowdhury-interview-artificial-intelligence-accountability)\n",
+				"date_published": "2023-05-31T09:00:00+02:00",
+				"url": "https://blog.rmendes.net/2023/05/31/must-read-on.html",
+				"tags": ["AI"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/05/31/neat-tutorial-selfhosting.html",
+				
+				"content_html": "<p>Neat tutorial!</p>\n<p>Self-hosting VSCode #opensource #selfhosting #vscode\n<a href=\"https://fribbledom.com/posts/selfhosting-vscode/\">fribbledom.com/posts/sel&hellip;</a></p>\n",
+				"content_text": "Neat tutorial! \n\nSelf-hosting VSCode #opensource #selfhosting #vscode \n[fribbledom.com/posts/sel...](https://fribbledom.com/posts/selfhosting-vscode/)\n",
+				"date_published": "2023-05-31T08:48:00+02:00",
+				"url": "https://blog.rmendes.net/2023/05/31/neat-tutorial-selfhosting.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/05/30/but-nothing-brought.html",
+				
+				"content_html": "<p>But nothing brought home the need for a Twitter alternative like last night’s disastrous launch of Florida Gov. Ron DeSantis’ presidential campaign. It was a mashup of everything wrong with Twitter: It featured “free speech absolutist” Musk cavorting with a literal fascist book burner, and the whole announcement went down in flames because of technical difficulties.</p>\n<p><a href=\"https://m.dailykos.com/stories/2023/5/26/2171355/-Twitter-competitors-are-coming-Here-s-what-might-be-next\">m.dailykos.com/stories/2&hellip;</a></p>\n",
+				"content_text": "But nothing brought home the need for a Twitter alternative like last night’s disastrous launch of Florida Gov. Ron DeSantis’ presidential campaign. It was a mashup of everything wrong with Twitter: It featured “free speech absolutist” Musk cavorting with a literal fascist book burner, and the whole announcement went down in flames because of technical difficulties. \n\n[m.dailykos.com/stories/2...](https://m.dailykos.com/stories/2023/5/26/2171355/-Twitter-competitors-are-coming-Here-s-what-might-be-next)\n",
+				"date_published": "2023-05-30T20:44:00+02:00",
+				"url": "https://blog.rmendes.net/2023/05/30/but-nothing-brought.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/05/30/ai-experts-journalists.html",
+				
+				"content_html": "<p>AI experts, journalists, policymakers, and the public are increasingly discussing a broad spectrum of important and urgent risks from AI. Even so, it can be difficult to voice concerns about some of advanced AI’s most severe risks. The succinct <a href=\"https://www.safe.ai/statement-on-ai-risk\">statement</a> below aims to overcome this obstacle and open up discussion.</p>\n",
+				"content_text": "AI experts, journalists, policymakers, and the public are increasingly discussing a broad spectrum of important and urgent risks from AI. Even so, it can be difficult to voice concerns about some of advanced AI’s most severe risks. The succinct [statement](https://www.safe.ai/statement-on-ai-risk) below aims to overcome this obstacle and open up discussion. \n\n\n\n",
+				"date_published": "2023-05-30T18:51:00+02:00",
+				"url": "https://blog.rmendes.net/2023/05/30/ai-experts-journalists.html",
+				"tags": ["Tech","AI"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/05/30/but-well-keep.html",
+				
+				"content_html": "<p>But we&rsquo;ll keep going exactly as it is because &ldquo;innovation&rdquo; is becoming a dogma pretty much like &ldquo;the markets&rdquo; above and beyond democracies &amp; people.</p>\n<p>AI presents &lsquo;risk of extinction&rsquo; on par with nuclear war, industry leaders say</p>\n<p><a href=\"https://ground.news/article/artificial-intelligence-could-lead-to-extinction-experts-warn_a4a450\">ground.news/article/a&hellip;</a></p>\n",
+				"content_text": "But we'll keep going exactly as it is because \"innovation\" is becoming a dogma pretty much like \"the markets\" above and beyond democracies & people. \n\nAI presents 'risk of extinction' on par with nuclear war, industry leaders say\n\n[ground.news/article/a...](https://ground.news/article/artificial-intelligence-could-lead-to-extinction-experts-warn_a4a450)\n",
+				"date_published": "2023-05-30T15:29:00+02:00",
+				"url": "https://blog.rmendes.net/2023/05/30/but-well-keep.html",
+				"tags": ["Tech","AI"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/05/29/je-taff-sur.html",
+				
+				"content_html": "<p>Je taff sur <a href=\"https://ChardonsBleus.org\">ChardonsBleus.org</a>\npour l&rsquo;instant c&rsquo;est vraiment un brouillon, mais wai je taf en &ldquo;live&rdquo;, ça change et ça va changer au fur et à mesure que j&rsquo;optimise le tout.</p>\n",
+				"content_text": "Je taff sur [ChardonsBleus.org](https://ChardonsBleus.org)\npour l'instant c'est vraiment un brouillon, mais wai je taf en \"live\", ça change et ça va changer au fur et à mesure que j'optimise le tout. \n",
+				"date_published": "2023-05-29T17:06:00+02:00",
+				"url": "https://blog.rmendes.net/2023/05/29/je-taff-sur.html",
+				"tags": ["OKCinfo"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/05/29/nice-summup-of.html",
+				
+				"content_html": "<p>Nice summup of the current moderation debate/situation across platforms.</p>\n<p>People make communities, not protocols.</p>\n<p>&ldquo;The only meaningful differences derive from the people who use the platforms, the community. That’s what Elon Musk has destroyed on Twitter. That’s what each of these would-be competitors needs to reconstitute.&rdquo;</p>\n<p><a href=\"https://jmberger.substack.com/p/content-moderation-is-the-product\">jmberger.substack.com/p/content&hellip;</a></p>\n",
+				"content_text": "Nice summup of the current moderation debate/situation across platforms. \n\nPeople make communities, not protocols.\n\n\"The only meaningful differences derive from the people who use the platforms, the community. That’s what Elon Musk has destroyed on Twitter. That’s what each of these would-be competitors needs to reconstitute.\"\n\n[jmberger.substack.com/p/content...](https://jmberger.substack.com/p/content-moderation-is-the-product)\n",
+				"date_published": "2023-05-29T17:03:00+02:00",
+				"url": "https://blog.rmendes.net/2023/05/29/nice-summup-of.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2023/05/29/heh-this-is.html",
 				
 				"content_html": "<p>Heh this is actually very cool!</p>\n<p>Open Source Virtual Background</p>\n<p><a href=\"https://elder.dev/posts/open-source-virtual-background/\">elder.dev/posts/ope&hellip;</a></p>\n",
@@ -267,7 +435,7 @@
 				"id": "http://rmdes.micro.blog/2023/05/23/adeptes-de-lemprise.html",
 				"title": "Adeptes, de l'emprise à la déprise - Dispo le 14-06",
 				"content_html": "<p>En matière de dérives sectaires, comment sort-on de l’emprise ? Entre vertigineuse solitude et renaissance, les bouleversants récits croisés de victimes qui témoignent de la descente aux enfers et de la lutte pour s’arracher à la sujétion.  <a href=\"https://www.arte.tv/fr/videos/110231-000-A/adeptes-de-l-emprise-a-la-deprise\">www.arte.tv/fr/videos&hellip;</a></p>\n<h2 id=\"impressions-à-chaud\">Impressions à chaud</h2>\n<p>Vraiment bouleversant ce docu ARTE, entendre tous ces témoins faire écho à tellement de chose vécues dans la OKC, par moi ou par d&rsquo;autres, tellement de mémoires d&rsquo;abus et situations inhumaines et tous ces mécanismes en commun à travers les différents systèmes.</p>\n<p>Les parties sur le travail en Justice me touchent particulièrement, d&rsquo;abord parce que j&rsquo;y suis en plein dedans tout en ayant un recul de 7 ans et tout en échangeant avec des survivantes qui ont 20 ans de recul sur la procédure..</p>\n<p>Je me dis qu&rsquo;on est pas encore au bout du tunnel</p>\n<p>Mais, comme depuis le début, au fond du tunnel je vois la lumière, même si je sais au fond de moi qu&rsquo;il y aura encore des tournants dans l&rsquo;obscurité, des moments où on pensera que c&rsquo;est impossible, qu&rsquo;on y arrivera pas, des moments où on devra s&rsquo;y faire à la capacité de la Justice de Faire Justice et pour que celle ci soit vue et perçue comme de La Justice par tous les spectateurs et témoins de cette histoire OKC, dont la majorité sont absent de cette histoire qui s&rsquo;écrit. (de par leur propre choix et non-choix)</p>\n<p>Mais je sais aussi qu&rsquo;on y arrivera .</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "En matière de dérives sectaires, comment sort-on de l’emprise ? Entre vertigineuse solitude et renaissance, les bouleversants récits croisés de victimes qui témoignent de la descente aux enfers et de la lutte pour s’arracher à la sujétion.  [www.arte.tv/fr/videos...](https://www.arte.tv/fr/videos/110231-000-A/adeptes-de-l-emprise-a-la-deprise)\r\n\r\n## Impressions à chaud \r\n\r\nVraiment bouleversant ce docu ARTE, entendre tous ces témoins faire écho à tellement de chose vécues dans la OKC, par moi ou par d'autres, tellement de mémoires d'abus et situations inhumaines et tous ces mécanismes en commun à travers les différents systèmes.\r\n\r\nLes parties sur le travail en Justice me touchent particulièrement, d'abord parce que j'y suis en plein dedans tout en ayant un recul de 7 ans et tout en échangeant avec des survivantes qui ont 20 ans de recul sur la procédure..\r\n\r\nJe me dis qu'on est pas encore au bout du tunnel\r\n\r\nMais, comme depuis le début, au fond du tunnel je vois la lumière, même si je sais au fond de moi qu'il y aura encore des tournants dans l'obscurité, des moments où on pensera que c'est impossible, qu'on y arrivera pas, des moments où on devra s'y faire à la capacité de la Justice de Faire Justice et pour que celle ci soit vue et perçue comme de La Justice par tous les spectateurs et témoins de cette histoire OKC, dont la majorité sont absent de cette histoire qui s'écrit. (de par leur propre choix et non-choix) \r\n\r\nMais je sais aussi qu'on y arrivera .\n\n<img src=\"https://blog.rmendes.net/uploads/2023/e6a1888de3.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "En matière de dérives sectaires, comment sort-on de l’emprise ? Entre vertigineuse solitude et renaissance, les bouleversants récits croisés de victimes qui témoignent de la descente aux enfers et de la lutte pour s’arracher à la sujétion.  [www.arte.tv/fr/videos...](https://www.arte.tv/fr/videos/110231-000-A/adeptes-de-l-emprise-a-la-deprise)\r\n\r\n## Impressions à chaud \r\n\r\nVraiment bouleversant ce docu ARTE, entendre tous ces témoins faire écho à tellement de chose vécues dans la OKC, par moi ou par d'autres, tellement de mémoires d'abus et situations inhumaines et tous ces mécanismes en commun à travers les différents systèmes.\r\n\r\nLes parties sur le travail en Justice me touchent particulièrement, d'abord parce que j'y suis en plein dedans tout en ayant un recul de 7 ans et tout en échangeant avec des survivantes qui ont 20 ans de recul sur la procédure..\r\n\r\nJe me dis qu'on est pas encore au bout du tunnel\r\n\r\nMais, comme depuis le début, au fond du tunnel je vois la lumière, même si je sais au fond de moi qu'il y aura encore des tournants dans l'obscurité, des moments où on pensera que c'est impossible, qu'on y arrivera pas, des moments où on devra s'y faire à la capacité de la Justice de Faire Justice et pour que celle ci soit vue et perçue comme de La Justice par tous les spectateurs et témoins de cette histoire OKC, dont la majorité sont absent de cette histoire qui s'écrit. (de par leur propre choix et non-choix) \r\n\r\nMais je sais aussi qu'on y arrivera .\n\n<img src=\"uploads/2023/e6a1888de3.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-23T19:30:57+02:00",
 				"url": "https://blog.rmendes.net/2023/05/23/adeptes-de-lemprise.html",
 				"tags": ["OKCinfo","Photos","DerivesSectaires"]
@@ -285,7 +453,7 @@
 				"id": "http://rmdes.micro.blog/2023/05/23/this-is-quite.html",
 				
 				"content_html": "<p>This is quite an amazing graph <a href=\"https://bsky.jazco.dev/\">bsky.jazco.dev</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is quite an amazing graph [bsky.jazco.dev](https://bsky.jazco.dev/)\n\n<img src=\"https://blog.rmendes.net/uploads/2023/e7ceb39516.png\" width=\"600\" height=\"407\" alt=\"\">\n",
+				"content_text": "This is quite an amazing graph [bsky.jazco.dev](https://bsky.jazco.dev/)\n\n<img src=\"uploads/2023/e7ceb39516.png\" width=\"600\" height=\"407\" alt=\"\">\n",
 				"date_published": "2023-05-23T18:39:00+02:00",
 				"url": "https://blog.rmendes.net/2023/05/23/this-is-quite.html",
 				"tags": ["Tech","Photos"]
