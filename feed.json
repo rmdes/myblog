@@ -7,6 +7,290 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2023/06/14/some-k-subreddits.html",
+				
+				"content_html": "<p>Some 2k subreddits have reopen their gates.. Votes are ongoing across many more to decide what to do.. Vote to strike indefinitely !</p>\n",
+				"content_text": "Some 2k subreddits have reopen their gates.. Votes are ongoing across many more to decide what to do.. Vote to strike indefinitely ! \n",
+				"date_published": "2023-06-14T16:22:19+02:00",
+				"url": "https://blog.rmendes.net/2023/06/14/some-k-subreddits.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/14/well-crossposting-to.html",
+				
+				"content_html": "<p>Well, cross-posting to #twitter is now gone from <a href=\"https://micro.blog\">micro.blog</a> <a href=\"%5Bmicro.blog%5D(https://micro.blog)/manton@mastodon.social\">@manton@mastodon.social</a></p>\n",
+				"content_text": "Well, cross-posting to #twitter is now gone from [micro.blog](https://micro.blog) [@manton@mastodon.social]([micro.blog](https://micro.blog)/manton@mastodon.social) \n",
+				"date_published": "2023-06-14T12:07:10+02:00",
+				"url": "https://blog.rmendes.net/2023/06/14/well-crossposting-to.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/14/hmmm-twitter-a.html",
+				
+				"content_html": "<p>Hmmm Twitter a encore tué une partie de l&rsquo;écosystème développeur, toute une série d&rsquo;application sont morte ces derniers jours.</p>\n",
+				"content_text": "Hmmm Twitter a encore tué une partie de l'écosystème développeur, toute une série d'application sont morte ces derniers jours. \n",
+				"date_published": "2023-06-14T11:37:40+02:00",
+				"url": "https://blog.rmendes.net/2023/06/14/hmmm-twitter-a.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/14/its-now-a.html",
+				
+				"content_html": "<p>It&rsquo;s now a thing, we have raining #plastic <a href=\"https://plasticforecast.com/\">plasticforecast.com</a></p>\n",
+				"content_text": "It's now a thing, we have raining #plastic [plasticforecast.com](https://plasticforecast.com/)\n",
+				"date_published": "2023-06-14T10:06:05+02:00",
+				"url": "https://blog.rmendes.net/2023/06/14/its-now-a.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/13/webinar-mitigating-ddos.html",
+				
+				"content_html": "<p>Webinar : Mitigating #DDOS in the #Fediverse with #Mastodon</p>\n<p><a href=\"https://learn.fastly.com/security-mitigating-ddos-and-traffic-surges-with-mastodon\">learn.fastly.com/security-&hellip;</a></p>\n",
+				"content_text": "Webinar : Mitigating #DDOS in the #Fediverse with #Mastodon\n\n[learn.fastly.com/security-...](https://learn.fastly.com/security-mitigating-ddos-and-traffic-surges-with-mastodon)\n",
+				"date_published": "2023-06-13T23:42:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/13/webinar-mitigating-ddos.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/13/elon-musk-investing.html",
+				
+				"content_html": "<p>Elon Musk investing on its own demise is so &ldquo;genius&rdquo; 😂</p>\n<p>Twitter Vendor Non-payment lawsuits cases.</p>\n<p><a href=\"https://www.plainsite.org/tags/twitter-vendor-nonpayment/\">www.plainsite.org/tags/twit&hellip;</a></p>\n",
+				"content_text": "Elon Musk investing on its own demise is so \"genius\" 😂\n\nTwitter Vendor Non-payment lawsuits cases. \n\n[www.plainsite.org/tags/twit...](https://www.plainsite.org/tags/twitter-vendor-nonpayment/)\n",
+				"date_published": "2023-06-13T23:35:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/13/elon-musk-investing.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/13/jcoute-lheure-bleue.html",
+				
+				"content_html": "<p>J&rsquo;écoute &ldquo;L&rsquo;Heure bleue&rdquo; sur Radio France, l&rsquo;histoire de Geneviève Fraisse, mai 68, fémininisme\n<a href=\"https://www.radiofrance.fr/franceinter/podcasts/l-heure-bleue\">www.radiofrance.fr/franceint&hellip;</a></p>\n",
+				"content_text": "J'écoute \"L'Heure bleue\" sur Radio France, l'histoire de Geneviève Fraisse, mai 68, fémininisme \n[www.radiofrance.fr/franceint...](https://www.radiofrance.fr/franceinter/podcasts/l-heure-bleue)\n",
+				"date_published": "2023-06-13T20:18:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/13/jcoute-lheure-bleue.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/13/les-pieds-dans.html",
+				
+				"content_html": "<p>Les pieds dans l&rsquo;eau&hellip; Et podcast dans les oreilles, manque plus que des bières et les amis 😊</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Les pieds dans l'eau... Et podcast dans les oreilles, manque plus que des bières et les amis 😊\n\n<img src=\"https://blog.rmendes.net/uploads/2023/4e712110c4.jpg\" width=\"450\" height=\"600\" alt=\"Vue sur la gare maritime \"><img src=\"https://blog.rmendes.net/uploads/2023/d799da8a17.jpg\" width=\"450\" height=\"600\" alt=\"Les pieds dans l'eau \"><img src=\"https://blog.rmendes.net/uploads/2023/a631f70c98.jpg\" width=\"600\" height=\"449\" alt=\"Gare maritime \">\n",
+				"date_published": "2023-06-13T19:27:26+02:00",
+				"url": "https://blog.rmendes.net/2023/06/13/les-pieds-dans.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/13/curious-to-check.html",
+				
+				"content_html": "<p>Curious to check the #penpot app for #cloudron one of the first apps with OpenID connect integration into the Cloudron ID provider</p>\n<p><a href=\"https://www.cloudron.io/store/app.penpot.cloudronapp.html\">www.cloudron.io/store/app&hellip;</a></p>\n",
+				"content_text": "Curious to check the #penpot app for #cloudron one of the first apps with OpenID connect integration into the Cloudron ID provider\n\n[www.cloudron.io/store/app...](https://www.cloudron.io/store/app.penpot.cloudronapp.html)\n",
+				"date_published": "2023-06-13T18:20:45+02:00",
+				"url": "https://blog.rmendes.net/2023/06/13/curious-to-check.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/13/finished-reading-cultish.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062993175\">Cultish: The Language of Fanaticism</a> by Amanda Montell 📚</p>\n",
+				"content_text": "Finished reading: [Cultish: The Language of Fanaticism](https://micro.blog/books/9780062993175) by Amanda Montell 📚\n",
+				"date_published": "2023-06-13T17:53:21+02:00",
+				"url": "https://blog.rmendes.net/2023/06/13/finished-reading-cultish.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/13/wireless-ear-clip.html",
+				"title": "Wireless Ear Clip Bone Conduction Headphones🎧",
+				"content_html": "<p>Finally got my Wireless Ear Clip Bone Conduction Headphones🎧 and I must say I&rsquo;m quite surprised, this is really cool, I can even run, they don&rsquo;t fall, I don&rsquo;t have to try to make them fit my ridiculously small ear hole that refuse any earbuds, yes even the smaller size&hellip; With this I get music and awareness of surrounding, it&rsquo;s really great!</p>\n",
+				"content_text": "Finally got my Wireless Ear Clip Bone Conduction Headphones🎧 and I must say I'm quite surprised, this is really cool, I can even run, they don't fall, I don't have to try to make them fit my ridiculously small ear hole that refuse any earbuds, yes even the smaller size... With this I get music and awareness of surrounding, it's really great! \n",
+				"date_published": "2023-06-13T17:47:46+02:00",
+				"url": "https://blog.rmendes.net/2023/06/13/wireless-ear-clip.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/13/amen-to-that.html",
+				"title": "Amen to that! Happens to me everyday and I forget \"it's not that simple\" ",
+				"content_html": "<p>&ldquo;Technical people are blind to the fact they automatically solve dozens of problems every day in their regular workflow, any single one big enough to block another user for a few hours. Without even thinking about it.&rdquo;</p>\n<p><a href=\"https://www.bitecode.dev/p/why-not-tell-people-to-simply-use\">www.bitecode.dev/p/why-not&hellip;</a></p>\n",
+				"content_text": "\n\"Technical people are blind to the fact they automatically solve dozens of problems every day in their regular workflow, any single one big enough to block another user for a few hours. Without even thinking about it.\"\n\n[www.bitecode.dev/p/why-not...](https://www.bitecode.dev/p/why-not-tell-people-to-simply-use)\n",
+				"date_published": "2023-06-13T15:43:25+02:00",
+				"url": "https://blog.rmendes.net/2023/06/13/amen-to-that.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/13/ready-to-resist.html",
+				
+				"content_html": "<p>Ready to resist #Youtube abuse of dominant position?</p>\n<p>Big Tech behaving like bullies.</p>\n<p>YouTube legal team asked Invidious developers to take down the service within 7 days</p>\n<p><a href=\"https://alternativeto.net/news/2023/6/youtube-legal-team-asked-invidious-developers-to-take-down-the-service-within-7-days/\">alternativeto.net/news/2023&hellip;</a></p>\n",
+				"content_text": "Ready to resist #Youtube abuse of dominant position? \n\nBig Tech behaving like bullies. \n\nYouTube legal team asked Invidious developers to take down the service within 7 days\n\n[alternativeto.net/news/2023...](https://alternativeto.net/news/2023/6/youtube-legal-team-asked-invidious-developers-to-take-down-the-service-within-7-days/)\n",
+				"date_published": "2023-06-13T11:05:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/13/ready-to-resist.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/13/hows-reddit-ceo.html",
+				
+				"content_html": "<p>How&rsquo;s #Reddit CEO having his coffee this morning? #RedditBlackout #RedditGoesDark</p>\n<p>8162/8725 subreddits are currently dark.</p>\n<p><a href=\"https://reddark.nextflow.cloud/\">reddark.nextflow.cloud</a></p>\n",
+				"content_text": "How's #Reddit CEO having his coffee this morning? #RedditBlackout #RedditGoesDark \n\n8162/8725 subreddits are currently dark.\n\n[reddark.nextflow.cloud](https://reddark.nextflow.cloud/)\n",
+				"date_published": "2023-06-13T09:50:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/13/hows-reddit-ceo.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/12/so-i-have.html",
+				
+				"content_html": "<p>So I have been cross-posting from my blog to Twitter, Mastodon, Bluesky, Nostr (granted I don&rsquo;t have the same number of followers on each) but the point is : where I get the most interactions is on the #fediverse. This is written from my micro.blog <a href=\"https://blog.rmendes.net\">blog.rmendes.net</a></p>\n",
+				"content_text": "So I have been cross-posting from my blog to Twitter, Mastodon, Bluesky, Nostr (granted I don't have the same number of followers on each) but the point is : where I get the most interactions is on the #fediverse. This is written from my micro.blog [blog.rmendes.net](https://blog.rmendes.net)\n",
+				"date_published": "2023-06-12T18:12:27+02:00",
+				"url": "https://blog.rmendes.net/2023/06/12/so-i-have.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/12/douard-durand-magistrat.html",
+				
+				"content_html": "<p>Édouard Durand, magistrat, coprésident de la commission indépendante sur l’inceste et les violences sexuelles dans l’enfance (Ciivise), révèle que les violences sexuelles faites aux enfants coûtent 9,7 milliards d&rsquo;euros par an.</p>\n<p><a href=\"https://youtube.com/watch?v=C-R4qTYumks\">youtube.com/watch</a></p>\n",
+				"content_text": "Édouard Durand, magistrat, coprésident de la commission indépendante sur l’inceste et les violences sexuelles dans l’enfance (Ciivise), révèle que les violences sexuelles faites aux enfants coûtent 9,7 milliards d'euros par an.\n\n[youtube.com/watch](https://youtube.com/watch?v=C-R4qTYumks)\n",
+				"date_published": "2023-06-12T17:56:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/12/douard-durand-magistrat.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/12/lemmy-communities-browser.html",
+				
+				"content_html": "<p>Lemmy Communities Browser, an attempt to map corresponding #reddit subs to their fediverse home.</p>\n<p><a href=\"https://browse.feddit.de/\">browse.feddit.de</a></p>\n",
+				"content_text": "Lemmy Communities Browser, an attempt to map corresponding #reddit subs to their fediverse home. \n\n[browse.feddit.de](https://browse.feddit.de/)\n",
+				"date_published": "2023-06-12T17:48:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/12/lemmy-communities-browser.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/12/more-than-subreddits.html",
+				
+				"content_html": "<p>More than 6,600 subreddits have gone dark to protest #Reddit API changes</p>\n<p>Many subreddits are going private from June 12th to June 14th in response to Reddit’s updated API pricing. Some indefinitely.\n<a href=\"https://www.theverge.com/2023/6/12/23755974/reddit-subreddits-going-dark-private-protest-api-changes\">www.theverge.com/2023/6/12&hellip;</a></p>\n",
+				"content_text": "More than 6,600 subreddits have gone dark to protest #Reddit API changes\n\nMany subreddits are going private from June 12th to June 14th in response to Reddit’s updated API pricing. Some indefinitely.\n[www.theverge.com/2023/6/12...](https://www.theverge.com/2023/6/12/23755974/reddit-subreddits-going-dark-private-protest-api-changes)\n",
+				"date_published": "2023-06-12T15:02:58+02:00",
+				"url": "https://blog.rmendes.net/2023/06/12/more-than-subreddits.html",
+				"tags": ["Social"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/12/yup-thats-a.html",
+				
+				"content_html": "<p>Yup that&rsquo;s a valid #bluesky invite\nFirst to get it, gets it!</p>\n<p>bsky-social-4hc2x-3goi3</p>\n",
+				"content_text": "Yup that's a valid #bluesky invite\nFirst to get it, gets it!\n\nbsky-social-4hc2x-3goi3\n",
+				"date_published": "2023-06-12T12:13:32+02:00",
+				"url": "https://blog.rmendes.net/2023/06/12/yup-thats-a.html",
+				"tags": ["Social"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/12/subreddits-are-currently.html",
+				
+				"content_html": "<p>5497/7047 subreddits are currently dark.</p>\n<p><a href=\"https://reddark.untone.uk/\">reddark.untone.uk</a></p>\n<p>#RedditBlackout #Reddit #GeneralStrike</p>\n",
+				"content_text": "5497/7047 subreddits are currently dark.\n\n[reddark.untone.uk](https://reddark.untone.uk/)\n\n#RedditBlackout #Reddit #GeneralStrike \n",
+				"date_published": "2023-06-12T09:36:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/12/subreddits-are-currently.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/12/at-this-point.html",
+				
+				"content_html": "<p>At this point 3140 reddit communities from a total of 6472 have gone dark and that&rsquo;s on top of the millions of people that will strike from using #reddit until the company grasp its reason to exist.</p>\n<p>Some subs will go further than just 12/13th #RedditBlackout</p>\n<p><a href=\"https://reddark.untone.uk/\">reddark.untone.uk</a></p>\n",
+				"content_text": "At this point 3140 reddit communities from a total of 6472 have gone dark and that's on top of the millions of people that will strike from using #reddit until the company grasp its reason to exist.\n\nSome subs will go further than just 12/13th #RedditBlackout\n\n[reddark.untone.uk](https://reddark.untone.uk/)\n",
+				"date_published": "2023-06-12T03:10:56+02:00",
+				"url": "https://blog.rmendes.net/2023/06/12/at-this-point.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/12/we-haz-power.html",
+				
+				"content_html": "<p>We haz POWER #RedditBlackout</p>\n",
+				"content_text": "We haz POWER #RedditBlackout \n",
+				"date_published": "2023-06-12T02:49:56+02:00",
+				"url": "https://blog.rmendes.net/2023/06/12/we-haz-power.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/12/the-reddit-blackout.html",
+				
+				"content_html": "<p>The 2023 #reddit blackout has started.</p>\n<p>Watch the number of communities participating Live data on the strike here <a href=\"https://www.twitch.tv/reddark_247\">www.twitch.tv/reddark_2&hellip;</a></p>\n",
+				"content_text": "The 2023 #reddit blackout has started. \n\nWatch the number of communities participating Live data on the strike here [www.twitch.tv/reddark_2...](https://www.twitch.tv/reddark_247)\n",
+				"date_published": "2023-06-12T02:29:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/12/the-reddit-blackout.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/11/handy-for-redditers.html",
+				
+				"content_html": "<p>Handy for Redditers exploring the threadiverse! #reddit</p>\n<p>Guide to Finding #Lemmy Communities (Subreddits) <a href=\"https://tech.michaelaltfield.net/2023/06/11/lemmy-migration-find-subreddits-communities/\">tech.michaelaltfield.net/2023/06/1&hellip;</a></p>\n",
+				"content_text": "Handy for Redditers exploring the threadiverse! #reddit \n\nGuide to Finding #Lemmy Communities (Subreddits) [tech.michaelaltfield.net/2023/06/1...](https://tech.michaelaltfield.net/2023/06/11/lemmy-migration-find-subreddits-communities/)\n",
+				"date_published": "2023-06-11T19:11:18+02:00",
+				"url": "https://blog.rmendes.net/2023/06/11/handy-for-redditers.html",
+				"tags": ["Social"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/11/is-there-a.html",
+				
+				"content_html": "<p>Is there a mobile #android app for <a href=\"https://kbin.social/\">kbin.social</a> ? #reddit #threadiverse</p>\n",
+				"content_text": "Is there a mobile #android app for [kbin.social](https://kbin.social/) ? #reddit #threadiverse \n",
+				"date_published": "2023-06-11T19:00:57+02:00",
+				"url": "https://blog.rmendes.net/2023/06/11/is-there-a.html",
+				"tags": ["Social"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/11/briefly-logged-on.html",
+				
+				"content_html": "<p>Briefly logged on Reddit, clicked on Hot, second post is pro nazi content protest in Florida. \nBecause you know, allowing and enabling nazi content is now &ldquo;freedom of speech&rdquo;</p>\n",
+				"content_text": "Briefly logged on Reddit, clicked on Hot, second post is pro nazi content protest in Florida. \r\nBecause you know, allowing and enabling nazi content is now \"freedom of speech\"\r\n",
+				"date_published": "2023-06-11T18:59:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/11/briefly-logged-on.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/11/on-my-reading.html",
+				
+				"content_html": "<p>On my reading list : Influence and Improvisation: Participatory Disinformation during the 2020 US Election <a href=\"https://journals.sagepub.com/doi/10.1177/20563051231177943\">journals.sagepub.com/doi/10.11&hellip;</a></p>\n",
+				"content_text": "On my reading list : Influence and Improvisation: Participatory Disinformation during the 2020 US Election [journals.sagepub.com/doi/10.11...](https://journals.sagepub.com/doi/10.1177/20563051231177943)\n",
+				"date_published": "2023-06-11T18:52:24+02:00",
+				"url": "https://blog.rmendes.net/2023/06/11/on-my-reading.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/11/what-the-fediverse.html",
+				"title": "What ? the fediverse is too much? too many instances, identities or tools ? check this out!",
+				"content_html": "<p>Looking for a way to handle many different fediverse tools such as mastodon, lemmy/kbin, pixelfed and what not all from one single place : <a href=\"https://ferdium.org/\">ferdium.org</a>\nUse Ferdium custom sources and prep it to have these different tools accessible in one shot, it&rsquo;s just much easier to manage the diversity of tools or instances you might want to try until you settle.</p>\n",
+				"content_text": "Looking for a way to handle many different fediverse tools such as mastodon, lemmy/kbin, pixelfed and what not all from one single place : [ferdium.org](https://ferdium.org/)\r\nUse Ferdium custom sources and prep it to have these different tools accessible in one shot, it's just much easier to manage the diversity of tools or instances you might want to try until you settle. \n",
+				"date_published": "2023-06-11T17:41:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/11/what-the-fediverse.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/11/they-twitter-reddit.html",
+				
+				"content_html": "<p>They (Twitter, Reddit, Facebook, Instagram &amp; the likes) wanted to own the Web and by doing so, they destroyed it and at the end, attempted to throw us in jail, in their jail.</p>\n<p>Another Social Federated Web is possible! It&rsquo;s inevitable!</p>\n",
+				"content_text": "They (Twitter, Reddit, Facebook, Instagram & the likes) wanted to own the Web and by doing so, they destroyed it and at the end, attempted to throw us in jail, in their jail.\r\n\r\nAnother Social Federated Web is possible! It's inevitable! \n",
+				"date_published": "2023-06-11T17:15:04+02:00",
+				"url": "https://blog.rmendes.net/2023/06/11/they-twitter-reddit.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/11/do-you-know.html",
+				
+				"content_html": "<p>Do you know how platforms like Twitter or Reddit are killing themselves by the choices they&rsquo;re doing?</p>\n<p>That&rsquo;s also happening to Democracies, both by choices being made and lack of actions being taken.</p>\n",
+				"content_text": "Do you know how platforms like Twitter or Reddit are killing themselves by the choices they're doing? \r\n\r\nThat's also happening to Democracies, both by choices being made and lack of actions being taken. \n",
+				"date_published": "2023-06-11T16:38:16+02:00",
+				"url": "https://blog.rmendes.net/2023/06/11/do-you-know.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/11/il-y-a.html",
+				
+				"content_html": "<p>Il y a plus de 20 ans je rêvais d&rsquo;une invention comme le Dubler 2, à l&rsquo;époque où je produisais de l&rsquo;electro/techno et autre downtempo trip hop dans ma cave au Portugal, aujourd&rsquo;hui c&rsquo;est possible 😍</p>\n<p><a href=\"https://vochlea.com/\">vochlea.com</a></p>\n",
+				"content_text": "Il y a plus de 20 ans je rêvais d'une invention comme le Dubler 2, à l'époque où je produisais de l'electro/techno et autre downtempo trip hop dans ma cave au Portugal, aujourd'hui c'est possible 😍\n\n[vochlea.com](https://vochlea.com/)\n",
+				"date_published": "2023-06-11T10:20:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/11/il-y-a.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/09/un-peu-de.html",
+				
+				"content_html": "<p>Un peu de fact-checking et quelques réflexions suite au documentaire “Bouddhisme, la loi du silence” et le débat qui le suivait sur la chaine LCP le 06/06/2023, sous le titre “Bouddhisme : la fin des dérives ?” #Debatdoc @jpgratien</p>\n<p><a href=\"https://hridayartha.blogspot.com/2023/06/bouddhisme-la-fin-des-derives-lcp.html?m=1\">Bouddhisme, la fin des dérives? </a></p>\n",
+				"content_text": "Un peu de fact-checking et quelques réflexions suite au documentaire “Bouddhisme, la loi du silence” et le débat qui le suivait sur la chaine LCP le 06/06/2023, sous le titre “Bouddhisme : la fin des dérives ?” #Debatdoc @jpgratien \n\n[Bouddhisme, la fin des dérives? ](https://hridayartha.blogspot.com/2023/06/bouddhisme-la-fin-des-derives-lcp.html?m=1)\n",
+				"date_published": "2023-06-09T15:37:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/09/un-peu-de.html",
+				"tags": ["OKCinfo","Dalai Lama","Tibetan Buddhism"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2023/06/09/podcast-dsinformation-et.html",
 				
 				"content_html": "<p>Podcast : Désinformation et &ldquo;lutte contre les fakenews&rdquo; à l&rsquo;échelle européenne\nC&rsquo;est qui Avisa Partners?</p>\n<p><a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85NWYzYzRjL3BvZGNhc3QvcnNz/episode/ZTBmMzdjMWY1ZDZlNWFiN2FkN2RkMmRiNWIzNzQ2YzkwZWRjOTljOA?ep=14\">podcasts.google.com/feed/aHR0&hellip;</a></p>\n",
@@ -113,58 +397,6 @@
 				"tags": ["Tech"]
 			},
 			{
-				"id": "http://rmdes.micro.blog/2023/06/03/codecompose-a-largescale.html",
-				
-				"content_html": "<p>CodeCompose: A Large-Scale Industrial Deployment of AI-assisted Code Authoring</p>\n<p><a href=\"https://arxiv.org/abs/2305.12050\">arxiv.org/abs/2305&hellip;.</a></p>\n",
-				"content_text": "CodeCompose: A Large-Scale Industrial Deployment of AI-assisted Code Authoring\n\n[arxiv.org/abs/2305....](https://arxiv.org/abs/2305.12050)\n",
-				"date_published": "2023-06-03T19:36:00+02:00",
-				"url": "https://blog.rmendes.net/2023/06/03/codecompose-a-largescale.html",
-				"tags": ["AI"]
-			},
-			{
-				"id": "http://rmdes.micro.blog/2023/06/03/testing-posting-from.html",
-				
-				"content_html": "<p>Testing posting from my blog to Twitter, Bluesky, Mastodon and Nostr</p>\n",
-				"content_text": "Testing posting from my blog to Twitter, Bluesky, Mastodon and Nostr\n",
-				"date_published": "2023-06-03T14:54:08+02:00",
-				"url": "https://blog.rmendes.net/2023/06/03/testing-posting-from.html"
-			},
-			{
-				"id": "http://rmdes.micro.blog/2023/06/02/bluesky-private-beta.html",
-				
-				"content_html": "<p>Bluesky Private Beta Update &amp; Roadmap\n<a href=\"https://blueskyweb.xyz/blog/6-02-2023-beta-update\">blueskyweb.xyz/blog/6-02&hellip;</a></p>\n",
-				"content_text": "Bluesky Private Beta Update & Roadmap\n[blueskyweb.xyz/blog/6-02...](https://blueskyweb.xyz/blog/6-02-2023-beta-update)\n",
-				"date_published": "2023-06-02T20:41:00+02:00",
-				"url": "https://blog.rmendes.net/2023/06/02/bluesky-private-beta.html",
-				"tags": ["Tech"]
-			},
-			{
-				"id": "http://rmdes.micro.blog/2023/06/02/great-read-and.html",
-				
-				"content_html": "<p>Great read and important to know!</p>\n<p>What Information is Public on #Bluesky?</p>\n<p>Last updated May 16th 2023\nFollow Eepy @ eepy.bsky.social\n<a href=\"https://write.as/lajpcs033np8qypv.md\">write.as/lajpcs033&hellip;</a></p>\n",
-				"content_text": "Great read and important to know! \n\nWhat Information is Public on #Bluesky?\n\nLast updated May 16th 2023\nFollow Eepy @ eepy.bsky.social\n[write.as/lajpcs033...](https://write.as/lajpcs033np8qypv.md)\n",
-				"date_published": "2023-06-02T20:31:00+02:00",
-				"url": "https://blog.rmendes.net/2023/06/02/great-read-and.html",
-				"tags": ["Tech"]
-			},
-			{
-				"id": "http://rmdes.micro.blog/2023/06/01/wow-this-comment.html",
-				
-				"content_html": "<p>Wow this comment thread 😅\nShow HN: I made CSS Pro, a re-imagined Devtools for web design</p>\n<p><a href=\"https://csspro.com\">csspro.com</a></p>\n<p><a href=\"https://news.ycombinator.com/item?id=36148807\">news.ycombinator.com/item</a></p>\n",
-				"content_text": "Wow this comment thread 😅\nShow HN: I made CSS Pro, a re-imagined Devtools for web design\n\n[csspro.com](https://csspro.com)\n\n[news.ycombinator.com/item](https://news.ycombinator.com/item?id=36148807)\n",
-				"date_published": "2023-06-01T19:24:00+02:00",
-				"url": "https://blog.rmendes.net/2023/06/01/wow-this-comment.html"
-			},
-			{
-				"id": "http://rmdes.micro.blog/2023/06/01/intressante-promenade-qui.html",
-				
-				"content_html": "<p>Intéressante promenade qui me ramène a mes origines de campagnard atteri en ville comme un alien sur une planète inconnue, tellement de point commun sur la recherche de l&rsquo;identité, sur le fait d&rsquo;appartenir ou pas à où l&rsquo;on vit.</p>\n<p>&ldquo;Le complexe rural 4/4 : Choisir de revenir&rdquo; on <a href=\"https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/choisir-de-revenir-8769680\">www.radiofrance.fr/francecul&hellip;</a></p>\n",
-				"content_text": "Intéressante promenade qui me ramène a mes origines de campagnard atteri en ville comme un alien sur une planète inconnue, tellement de point commun sur la recherche de l'identité, sur le fait d'appartenir ou pas à où l'on vit. \n\n\"Le complexe rural 4/4 : Choisir de revenir\" on [www.radiofrance.fr/francecul...](https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/choisir-de-revenir-8769680) \n",
-				"date_published": "2023-06-01T17:44:00+02:00",
-				"url": "https://blog.rmendes.net/2023/06/01/intressante-promenade-qui.html",
-				"tags": ["Thoughts"]
-			},
-			{
 				"id": "http://rmdes.micro.blog/2023/06/01/jaime-pas-du.html",
 				
 				"content_html": "<p>J&rsquo;aime pas du tout l&rsquo;utilisation du terme conscience dans le contexte de l&rsquo;IA, même l&rsquo;utilisation du terme &ldquo;conscience fonctionnelle&rdquo; encore moins phénomènale. En plein délire américain.</p>\n<p>&ldquo;Intelligence artificielle : en mon âme et conscience&rdquo; on <a href=\"https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/conscience-artificielle-4375043\">www.radiofrance.fr/francecul&hellip;</a> from @radiofrance</p>\n",
@@ -209,15 +441,6 @@
 				"tags": ["Tech"]
 			},
 			{
-				"id": "http://rmdes.micro.blog/2023/05/31/assises-nationales-de.html",
-				
-				"content_html": "<p>Assises nationales de lutte contre les dérives sectaires - <a href=\"https://youtube.com/playlist?list=PLX3CQXaqcI-LCuSEVNB2F3Q-2y-yS5LFK\">Playlist Videos Youtube</a></p>\n",
-				"content_text": "Assises nationales de lutte contre les dérives sectaires - [Playlist Videos Youtube](https://youtube.com/playlist?list=PLX3CQXaqcI-LCuSEVNB2F3Q-2y-yS5LFK) \n",
-				"date_published": "2023-05-31T13:25:23+02:00",
-				"url": "https://blog.rmendes.net/2023/05/31/assises-nationales-de.html",
-				"tags": ["Videos"]
-			},
-			{
 				"id": "http://rmdes.micro.blog/2023/05/31/must-read-on.html",
 				
 				"content_html": "<p>Must read on #AI</p>\n<p>‘I do not think ethical surveillance can exist’: Rumman Chowdhury on accountability in AI</p>\n<p><a href=\"https://www.theguardian.com/technology/2023/may/29/rumman-chowdhury-interview-artificial-intelligence-accountability\">www.theguardian.com/technolog&hellip;</a></p>\n",
@@ -254,6 +477,24 @@
 				"tags": ["Tech","AI"]
 			},
 			{
+				"id": "http://rmdes.micro.blog/2023/05/30/le-tabou-des.html",
+				"title": "Le tabou des violences sexuelles et le déni de l'épidémie en cours",
+				"content_html": "<p>Peut-être qu&rsquo;un jour, en parler à son entourage ne se limitera pas à un &ldquo;cassage de l&rsquo;ambiance&rdquo; mais plutôt une réelle prise de conscience, en tant que société.</p>\n<p>Et que c&rsquo;est de nos filles, sœurs, mères qu&rsquo;il s&rsquo;agit et que tant que ces violences resteront un cassage d&rsquo;ambiance, on aura pas la force en tant que société, de renverser la mécanique, de démanteler la prescription de ces crimes et de mettre l&rsquo;intérêt des victimes et de la société par dessus la sacro-sainte &ldquo;présomption d&rsquo;innocence&rdquo;.</p>\n<p>Point de vue en référence à l&rsquo;affaire OKC-Spatz <a href=\"https://okcinfo.news\">Contexte</a></p>\n<p><a href=\"https://www.vice.com/fr/article/jg5m4b/avec-les-travailleuses-du-cpvs-de-bruxelles?utm_source=vicefbbefr\">Les travailleuses du CPVS de Bruxelles ont des épaules en béton armé</a></p>\n",
+				"content_text": "Peut-être qu'un jour, en parler à son entourage ne se limitera pas à un \"cassage de l'ambiance\" mais plutôt une réelle prise de conscience, en tant que société. \n\nEt que c'est de nos filles, sœurs, mères qu'il s'agit et que tant que ces violences resteront un cassage d'ambiance, on aura pas la force en tant que société, de renverser la mécanique, de démanteler la prescription de ces crimes et de mettre l'intérêt des victimes et de la société par dessus la sacro-sainte \"présomption d'innocence\".\n\nPoint de vue en référence à l'affaire OKC-Spatz [Contexte](https://okcinfo.news)\n\n[Les travailleuses du CPVS de Bruxelles ont des épaules en béton armé](https://www.vice.com/fr/article/jg5m4b/avec-les-travailleuses-du-cpvs-de-bruxelles?utm_source=vicefbbefr)\n",
+				"date_published": "2023-05-30T18:22:54+02:00",
+				"url": "https://blog.rmendes.net/2023/05/30/le-tabou-des.html",
+				"tags": ["OKCinfo"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/05/30/must-read-shadow.html",
+				"title": "Must Read :  Shadow Network ",
+				"content_html": "<p>&ldquo;They tended to think of themselves as God&rsquo;s chosen people. Therefore, it was easy for them to combine politics, patriotism, and religion.&rdquo;</p>\n<p>2 hundreds years ago but replace Baptists by the MAGA, Evangelist, Alt-right, White-supremacist swarm and today&rsquo;s America is at a similar crossroads.</p>\n<p>Currently reading: <a href=\"https://micro.blog/books/9781635573206\">Shadow Network</a> by Anne Nelson 📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"They tended to think of themselves as God's chosen people. Therefore, it was easy for them to combine politics, patriotism, and religion.\" \r\n\r\n2 hundreds years ago but replace Baptists by the MAGA, Evangelist, Alt-right, White-supremacist swarm and today's America is at a similar crossroads. \r\n\r\nCurrently reading: [Shadow Network](https://micro.blog/books/9781635573206) by Anne Nelson 📚\n\n<img src=\"https://blog.rmendes.net/uploads/2023/e2cee9a8cc.jpg\" width=\"552\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-30T16:14:52+02:00",
+				"url": "https://blog.rmendes.net/2023/05/30/must-read-shadow.html",
+				"tags": ["Thoughts","Photos"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2023/05/30/but-well-keep.html",
 				
 				"content_html": "<p>But we&rsquo;ll keep going exactly as it is because &ldquo;innovation&rdquo; is becoming a dogma pretty much like &ldquo;the markets&rdquo; above and beyond democracies &amp; people.</p>\n<p>AI presents &lsquo;risk of extinction&rsquo; on par with nuclear war, industry leaders say</p>\n<p><a href=\"https://ground.news/article/artificial-intelligence-could-lead-to-extinction-experts-warn_a4a450\">ground.news/article/a&hellip;</a></p>\n",
@@ -270,15 +511,6 @@
 				"date_published": "2023-05-29T17:06:00+02:00",
 				"url": "https://blog.rmendes.net/2023/05/29/je-taff-sur.html",
 				"tags": ["OKCinfo"]
-			},
-			{
-				"id": "http://rmdes.micro.blog/2023/05/29/nice-summup-of.html",
-				
-				"content_html": "<p>Nice summup of the current moderation debate/situation across platforms.</p>\n<p>People make communities, not protocols.</p>\n<p>&ldquo;The only meaningful differences derive from the people who use the platforms, the community. That’s what Elon Musk has destroyed on Twitter. That’s what each of these would-be competitors needs to reconstitute.&rdquo;</p>\n<p><a href=\"https://jmberger.substack.com/p/content-moderation-is-the-product\">jmberger.substack.com/p/content&hellip;</a></p>\n",
-				"content_text": "Nice summup of the current moderation debate/situation across platforms. \n\nPeople make communities, not protocols.\n\n\"The only meaningful differences derive from the people who use the platforms, the community. That’s what Elon Musk has destroyed on Twitter. That’s what each of these would-be competitors needs to reconstitute.\"\n\n[jmberger.substack.com/p/content...](https://jmberger.substack.com/p/content-moderation-is-the-product)\n",
-				"date_published": "2023-05-29T17:03:00+02:00",
-				"url": "https://blog.rmendes.net/2023/05/29/nice-summup-of.html",
-				"tags": ["Tech"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/05/29/heh-this-is.html",
@@ -541,7 +773,7 @@
 				"id": "http://rmdes.micro.blog/2023/05/23/adeptes-de-lemprise.html",
 				"title": "Adeptes, de l'emprise à la déprise - Dispo le 14-06",
 				"content_html": "<p>En matière de dérives sectaires, comment sort-on de l’emprise ? Entre vertigineuse solitude et renaissance, les bouleversants récits croisés de victimes qui témoignent de la descente aux enfers et de la lutte pour s’arracher à la sujétion.  <a href=\"https://www.arte.tv/fr/videos/110231-000-A/adeptes-de-l-emprise-a-la-deprise\">www.arte.tv/fr/videos&hellip;</a></p>\n<h2 id=\"impressions-à-chaud\">Impressions à chaud</h2>\n<p>Vraiment bouleversant ce docu ARTE, entendre tous ces témoins faire écho à tellement de chose vécues dans la OKC, par moi ou par d&rsquo;autres, tellement de mémoires d&rsquo;abus et situations inhumaines et tous ces mécanismes en commun à travers les différents systèmes.</p>\n<p>Les parties sur le travail en Justice me touchent particulièrement, d&rsquo;abord parce que j&rsquo;y suis en plein dedans tout en ayant un recul de 7 ans et tout en échangeant avec des survivantes qui ont 20 ans de recul sur la procédure..</p>\n<p>Je me dis qu&rsquo;on est pas encore au bout du tunnel</p>\n<p>Mais, comme depuis le début, au fond du tunnel je vois la lumière, même si je sais au fond de moi qu&rsquo;il y aura encore des tournants dans l&rsquo;obscurité, des moments où on pensera que c&rsquo;est impossible, qu&rsquo;on y arrivera pas, des moments où on devra s&rsquo;y faire à la capacité de la Justice de Faire Justice et pour que celle ci soit vue et perçue comme de La Justice par tous les spectateurs et témoins de cette histoire OKC, dont la majorité sont absent de cette histoire qui s&rsquo;écrit. (de par leur propre choix et non-choix)</p>\n<p>Mais je sais aussi qu&rsquo;on y arrivera .</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "En matière de dérives sectaires, comment sort-on de l’emprise ? Entre vertigineuse solitude et renaissance, les bouleversants récits croisés de victimes qui témoignent de la descente aux enfers et de la lutte pour s’arracher à la sujétion.  [www.arte.tv/fr/videos...](https://www.arte.tv/fr/videos/110231-000-A/adeptes-de-l-emprise-a-la-deprise)\r\n\r\n## Impressions à chaud \r\n\r\nVraiment bouleversant ce docu ARTE, entendre tous ces témoins faire écho à tellement de chose vécues dans la OKC, par moi ou par d'autres, tellement de mémoires d'abus et situations inhumaines et tous ces mécanismes en commun à travers les différents systèmes.\r\n\r\nLes parties sur le travail en Justice me touchent particulièrement, d'abord parce que j'y suis en plein dedans tout en ayant un recul de 7 ans et tout en échangeant avec des survivantes qui ont 20 ans de recul sur la procédure..\r\n\r\nJe me dis qu'on est pas encore au bout du tunnel\r\n\r\nMais, comme depuis le début, au fond du tunnel je vois la lumière, même si je sais au fond de moi qu'il y aura encore des tournants dans l'obscurité, des moments où on pensera que c'est impossible, qu'on y arrivera pas, des moments où on devra s'y faire à la capacité de la Justice de Faire Justice et pour que celle ci soit vue et perçue comme de La Justice par tous les spectateurs et témoins de cette histoire OKC, dont la majorité sont absent de cette histoire qui s'écrit. (de par leur propre choix et non-choix) \r\n\r\nMais je sais aussi qu'on y arrivera .\n\n<img src=\"uploads/2023/e6a1888de3.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "En matière de dérives sectaires, comment sort-on de l’emprise ? Entre vertigineuse solitude et renaissance, les bouleversants récits croisés de victimes qui témoignent de la descente aux enfers et de la lutte pour s’arracher à la sujétion.  [www.arte.tv/fr/videos...](https://www.arte.tv/fr/videos/110231-000-A/adeptes-de-l-emprise-a-la-deprise)\r\n\r\n## Impressions à chaud \r\n\r\nVraiment bouleversant ce docu ARTE, entendre tous ces témoins faire écho à tellement de chose vécues dans la OKC, par moi ou par d'autres, tellement de mémoires d'abus et situations inhumaines et tous ces mécanismes en commun à travers les différents systèmes.\r\n\r\nLes parties sur le travail en Justice me touchent particulièrement, d'abord parce que j'y suis en plein dedans tout en ayant un recul de 7 ans et tout en échangeant avec des survivantes qui ont 20 ans de recul sur la procédure..\r\n\r\nJe me dis qu'on est pas encore au bout du tunnel\r\n\r\nMais, comme depuis le début, au fond du tunnel je vois la lumière, même si je sais au fond de moi qu'il y aura encore des tournants dans l'obscurité, des moments où on pensera que c'est impossible, qu'on y arrivera pas, des moments où on devra s'y faire à la capacité de la Justice de Faire Justice et pour que celle ci soit vue et perçue comme de La Justice par tous les spectateurs et témoins de cette histoire OKC, dont la majorité sont absent de cette histoire qui s'écrit. (de par leur propre choix et non-choix) \r\n\r\nMais je sais aussi qu'on y arrivera .\n\n<img src=\"https://blog.rmendes.net/uploads/2023/e6a1888de3.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-23T19:30:57+02:00",
 				"url": "https://blog.rmendes.net/2023/05/23/adeptes-de-lemprise.html",
 				"tags": ["OKCinfo","Photos","DerivesSectaires"]
@@ -559,7 +791,7 @@
 				"id": "http://rmdes.micro.blog/2023/05/23/this-is-quite.html",
 				
 				"content_html": "<p>This is quite an amazing graph <a href=\"https://bsky.jazco.dev/\">bsky.jazco.dev</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is quite an amazing graph [bsky.jazco.dev](https://bsky.jazco.dev/)\n\n<img src=\"uploads/2023/e7ceb39516.png\" width=\"600\" height=\"407\" alt=\"\">\n",
+				"content_text": "This is quite an amazing graph [bsky.jazco.dev](https://bsky.jazco.dev/)\n\n<img src=\"https://blog.rmendes.net/uploads/2023/e7ceb39516.png\" width=\"600\" height=\"407\" alt=\"\">\n",
 				"date_published": "2023-05-23T18:39:00+02:00",
 				"url": "https://blog.rmendes.net/2023/05/23/this-is-quite.html",
 				"tags": ["Tech","Photos"]
@@ -680,40 +912,6 @@
 				"date_published": "2023-05-21T12:51:43+02:00",
 				"url": "https://blog.rmendes.net/2023/05/21/book-extract-cultish.html",
 				"tags": ["Thoughts","Photos"]
-			},
-			{
-				"id": "http://rmdes.micro.blog/2023/05/21/years-later-the.html",
-				
-				"content_html": "<p>40 years later&hellip;\nThe MIDI 2.0 code for the Linux kernel is now under review and if all goes well could potentially be mainlined for the v6.5 cycle this summer.</p>\n<p><a href=\"https://www.phoronix.com/news/MIDI-2.0-Linux-Kernel-Patches\">www.phoronix.com/news/MIDI&hellip;</a></p>\n",
-				"content_text": "40 years later... \nThe MIDI 2.0 code for the Linux kernel is now under review and if all goes well could potentially be mainlined for the v6.5 cycle this summer.\n\n[www.phoronix.com/news/MIDI...](https://www.phoronix.com/news/MIDI-2.0-Linux-Kernel-Patches)\n",
-				"date_published": "2023-05-21T08:37:00+02:00",
-				"url": "https://blog.rmendes.net/2023/05/21/years-later-the.html"
-			},
-			{
-				"id": "http://rmdes.micro.blog/2023/05/21/interesting-read-just.html",
-				
-				"content_html": "<p>Interesting read : Just Calm Down About GPT-4 Already</p>\n<p>And stop confusing performance with competence, says Rodney Brooks</p>\n<p>“It gives an answer with complete confidence, and I sort of believe it. And half the time, it’s completely wrong.”\n—Rodney Brooks, Robust.AI <a href=\"https://spectrum.ieee.org/gpt-4-calm-down\">spectrum.ieee.org/gpt-4-cal&hellip;</a></p>\n",
-				"content_text": "Interesting read : Just Calm Down About GPT-4 Already\n\nAnd stop confusing performance with competence, says Rodney Brooks\n\n“It gives an answer with complete confidence, and I sort of believe it. And half the time, it’s completely wrong.”\n—Rodney Brooks, Robust.AI [spectrum.ieee.org/gpt-4-cal...](https://spectrum.ieee.org/gpt-4-calm-down)\n",
-				"date_published": "2023-05-21T06:42:00+02:00",
-				"url": "https://blog.rmendes.net/2023/05/21/interesting-read-just.html",
-				"tags": ["Tech","AI"]
-			},
-			{
-				"id": "http://rmdes.micro.blog/2023/05/20/its-like-our.html",
-				
-				"content_html": "<p>It&rsquo;s like our specie is discovering fire on demand all over again&hellip; #AI <a href=\"https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html\">www.atomic14.com/2023/05/1&hellip;</a></p>\n",
-				"content_text": "It's like our specie is discovering fire on demand all over again... #AI [www.atomic14.com/2023/05/1...](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)\n",
-				"date_published": "2023-05-20T23:08:00+02:00",
-				"url": "https://blog.rmendes.net/2023/05/20/its-like-our.html",
-				"tags": ["Tech","AI"]
-			},
-			{
-				"id": "http://rmdes.micro.blog/2023/05/20/chatthis-httpsgithubcomsimplexchatsimplexchat-is.html",
-				
-				"content_html": "<p>#chatThis <a href=\"https://github.com/simplex-chat/simplex-chat\">github.com/simplex-c&hellip;</a> is REALLY an impressive and mature alternative to signal that allows you to gather people without exchanging phone numbers, it&rsquo;s also possible to self-hosted the relay and the ICE turn server 🥳 #simplex  #chat</p>\n",
-				"content_text": "#chatThis [github.com/simplex-c...](https://github.com/simplex-chat/simplex-chat) is REALLY an impressive and mature alternative to signal that allows you to gather people without exchanging phone numbers, it's also possible to self-hosted the relay and the ICE turn server 🥳 #simplex  #chat\n",
-				"date_published": "2023-05-20T22:22:49+02:00",
-				"url": "https://blog.rmendes.net/2023/05/20/chatthis-httpsgithubcomsimplexchatsimplexchat-is.html"
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/05/20/huh-this-is.html",
