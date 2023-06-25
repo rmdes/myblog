@@ -7,10 +7,207 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2023/06/25/another-interesting-markdown.html",
+				
+				"content_html": "<p>Another interesting #markdown note taking / diary open-source app.</p>\n<p><a href=\"https://writedown.app/\">writedown.app</a></p>\n",
+				"content_text": "Another interesting #markdown note taking / diary open-source app. \n\n[writedown.app](https://writedown.app/)\n",
+				"date_published": "2023-06-25T11:43:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/25/another-interesting-markdown.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/24/putin-live-in.html",
+				
+				"content_html": "<p>#Putin live, in a situation where he is forced to do a speech to pretend he is still in control <a href=\"https://www.youtube.com/live/f_lovLXj6KA?feature=share\">www.youtube.com/live/f_lo&hellip;</a></p>\n",
+				"content_text": "#Putin live, in a situation where he is forced to do a speech to pretend he is still in control [www.youtube.com/live/f_lo...](https://www.youtube.com/live/f_lovLXj6KA?feature=share)\n",
+				"date_published": "2023-06-24T09:03:43+02:00",
+				"url": "https://blog.rmendes.net/2023/06/24/putin-live-in.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/23/must-read-project.html",
+				
+				"content_html": "<p>Must Read!</p>\n<p>#Project92 and the #Fediverse - A Smarter Battle Plan to Protect the Open Social Web</p>\n<p><a href=\"https://www.timothychambers.net/2023/06/23/project-and-the.html\">www.timothychambers.net/2023/06/2&hellip;</a></p>\n",
+				"content_text": "Must Read! \n\n#Project92 and the #Fediverse - A Smarter Battle Plan to Protect the Open Social Web\n\n[www.timothychambers.net/2023/06/2...](https://www.timothychambers.net/2023/06/23/project-and-the.html)\n",
+				"date_published": "2023-06-23T18:53:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/23/must-read-project.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/23/il-y-a.html",
+				
+				"content_html": "<p>Il y a 3 ans&hellip; 8 mois de procès #okcinfo, 8 mois a écouter des avocats déblatérer des &ldquo;arguments&rdquo; inouïs, vide de fond, des mensonges, des fabrications de pièces déposées pour servir la cause d&rsquo;un pédocriminel.</p>\n<p>On a pas encore terminé le taf.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Il y a 3 ans... 8 mois de procès #okcinfo, 8 mois a écouter des avocats déblatérer des \"arguments\" inouïs, vide de fond, des mensonges, des fabrications de pièces déposées pour servir la cause d'un pédocriminel.\n\nOn a pas encore terminé le taf. \n\n<img src=\"uploads/2023/dbafdc4bcb.jpg\" width=\"333\" height=\"600\" alt=\"Photo de moi à la cour de Liège, avec un masque Covid-19 \"><img src=\"uploads/2023/187459d27a.jpg\" width=\"336\" height=\"600\" alt=\"Photo de moi à la cour de Liège, avec un masque Covid-19 \"><img src=\"uploads/2023/fd372e20e5.jpg\" width=\"336\" height=\"600\" alt=\"Photo de moi à la cour de Liège, avec un masque Covid-19 \">\n",
+				"date_published": "2023-06-23T17:37:50+02:00",
+				"url": "https://blog.rmendes.net/2023/06/23/il-y-a.html",
+				"tags": ["OKCinfo","Photos"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/23/i-read-this.html",
+				
+				"content_html": "<p>I read this some 20 years ago : <a href=\"https://micro.blog/books/9780441788385\">Stranger in a Strange Land</a> by Robert A. Heinlein 📚 and I find it fascinating how much I missed parts of it, I also noticed how it influenced me, how I took upon myself to learn and &ldquo;grok&rdquo; to discover the world, well, part of it at least :)</p>\n",
+				"content_text": "I read this some 20 years ago : [Stranger in a Strange Land](https://micro.blog/books/9780441788385) by Robert A. Heinlein 📚 and I find it fascinating how much I missed parts of it, I also noticed how it influenced me, how I took upon myself to learn and \"grok\" to discover the world, well, part of it at least :)\n",
+				"date_published": "2023-06-23T13:39:50+02:00",
+				"url": "https://blog.rmendes.net/2023/06/23/i-read-this.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/23/investigation-a-ship.html",
+				
+				"content_html": "<p>Investigation,\nA ship apart: The making of a wreck</p>\n<p><a href=\"https://mada36.appspot.com/www.madamasr.com/en/2023/06/22/feature/politics/a-ship-apart-the-making-of-a-wreck/\">mada36.appspot.com/www.madam&hellip;</a></p>\n",
+				"content_text": "Investigation, \nA ship apart: The making of a wreck\n\n\n[mada36.appspot.com/www.madam...](https://mada36.appspot.com/www.madamasr.com/en/2023/06/22/feature/politics/a-ship-apart-the-making-of-a-wreck/)\n",
+				"date_published": "2023-06-23T13:12:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/23/investigation-a-ship.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/23/operation-socialistthe-inside.html",
+				
+				"content_html": "<p>Operation Socialist\nThe Inside Story of How British Spies Hacked Belgium’s Largest Telco\n<a href=\"https://theintercept.com/2014/12/13/belgacom-hack-gchq-inside-story/\">theintercept.com/2014/12/1&hellip;</a></p>\n",
+				"content_text": "Operation Socialist\r\nThe Inside Story of How British Spies Hacked Belgium’s Largest Telco\r\n[theintercept.com/2014/12/1...](https://theintercept.com/2014/12/13/belgacom-hack-gchq-inside-story/)\n",
+				"date_published": "2023-06-23T11:03:02+02:00",
+				"url": "https://blog.rmendes.net/2023/06/23/operation-socialistthe-inside.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/23/a-fishing-boat.html",
+				
+				"content_html": "<p>A fishing boat crowded with migrants traveling from Libya to Italy sank in Greek waters last week. While hundreds are still missing and feared dead, it has garnered far less attention and resources than the Titan rescue efforts for five people.</p>\n<p><a href=\"https://www.nbcnews.com/news/world/syria-migrants-boat-sinking-titanic-submersive-missing-rcna90336\">www.nbcnews.com/news/worl&hellip;</a></p>\n",
+				"content_text": "A fishing boat crowded with migrants traveling from Libya to Italy sank in Greek waters last week. While hundreds are still missing and feared dead, it has garnered far less attention and resources than the Titan rescue efforts for five people.\n\n[www.nbcnews.com/news/worl...](https://www.nbcnews.com/news/world/syria-migrants-boat-sinking-titanic-submersive-missing-rcna90336)\n",
+				"date_published": "2023-06-23T08:59:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/23/a-fishing-boat.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/23/i-keep-thinking.html",
+				
+				"content_html": "<p>I keep thinking about the 700 #Refugees boat Greece, Italy, Europe allowed and enabled to drown days ago.</p>\n<p>Top Secret U.S. Navy System Detected Titan Implosion Days Ago</p>\n<p><a href=\"https://ground.news/article/top-secret-us-navy-system-detected-titan-implosion-days-ago_bf9f32\">ground.news/article/t&hellip;</a></p>\n",
+				"content_text": "I keep thinking about the 700 #Refugees boat Greece, Italy, Europe allowed and enabled to drown days ago. \n\nTop Secret U.S. Navy System Detected Titan Implosion Days Ago\n\n[ground.news/article/t...](https://ground.news/article/top-secret-us-navy-system-detected-titan-implosion-days-ago_bf9f32)\n",
+				"date_published": "2023-06-23T01:34:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/23/i-keep-thinking.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/23/thinking-about-hacker.html",
+				"title": "What if HackerNews got into the ActivityPub bandwagon ? ",
+				"content_html": "<p>Thinking about Hacker News but sprinkled with #activitypub</p>\n<ul>\n<li>imagine being able to reply and participate in any #HN post from the #fediverse and with #webmentions have fediverse comments mingled with native HN activity.</li>\n</ul>\n<p>Nodebb Discourse + Lemmy #kbin and we shift the balance back in the open web.</p>\n",
+				"content_text": "Thinking about Hacker News but sprinkled with #activitypub\n\n- imagine being able to reply and participate in any #HN post from the #fediverse and with #webmentions have fediverse comments mingled with native HN activity.\n\nNodebb Discourse + Lemmy #kbin and we shift the balance back in the open web. \n",
+				"date_published": "2023-06-23T01:30:35+02:00",
+				"url": "https://blog.rmendes.net/2023/06/23/thinking-about-hacker.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/23/the-triumph-movie.html",
+				"title": "The Triumph movie, a review. ",
+				"content_html": "<p>so much emotions while watching this movie, scenes of of violence that triggers very bad memories and harsh realities of parenting that I never knew but in my own way suffered for their radical absence.</p>\n<p>It&rsquo;s really awkward for me to think about my own education environment (born inside a toxic <a href=\"https://okcinfo.news/en\">cult</a> ) with elemtary teachers that were average, some were very bad, It was a very closed environment like only coercive communities can be, it&rsquo;s a paradox that we were at the same time neglected but also sparred from our own parents only to be violented by strangers that were to be considered &ldquo;the family&rdquo;.</p>\n<p>I wish I&rsquo;d had the chance to have teachers like mister Clark, if it&rsquo;s true that many from my generation and after mine managed to survive than thrive for some, the reality is that, 20 years later, the holes in education, in opportunities, in capacities are well present and vivid for some more than others.</p>\n<p>Education is so important, with the right combination of humanity and luck it can produce miracles and literally changes lives.</p>\n<p>It&rsquo;s radically beautiful to learn about The Ron Clark Story - <a href=\"https://en.wikipedia.org/wiki/The_Ron_Clark_Story\">Wikipedia</a></p>\n<p>So much dedication and courage, so much giving to extract kids from their environmental misery, poverty of education, poverty of parenting in some cases.</p>\n<p>It&rsquo;s a powerful movie. The kind of movie that makes you want to teach and help other kids grow beyond their environment to become their true potential.</p>\n<p><a href=\"https://youtu.be/fR05_ngoltM\">The Triumph</a></p>\n",
+				"content_text": "so much emotions while watching this movie, scenes of of violence that triggers very bad memories and harsh realities of parenting that I never knew but in my own way suffered for their radical absence. \n\nIt's really awkward for me to think about my own education environment (born inside a toxic [cult](https://okcinfo.news/en) ) with elemtary teachers that were average, some were very bad, It was a very closed environment like only coercive communities can be, it's a paradox that we were at the same time neglected but also sparred from our own parents only to be violented by strangers that were to be considered \"the family\".\n\nI wish I'd had the chance to have teachers like mister Clark, if it's true that many from my generation and after mine managed to survive than thrive for some, the reality is that, 20 years later, the holes in education, in opportunities, in capacities are well present and vivid for some more than others.\n\nEducation is so important, with the right combination of humanity and luck it can produce miracles and literally changes lives. \n\nIt's radically beautiful to learn about The Ron Clark Story - [Wikipedia](https://en.wikipedia.org/wiki/The_Ron_Clark_Story) \n\nSo much dedication and courage, so much giving to extract kids from their environmental misery, poverty of education, poverty of parenting in some cases. \n\nIt's a powerful movie. The kind of movie that makes you want to teach and help other kids grow beyond their environment to become their true potential. \n\n[The Triumph](https://youtu.be/fR05_ngoltM)\n\n\n\n\n",
+				"date_published": "2023-06-23T00:47:51+02:00",
+				"url": "https://blog.rmendes.net/2023/06/23/the-triumph-movie.html",
+				"tags": ["OKCinfo","Videos"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/22/lucky-canadians-billc.html",
+				
+				"content_html": "<p>Lucky Canadians #BillC18</p>\n<p>Canadians will no longer have access to news content on #Facebook and #Instagram, #Meta says</p>\n<p><a href=\"https://ground.news/article/canadians-will-no-longer-have-access-to-news-content-on-facebook-and-instagram-meta-says_aa2c82\">ground.news/article/c&hellip;</a></p>\n",
+				"content_text": "Lucky Canadians #BillC18\n\nCanadians will no longer have access to news content on #Facebook and #Instagram, #Meta says\n\n[ground.news/article/c...](https://ground.news/article/canadians-will-no-longer-have-access-to-news-content-on-facebook-and-instagram-meta-says_aa2c82)\n",
+				"date_published": "2023-06-22T23:26:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/22/lucky-canadians-billc.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/22/there-are-still.html",
+				
+				"content_html": "<p>There are still 30% of the 8k #reddit subs that pledged to go dark ongoing #RedditBlackout</p>\n<p>This might be the base that won&rsquo;t move no matter what reddit does.</p>\n<p>And apparently, Reddit is willing to die for lies and &ldquo;becoming an adult&rdquo;</p>\n",
+				"content_text": "There are still 30% of the 8k #reddit subs that pledged to go dark ongoing #RedditBlackout\n\nThis might be the base that won't move no matter what reddit does.\n\nAnd apparently, Reddit is willing to die for lies and \"becoming an adult\" \n",
+				"date_published": "2023-06-22T17:46:58+02:00",
+				"url": "https://blog.rmendes.net/2023/06/22/there-are-still.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/22/must-read-investigation.html",
+				
+				"content_html": "<p>Must Read Investigation :\n#Facebook Hustles: The Hidden Mechanics of a #Scam Machinery Impersonating News Organisations and Creators #Meta</p>\n<p><a href=\"https://checkfirst.network/facebook-hustles-the-hidden-mechanics-of-a-scam-machinery-impersonating-news-organisations-and-creators/\">checkfirst.network/facebook-&hellip;</a></p>\n",
+				"content_text": "Must Read Investigation : \n#Facebook Hustles: The Hidden Mechanics of a #Scam Machinery Impersonating News Organisations and Creators #Meta\n\n[checkfirst.network/facebook-...](https://checkfirst.network/facebook-hustles-the-hidden-mechanics-of-a-scam-machinery-impersonating-news-organisations-and-creators/)\n",
+				"date_published": "2023-06-22T10:39:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/22/must-read-investigation.html",
+				"tags": ["Tech","News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/21/soulvement-de-la.html",
+				"title": "Soulèvement de la Terre, une énième tentative d'étouffer la réalité. ",
+				"content_html": "<p>Quand une démocratie dégénérative se retrouve à faire des Listes pour dissoudre un ensemble d&rsquo;associations de faits en utilisant la loi #separatisme, conçue exprès pour démembrer la contestation social en utilisant le terrorisme pour criminaliser des mouvements sociaux, c&rsquo;est la fin des haricots.</p>\n<p>Ça ne peut que partir en dérive sectaire politique.</p>\n<p>La France des Lumières se mue chaque jour un peu plus en France des ténèbres tout en organisant un théâtre sécuritaire et répressif pour manipuler &ldquo;l&rsquo;opinion publique&rdquo;, elle même otage d&rsquo;une concentration de média jamais autant monopolisée, histoire de faire le même coup qui s&rsquo;est fait sur #NDDL depuis 50 ans : stigmatiser et jeter le discrédit sur des luttes dont la forme nous divise (ou pas) mais des luttes et des actions nécessaires face à la paralysie organisée et intentionelle qui caractérise les actions des gouvernements depuis&hellip; Au mois 28 ans #COP28</p>\n<p>28 ans c&rsquo;est énorme, surtout si l&rsquo;on compte que pendant ce temps, les acteurs principaux de cette saga se sont fait des milliards sur les crises successives tout en délestant le poid de la dette, de l&rsquo;inflation, des crises sur les populations, on se retrouve de facto face à une brisure de contrat social qui était déjà en cours depuis 20 ans, sauf que maintenant elle est assumée, frontale, brutale, violente et axée sur une répression qui met la France (et d&rsquo;autres démocraties dégénératives) sur la sombre pente de dérives sectaires politiques qui ne peuvent mener qu&rsquo;à des jours sombres et des voies non-démocratiques.</p>\n<p>Trop facile de jouer sur &ldquo;la majorité&rdquo; qui préfère cuire à feu doux dans la marmite d&rsquo;eau qui chauffe comme des crapauds endormis par la température qui monte pour criminaliser celleux qui se lèvent pour dire Non, pour dire ça suffit, pour dire qu&rsquo;il ne suffit plus de promettre des sornettes pour se laisser gouverner et par la déléguer nos futurs à des gens, dit élu, qui n&rsquo;ont plus rien de représentatif, que ce soit dans leurs actes, leurs modes de vies,  leurs mots et certainement pas les lois passées pour réprimer la désobéissance civile grandissante qui émerge face à des démocraties en dénis, plongées dans l&rsquo;ivresse d&rsquo;une fuite technologique vers l&rsquo;abîme qui soit disant résoudrait tous les problèmes qu&rsquo;elle engendre.</p>\n<p>Ça c&rsquo;était il y a 30 ans, aujourd&rsquo;hui le verre est vide, asséché par les choix et les non-choix qui ont été les notre, individuellement et collectivement.</p>\n<p>Dissoudre les Soulèvements de la Terre ? Vraiment? Criminaliser les luttes sociales climatiques, c&rsquo;est la même dérive que la criminalisation des droits humains et sociaux qui les ont précédé et qui ont donné à l&rsquo;époque d&rsquo;aujourd&rsquo;hui, ses droits et ses avancées sociales qu&rsquo;elle oublie trop souvent.</p>\n<p>Nos enfants nous accuseront, oui et ils auront raison. L&rsquo;histoire donnera raison aux Soulèvements de la Terre, pas a Macron, ni à Darmanin, ni à leur copie en bleu pâle qu&rsquo;ont vont inévitablement émerger en Belgique et ailleurs, jusqu&rsquo;à ce que #DontLookUp soit le présent et que la fiction rejoigne la réalité. On est pas obligé d&rsquo;attendre.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Quand une démocratie dégénérative se retrouve à faire des Listes pour dissoudre un ensemble d'associations de faits en utilisant la loi #separatisme, conçue exprès pour démembrer la contestation social en utilisant le terrorisme pour criminaliser des mouvements sociaux, c'est la fin des haricots.\n\nÇa ne peut que partir en dérive sectaire politique.\n\nLa France des Lumières se mue chaque jour un peu plus en France des ténèbres tout en organisant un théâtre sécuritaire et répressif pour manipuler \"l'opinion publique\", elle même otage d'une concentration de média jamais autant monopolisée, histoire de faire le même coup qui s'est fait sur #NDDL depuis 50 ans : stigmatiser et jeter le discrédit sur des luttes dont la forme nous divise (ou pas) mais des luttes et des actions nécessaires face à la paralysie organisée et intentionelle qui caractérise les actions des gouvernements depuis... Au mois 28 ans #COP28\n\n28 ans c'est énorme, surtout si l'on compte que pendant ce temps, les acteurs principaux de cette saga se sont fait des milliards sur les crises successives tout en délestant le poid de la dette, de l'inflation, des crises sur les populations, on se retrouve de facto face à une brisure de contrat social qui était déjà en cours depuis 20 ans, sauf que maintenant elle est assumée, frontale, brutale, violente et axée sur une répression qui met la France (et d'autres démocraties dégénératives) sur la sombre pente de dérives sectaires politiques qui ne peuvent mener qu'à des jours sombres et des voies non-démocratiques.\n\nTrop facile de jouer sur \"la majorité\" qui préfère cuire à feu doux dans la marmite d'eau qui chauffe comme des crapauds endormis par la température qui monte pour criminaliser celleux qui se lèvent pour dire Non, pour dire ça suffit, pour dire qu'il ne suffit plus de promettre des sornettes pour se laisser gouverner et par la déléguer nos futurs à des gens, dit élu, qui n'ont plus rien de représentatif, que ce soit dans leurs actes, leurs modes de vies,  leurs mots et certainement pas les lois passées pour réprimer la désobéissance civile grandissante qui émerge face à des démocraties en dénis, plongées dans l'ivresse d'une fuite technologique vers l'abîme qui soit disant résoudrait tous les problèmes qu'elle engendre.\n\n\nÇa c'était il y a 30 ans, aujourd'hui le verre est vide, asséché par les choix et les non-choix qui ont été les notre, individuellement et collectivement.\n\nDissoudre les Soulèvements de la Terre ? Vraiment? Criminaliser les luttes sociales climatiques, c'est la même dérive que la criminalisation des droits humains et sociaux qui les ont précédé et qui ont donné à l'époque d'aujourd'hui, ses droits et ses avancées sociales qu'elle oublie trop souvent.\n\nNos enfants nous accuseront, oui et ils auront raison. L'histoire donnera raison aux Soulèvements de la Terre, pas a Macron, ni à Darmanin, ni à leur copie en bleu pâle qu'ont vont inévitablement émerger en Belgique et ailleurs, jusqu'à ce que #DontLookUp soit le présent et que la fiction rejoigne la réalité. On est pas obligé d'attendre. \n\n<img src=\"https://blog.rmendes.net/uploads/2023/b9c16a0972.jpg\" width=\"600\" height=\"300\" alt=\"La ruine d'un futur qu'on a raté en étant obnubilé par une dystopie sans nom. \">\n",
+				"date_published": "2023-06-21T19:44:35+02:00",
+				"url": "https://blog.rmendes.net/2023/06/21/soulvement-de-la.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/21/great-read-devops.html",
+				
+				"content_html": "<p>Great read! #devops</p>\n<p>&ldquo;If we want to keep the cultural improvements we’ve gained and realize the full potential of what we can accomplish together, we need a second wave of DevOps tools.&rdquo;\n<a href=\"https://www.systeminit.com/blog-second-wave-devops/\">www.systeminit.com/blog-seco&hellip;</a></p>\n",
+				"content_text": "Great read! #devops \n\n\"If we want to keep the cultural improvements we’ve gained and realize the full potential of what we can accomplish together, we need a second wave of DevOps tools.\"\n[www.systeminit.com/blog-seco...](https://www.systeminit.com/blog-second-wave-devops/)\n",
+				"date_published": "2023-06-21T18:32:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/21/great-read-devops.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/20/style-your-rss.html",
+				
+				"content_html": "<p>Style your RSS feed by Darek Kay\n<a href=\"https://darekkay.com/blog/rss-styling/\">darekkay.com/blog/rss-&hellip;</a></p>\n",
+				"content_text": "\nStyle your RSS feed by Darek Kay\n[darekkay.com/blog/rss-...](https://darekkay.com/blog/rss-styling/)\n",
+				"date_published": "2023-06-20T17:40:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/20/style-your-rss.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/20/twitter-directly-hurting.html",
+				"title": "Twitter directly hurting research in several fields at once. Who benefit from this? ",
+				"content_html": "<p>Twitter’s recent decision under new owner Elon Musk to charge more than $500,000 annually for a once-free tool to analyze posts on the platform is hampering disinformation and war crimes research, and could slow rescue efforts during natural disasters, according to experts and nonprofit groups.</p>\n<p><a href=\"https://archive.is/20230620112440/https://www.washingtonpost.com/technology/2023/06/20/twitter-policy-elon-musk-api/\">archive.is/202306201&hellip;</a></p>\n",
+				"content_text": "Twitter’s recent decision under new owner Elon Musk to charge more than $500,000 annually for a once-free tool to analyze posts on the platform is hampering disinformation and war crimes research, and could slow rescue efforts during natural disasters, according to experts and nonprofit groups.\n\n[archive.is/202306201...](https://archive.is/20230620112440/https://www.washingtonpost.com/technology/2023/06/20/twitter-policy-elon-musk-api/)\n",
+				"date_published": "2023-06-20T13:57:29+02:00",
+				"url": "https://blog.rmendes.net/2023/06/20/twitter-directly-hurting.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/20/this-is-pure.html",
+				
+				"content_html": "<p>This is pure madness &amp; evil</p>\n<p>#Putin orders creation of psychiatric institute to “study the behavior of #LGBT people”, Russian health minister warns of &ldquo;suicides across the country&rdquo; <a href=\"https://beehaw.org/post/653983\">beehaw.org/post/6539&hellip;</a></p>\n",
+				"content_text": "This is pure madness & evil \n\n#Putin orders creation of psychiatric institute to “study the behavior of #LGBT people”, Russian health minister warns of \"suicides across the country\" [beehaw.org/post/6539...](https://beehaw.org/post/653983)\n",
+				"date_published": "2023-06-20T13:49:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/20/this-is-pure.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/20/eventually-well-need.html",
+				
+				"content_html": "<p>Eventually, we&rsquo;ll need to think #IndieAuth and separate identity from &ldquo;social media&rdquo;?</p>\n<p>Like owning your own domain to login Anywhere?</p>\n<p><a href=\"https://plug-world.com/posts/the-federated-app-problem/\">plug-world.com/posts/the&hellip;</a></p>\n",
+				"content_text": "Eventually, we'll need to think #IndieAuth and separate identity from \"social media\"? \n\nLike owning your own domain to login Anywhere? \n\n[plug-world.com/posts/the...](https://plug-world.com/posts/the-federated-app-problem/)\n",
+				"date_published": "2023-06-20T11:29:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/20/eventually-well-need.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/19/bad-signal-hongkong.html",
+				
+				"content_html": "<p>Bad signal.. Hong-Kong is being assimilated, next is Taiwan?</p>\n<p>Blinken says US &lsquo;does not support Taiwan independence&rsquo; during China visit</p>\n<p><a href=\"https://ground.news/article/us-do-not-support-taiwans-independence-but-warns-against-chinas-provocation_5a1ad3\">ground.news/article/u&hellip;</a></p>\n",
+				"content_text": "Bad signal.. Hong-Kong is being assimilated, next is Taiwan? \n\nBlinken says US 'does not support Taiwan independence' during China visit\n\n[ground.news/article/u...](https://ground.news/article/us-do-not-support-taiwans-independence-but-warns-against-chinas-provocation_5a1ad3)\n",
+				"date_published": "2023-06-19T22:37:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/19/bad-signal-hongkong.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/19/would-be-quite.html",
+				
+				"content_html": "<p>Would be quite neat to have an RSS feed from the #microblog bookmark page&hellip;</p>\n<p>Maybe that&rsquo;s included in the Premium <a href=\"https://micro.blog/manton\">@manton</a> ?</p>\n<p>I want to be able cross-post my Bookmarks, using the title+link\nI use N8N but without RSS it&rsquo;s a bit more pain to play this out :)</p>\n",
+				"content_text": "Would be quite neat to have an RSS feed from the #microblog bookmark page...\r\n\r\nMaybe that's included in the Premium [@manton](https://micro.blog/manton) ?\r\n\r\nI want to be able cross-post my Bookmarks, using the title+link\r\nI use N8N but without RSS it's a bit more pain to play this out :) \n",
+				"date_published": "2023-06-19T18:14:09+02:00",
+				"url": "https://blog.rmendes.net/2023/06/19/would-be-quite.html",
+				"tags": ["Random"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2023/06/19/get-ready-to.html",
 				"title": "Get ready to quit #Reddit but keep an eye on specific Users or Subs while the Exode is taking place with RSS",
 				"content_html": "<p>Let&rsquo;s say you want to keep an eye on Reddit, without using the Reddit app and without having to login to Reddit, the solution is RSS feeds.</p>\n<h2 id=\"rss-feed-for-a-subreddit\">RSS feed for a Subreddit</h2>\n<p>The RSS feed for a subreddit can be accessed using the following URL format:</p>\n<p><code>https://www.reddit.com/r/[subreddit name]/.rss</code></p>\n<p>Just replace [subreddit name] with the name of the subreddit you want to monitor. For example, if you wanted to get the RSS feed for the subreddit &ldquo;news&rdquo;, you would use the following URL:</p>\n<p><code>https://www.reddit.com/r/news/.rss</code></p>\n<p>This URL will give you an XML document that you can feed into an RSS reader to receive updates about new posts in the subreddit.</p>\n<h2 id=\"posts-of-a-particular-user\">Posts of a particular user</h2>\n<p>The RSS feed for a Reddit user&rsquo;s posts can be accessed using the following URL format:</p>\n<p><code>https://www.reddit.com/user/[username]/.rss</code></p>\n<p>Simply replace <code>[username]</code> with the actual Reddit username. For example, for the Reddit CEO, whose username is &ldquo;spez​&rdquo;, the RSS feed for his posts would be:</p>\n<p><code>https://www.reddit.com/user/spez​/.rss</code></p>\n<p>Please note that Reddit must have RSS feeds enabled for this to work. Also, the user&rsquo;s posts must be public. If the user&rsquo;s posts are private or if Reddit has disabled RSS feeds, this URL will not return an RSS feed.</p>\n<h2 id=\"track-the-comments-of-the-same-user\">Track the comments of the same user</h2>\n<p>The RSS feed for a Reddit user&rsquo;s <strong>comments</strong> can be accessed using the following URL format:</p>\n<p><code>https://www.reddit.com/user/spez/comments/.rss</code></p>\n<p>Just replace <code>[username]</code> with the actual Reddit username. So, Huffman, whose username is &ldquo;spez​&rdquo;, the RSS feed for his comments would be:</p>\n<p><code>https://www.reddit.com/user/spez​/comments/.rss</code></p>\n<p>Again, this will only work if Reddit has RSS feeds enabled and if the user&rsquo;s comments are public.</p>\n<h2 id=\"rss-feed-readers\">RSS Feed Readers</h2>\n<p>Yes, that&rsquo;s still a thing ! I have been using it since&hellip;2003 !!</p>\n<p>Check out this <a href=\"https://alternativeto.net/category/books--news/rss-feed-reader/\">page</a> to find one for iOs, Android, Linux or Windows</p>\n<p>My preference are divided in two kinds :</p>\n<h3 id=\"self-hosted\">Self-Hosted</h3>\n<ul>\n<li>FreshRSS (my choice)</li>\n<li>Tiny Tiny RSS (advanced features)</li>\n<li>Miniflux (minimal)</li>\n</ul>\n<h3 id=\"web-based-services\">Web based services</h3>\n<ul>\n<li>Inoreader (my choice, advanced features)</li>\n<li>Feedly</li>\n</ul>\n<p>Since I&rsquo;m on Android I use <strong>FeedMe</strong> to connect to my self-hosted <strong>FreshRSS</strong> instance and If I need to use <strong>Inoreader</strong>, I use the Inoreader android app.</p>\n<h2 id=\"how-to-find-the-rss-feed-of-any-particular-website-\">How to find the RSS feed of any particular website ?</h2>\n<p>This website has all you need to know : <a href=\"https://openrss.org/blog\">https://openrss.org/blog</a></p>\n<p>My own approach is to use <a href=\"https://nodetics.com/feedbro/\">Feedbro</a> with Feedbro you can install the extension on your browser and if there is an RSS feed wherever you are on the web, you&rsquo;ll be able to find it without having to memorize how RSS works and how to get it, Feedbro will find it for you !</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\r\n\r\nLet's say you want to keep an eye on Reddit, without using the Reddit app and without having to login to Reddit, the solution is RSS feeds.\r\n\r\n## RSS feed for a Subreddit\r\n\r\nThe RSS feed for a subreddit can be accessed using the following URL format:\r\n\r\n`https://www.reddit.com/r/[subreddit name]/.rss`\r\n\r\nJust replace [subreddit name] with the name of the subreddit you want to monitor. For example, if you wanted to get the RSS feed for the subreddit \"news\", you would use the following URL:\r\n\r\n`https://www.reddit.com/r/news/.rss`\r\n\r\nThis URL will give you an XML document that you can feed into an RSS reader to receive updates about new posts in the subreddit.\r\n\r\n## Posts of a particular user\r\n\r\nThe RSS feed for a Reddit user's posts can be accessed using the following URL format:\r\n\r\n`https://www.reddit.com/user/[username]/.rss`\r\n\r\nSimply replace `[username]` with the actual Reddit username. For example, for the Reddit CEO, whose username is \"spez​\", the RSS feed for his posts would be:\r\n\r\n`https://www.reddit.com/user/spez​/.rss`\r\n\r\nPlease note that Reddit must have RSS feeds enabled for this to work. Also, the user's posts must be public. If the user's posts are private or if Reddit has disabled RSS feeds, this URL will not return an RSS feed.\r\n\r\n## Track the comments of the same user\r\n\r\nThe RSS feed for a Reddit user's **comments** can be accessed using the following URL format:\r\n\r\n`https://www.reddit.com/user/spez/comments/.rss`\r\n\r\nJust replace `[username]` with the actual Reddit username. So, Huffman, whose username is \"spez​\", the RSS feed for his comments would be:\r\n\r\n`https://www.reddit.com/user/spez​/comments/.rss`\r\n\r\nAgain, this will only work if Reddit has RSS feeds enabled and if the user's comments are public.\r\n\r\n## RSS Feed Readers\r\n\r\nYes, that's still a thing ! I have been using it since...2003 !!\r\n\r\nCheck out this [page](https://alternativeto.net/category/books--news/rss-feed-reader/\r\n) to find one for iOs, Android, Linux or Windows\r\n\r\nMy preference are divided in two kinds : \r\n\r\n### Self-Hosted \r\n- FreshRSS (my choice)\r\n- Tiny Tiny RSS (advanced features)\r\n- Miniflux (minimal)\r\n\r\n### Web based services\r\n- Inoreader (my choice, advanced features)\r\n- Feedly\r\n\r\nSince I'm on Android I use **FeedMe** to connect to my self-hosted **FreshRSS** instance and If I need to use **Inoreader**, I use the Inoreader android app. \r\n\r\n## How to find the RSS feed of any particular website ? \r\n\r\nThis website has all you need to know : https://openrss.org/blog\r\n\r\nMy own approach is to use [Feedbro](https://nodetics.com/feedbro/) with Feedbro you can install the extension on your browser and if there is an RSS feed wherever you are on the web, you'll be able to find it without having to memorize how RSS works and how to get it, Feedbro will find it for you !\n\n<img src=\"uploads/2023/rmdes-digital-art-wide-angle-shot-reddit-user-disg\" width=\"600\" height=\"300\" alt=\"\">\n",
+				"content_text": "\r\n\r\nLet's say you want to keep an eye on Reddit, without using the Reddit app and without having to login to Reddit, the solution is RSS feeds.\r\n\r\n## RSS feed for a Subreddit\r\n\r\nThe RSS feed for a subreddit can be accessed using the following URL format:\r\n\r\n`https://www.reddit.com/r/[subreddit name]/.rss`\r\n\r\nJust replace [subreddit name] with the name of the subreddit you want to monitor. For example, if you wanted to get the RSS feed for the subreddit \"news\", you would use the following URL:\r\n\r\n`https://www.reddit.com/r/news/.rss`\r\n\r\nThis URL will give you an XML document that you can feed into an RSS reader to receive updates about new posts in the subreddit.\r\n\r\n## Posts of a particular user\r\n\r\nThe RSS feed for a Reddit user's posts can be accessed using the following URL format:\r\n\r\n`https://www.reddit.com/user/[username]/.rss`\r\n\r\nSimply replace `[username]` with the actual Reddit username. For example, for the Reddit CEO, whose username is \"spez​\", the RSS feed for his posts would be:\r\n\r\n`https://www.reddit.com/user/spez​/.rss`\r\n\r\nPlease note that Reddit must have RSS feeds enabled for this to work. Also, the user's posts must be public. If the user's posts are private or if Reddit has disabled RSS feeds, this URL will not return an RSS feed.\r\n\r\n## Track the comments of the same user\r\n\r\nThe RSS feed for a Reddit user's **comments** can be accessed using the following URL format:\r\n\r\n`https://www.reddit.com/user/spez/comments/.rss`\r\n\r\nJust replace `[username]` with the actual Reddit username. So, Huffman, whose username is \"spez​\", the RSS feed for his comments would be:\r\n\r\n`https://www.reddit.com/user/spez​/comments/.rss`\r\n\r\nAgain, this will only work if Reddit has RSS feeds enabled and if the user's comments are public.\r\n\r\n## RSS Feed Readers\r\n\r\nYes, that's still a thing ! I have been using it since...2003 !!\r\n\r\nCheck out this [page](https://alternativeto.net/category/books--news/rss-feed-reader/\r\n) to find one for iOs, Android, Linux or Windows\r\n\r\nMy preference are divided in two kinds : \r\n\r\n### Self-Hosted \r\n- FreshRSS (my choice)\r\n- Tiny Tiny RSS (advanced features)\r\n- Miniflux (minimal)\r\n\r\n### Web based services\r\n- Inoreader (my choice, advanced features)\r\n- Feedly\r\n\r\nSince I'm on Android I use **FeedMe** to connect to my self-hosted **FreshRSS** instance and If I need to use **Inoreader**, I use the Inoreader android app. \r\n\r\n## How to find the RSS feed of any particular website ? \r\n\r\nThis website has all you need to know : https://openrss.org/blog\r\n\r\nMy own approach is to use [Feedbro](https://nodetics.com/feedbro/) with Feedbro you can install the extension on your browser and if there is an RSS feed wherever you are on the web, you'll be able to find it without having to memorize how RSS works and how to get it, Feedbro will find it for you !\n\n<img src=\"https://blog.rmendes.net/uploads/2023/rmdes-digital-art-wide-angle-shot-reddit-user-disg\" width=\"600\" height=\"300\" alt=\"\">\n",
 				"date_published": "2023-06-19T17:16:02+02:00",
 				"url": "https://blog.rmendes.net/2023/06/19/get-ready-to.html",
 				"tags": ["Tech","Photos"]
