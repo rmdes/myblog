@@ -7,6 +7,166 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2023/07/05/damn-activitypub-solid.html",
+				
+				"content_html": "<p>Damn,</p>\n<p>ActivityPub + Solid = ActivityPod\n<a href=\"https://activitypods.org\">activitypods.org</a></p>\n<p>This has a huge potential to streamline our abilities to use different fediverse apps with the same identity&hellip;</p>\n",
+				"content_text": "Damn, \r\n\r\nActivityPub + Solid = ActivityPod\r\n[activitypods.org](https://activitypods.org)\r\n\r\nThis has a huge potential to streamline our abilities to use different fediverse apps with the same identity...\n",
+				"date_published": "2023-07-05T13:56:18+02:00",
+				"url": "https://blog.rmendes.net/2023/07/05/damn-activitypub-solid.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/05/russia-terrorist-state.html",
+				
+				"content_html": "<p>Russia Terrorist State says 700,000 children from #Ukraine conflict zones now in RusZZia</p>\n<p><a href=\"https://www.reuters.com/world/europe/moscow-says-700000-children-ukraine-conflict-zones-now-russia-2023-07-03/\">www.reuters.com/world/eur&hellip;</a></p>\n",
+				"content_text": "Russia Terrorist State says 700,000 children from #Ukraine conflict zones now in RusZZia\n\n[www.reuters.com/world/eur...](https://www.reuters.com/world/europe/moscow-says-700000-children-ukraine-conflict-zones-now-russia-2023-07-03/)\n",
+				"date_published": "2023-07-05T00:58:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/05/russia-terrorist-state.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/04/tweetdeck-will-be.html",
+				"title": "Tweetdeck will be behind bars in 30 days. ",
+				"content_html": "<p>And now the veteran Tweetdeck is going behind Blue &ldquo;Verified&rdquo; jail in less than 30 days.. It&rsquo;s really great how Musk keeps destroying #Twitter</p>\n<p>More people for the fediverse, like it or not, but this has been the best catalyzer to move people away from big tech.</p>\n<p>Yes Meta will retain some of the bleeding, it&rsquo;s unavoidable! Better than Musk anyway. At this stage, everything should be done to empty Twitter.</p>\n",
+				"content_text": "And now the veteran Tweetdeck is going behind Blue \"Verified\" jail in less than 30 days.. It's really great how Musk keeps destroying #Twitter\n\nMore people for the fediverse, like it or not, but this has been the best catalyzer to move people away from big tech.\n\nYes Meta will retain some of the bleeding, it's unavoidable! Better than Musk anyway. At this stage, everything should be done to empty Twitter. \n",
+				"date_published": "2023-07-04T11:05:53+02:00",
+				"url": "https://blog.rmendes.net/2023/07/04/tweetdeck-will-be.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/03/just-take-a.html",
+				
+				"content_html": "<p>Just take a moment to think about the gazillions websites across the planet containing embedded tweets or Twitter lists, that since today are broken or display a big blue &ldquo;view on Twitter&rdquo; button instead of the tweet.</p>\n<p>How wrong is that?</p>\n",
+				"content_text": "Just take a moment to think about the gazillions websites across the planet containing embedded tweets or Twitter lists, that since today are broken or display a big blue \"view on Twitter\" button instead of the tweet.\n\nHow wrong is that? \n",
+				"date_published": "2023-07-03T16:44:59+02:00",
+				"url": "https://blog.rmendes.net/2023/07/03/just-take-a.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/03/amigalive-play-amiga.html",
+				
+				"content_html": "<p>AmigaLive :\nPlay #Amiga games online with people across the world!</p>\n<p><a href=\"https://www.amigalive.com/\">www.amigalive.com</a></p>\n",
+				"content_text": "\nAmigaLive :\nPlay #Amiga games online with people across the world!\n\n[www.amigalive.com](https://www.amigalive.com/)\n",
+				"date_published": "2023-07-03T10:13:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/03/amigalive-play-amiga.html",
+				"tags": ["Games"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/02/meute-en-france.html",
+				"title": "Émeute en France, déni d'une société en péril. ",
+				"content_html": "<p>Je crache ce texte en mode un peu coup de gueule sur ce qui tourne en loop sur quelques médias, quelques chaînes de TV et quelques &ldquo;personnalités politiques&rdquo; qui se la joue &ldquo;bon père de famille&rdquo;, sans parler d&rsquo;un certain syndicats neofasciste près à partir en guerre pour instrumentaliser la séquence à des fins politiques, bref, à gerber.</p>\n<p>Moi ça me fait bien sarcasmer cette histoire qui se raconte en France  dans les médias depuis quelques jours&hellip; que les émeutes c&rsquo;est la faute des parents qui ne savent pas tenir leurs ados.</p>\n<p>Qui n&rsquo;a pas été adolescents ?</p>\n<p>C&rsquo;est absurde de voir toutes ces chaînes de TV tergiverser sur le rôle des parents alors que le FOND du problème il est radicalement ailleurs.</p>\n<p>On dirait une réaction épidermique d&rsquo;un système avec des relents où le rôle des parents qui sont complètement explosé (de travail, de stress, de manque de temps, de manque de vivre) justement par, en partie le dit système et au lieu de regarder le problème de fond, c&rsquo;est à dire les fondations du dit système, tous ces fanfarons en mode &ldquo;bon père de famille&rdquo; viennent faire la morale à des milliers de famille comme des gueux patriarches qui sur le fond viennent dire : &ldquo;on ne touche à rien, cette fois ci on a dépassé le point de la théorie de la pomme pourrie okay, mais attention, on ne touche à rien, ce qu&rsquo;il nous faut c&rsquo;est une bête de somme, une cible pour déverser la faute originale, une raison d&rsquo;être qui n&rsquo;en est pas une pour éviter d&rsquo;enlever les œillères et éviter à tout prix, à n&rsquo;importe quel prix même de remettre les choses en question, le fond en question.&rdquo;</p>\n<p>L&rsquo;entre ligne du discours il est là.</p>\n<p>Franchement ça vaut bien un mai 68, un ras-le-bol profond et généralisé qui met carte sur table et qui permet au présent de faire irruption dans le réel, plutôt que cette dérive en déni qui recycle les mêmes theories qu&rsquo;on entend depuis les années 80 (jeux vidéo, drogues, parents et réseaux sociaux devenu l&rsquo;érégie de tous les problèmes de sociétés) qui ne sont que des excuses pour ne pas voir et comprendre le fond.</p>\n<p>Franchement c&rsquo;est pitoyable, parce que le problème, c&rsquo;est que oui, la vague va se tasser, les gens vont se résigner et petit à petit, c&rsquo;est chaque épisode qui devient pire, jusqu&rsquo;au moment de bascule où tout part en vrille, pas a cause de petit jeunes qui en ont marre, non, à cause d&rsquo;un système en déni qii face à chacune de ses révoltes, se regarde dans le miroir et se dit : quoi, moi, mais non !</p>\n<p>À force de brûler la corde, il n&rsquo;y aura plus d&rsquo;eau du bain à ne pas jeter avec le bébé.</p>\n",
+				"content_text": "Je crache ce texte en mode un peu coup de gueule sur ce qui tourne en loop sur quelques médias, quelques chaînes de TV et quelques \"personnalités politiques\" qui se la joue \"bon père de famille\", sans parler d'un certain syndicats neofasciste près à partir en guerre pour instrumentaliser la séquence à des fins politiques, bref, à gerber. \r\n\r\nMoi ça me fait bien sarcasmer cette histoire qui se raconte en France  dans les médias depuis quelques jours... que les émeutes c'est la faute des parents qui ne savent pas tenir leurs ados.\r\n\r\nQui n'a pas été adolescents ? \r\n\r\nC'est absurde de voir toutes ces chaînes de TV tergiverser sur le rôle des parents alors que le FOND du problème il est radicalement ailleurs.\r\n\r\nOn dirait une réaction épidermique d'un système avec des relents où le rôle des parents qui sont complètement explosé (de travail, de stress, de manque de temps, de manque de vivre) justement par, en partie le dit système et au lieu de regarder le problème de fond, c'est à dire les fondations du dit système, tous ces fanfarons en mode \"bon père de famille\" viennent faire la morale à des milliers de famille comme des gueux patriarches qui sur le fond viennent dire : \"on ne touche à rien, cette fois ci on a dépassé le point de la théorie de la pomme pourrie okay, mais attention, on ne touche à rien, ce qu'il nous faut c'est une bête de somme, une cible pour déverser la faute originale, une raison d'être qui n'en est pas une pour éviter d'enlever les œillères et éviter à tout prix, à n'importe quel prix même de remettre les choses en question, le fond en question.\"\r\n\r\nL'entre ligne du discours il est là. \r\n\r\nFranchement ça vaut bien un mai 68, un ras-le-bol profond et généralisé qui met carte sur table et qui permet au présent de faire irruption dans le réel, plutôt que cette dérive en déni qui recycle les mêmes theories qu'on entend depuis les années 80 (jeux vidéo, drogues, parents et réseaux sociaux devenu l'érégie de tous les problèmes de sociétés) qui ne sont que des excuses pour ne pas voir et comprendre le fond.\r\n\r\nFranchement c'est pitoyable, parce que le problème, c'est que oui, la vague va se tasser, les gens vont se résigner et petit à petit, c'est chaque épisode qui devient pire, jusqu'au moment de bascule où tout part en vrille, pas a cause de petit jeunes qui en ont marre, non, à cause d'un système en déni qii face à chacune de ses révoltes, se regarde dans le miroir et se dit : quoi, moi, mais non !\r\n\r\nÀ force de brûler la corde, il n'y aura plus d'eau du bain à ne pas jeter avec le bébé. \n",
+				"date_published": "2023-07-02T22:57:55+02:00",
+				"url": "https://blog.rmendes.net/2023/07/02/meute-en-france.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/02/haha-brands-town.html",
+				
+				"content_html": "<p>Haha Brands Town experience is really funny and this background info worth the read, I&rsquo;m just wondering how long this sarcastic adventure can keep going until some brands really try to mess up #brandstown</p>\n<p><a href=\"https://wedistribute.org/2023/06/brands-town-is-where-the-brands-are/\">wedistribute.org/2023/06/b&hellip;</a></p>\n",
+				"content_text": "Haha Brands Town experience is really funny and this background info worth the read, I'm just wondering how long this sarcastic adventure can keep going until some brands really try to mess up #brandstown \n\n[wedistribute.org/2023/06/b...](https://wedistribute.org/2023/06/brands-town-is-where-the-brands-are/)\n",
+				"date_published": "2023-07-02T18:43:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/02/haha-brands-town.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/02/poland-to-send.html",
+				"title": "Poland to send counterterrorism police to Belarus border ",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"EUwatch\" data-avatar=\"https://micro.blog/EUwatch/avatar.jpg\" cite=\"https://euwatch.micro.blog/2023/07/02/poland-to-send.html\">Poland to send counterterrorism police to Belarus border <a href=\"https://euwatch.micro.blog/2023/07/02/poland-to-send.html\">euwatch.micro.blog</a><footer>EUwatch <cite><a href=\"https://euwatch.micro.blog/2023/07/02/poland-to-send.html\" class=\"u-in-reply-to\">https://euwatch.micro.blog/2023/07/02/poland-to-send.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2023-07-02T13:22:02+02:00",
+				"url": "https://blog.rmendes.net/2023/07/02/poland-to-send.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/02/hmm-thats-odd.html",
+				
+				"content_html": "<p>Hmm that&rsquo;s odd, haven&rsquo;t tried it but is it using the API or?</p>\n<p><a href=\"https://github.com/dimdenGD/OldTwitter\">github.com/dimdenGD/&hellip;</a></p>\n",
+				"content_text": "Hmm that's odd, haven't tried it but is it using the API or? \n\n[github.com/dimdenGD/...](https://github.com/dimdenGD/OldTwitter)\n",
+				"date_published": "2023-07-02T10:31:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/02/hmm-thats-odd.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/02/added-to-my.html",
+				
+				"content_html": "<p>Added to my reading list for later..</p>\n<p><a href=\"https://www.devever.net/~hl/webappcoupling\">www.devever.net/~hl/webap&hellip;</a></p>\n",
+				"content_text": "Added to my reading list for later.. \n\n[www.devever.net/~hl/webap...](https://www.devever.net/~hl/webappcoupling)\n",
+				"date_published": "2023-07-02T10:19:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/02/added-to-my.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/01/the-birdsite-how.html",
+				
+				"content_html": "<p>The birdsite : how it&rsquo;s going versus what&rsquo;s coming to hunt the Mollusk nights.</p>\n<p>The Fediverse will thrive just fine, people will take control the way they want but one thing is very clear, #Meta is coming to Mwitter self-suicide.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "The birdsite : how it's going versus what's coming to hunt the Mollusk nights.\n\nThe Fediverse will thrive just fine, people will take control the way they want but one thing is very clear, #Meta is coming to Mwitter self-suicide. \n\n<img src=\"https://blog.rmendes.net/uploads/2023/7d762dd23f.jpg\" width=\"433\" height=\"600\" alt=\"Twitter absurd limiting rules edicted by the Mollusk today \"><img src=\"https://blog.rmendes.net/uploads/2023/5b56870697.jpg\" width=\"600\" height=\"483\" alt=\"Apparently this is Project92 screenshota from today. \">\n",
+				"date_published": "2023-07-01T20:42:50+02:00",
+				"url": "https://blog.rmendes.net/2023/07/01/the-birdsite-how.html",
+				"tags": ["Tech","News","Photos"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/01/france-le-dcalage.html",
+				
+				"content_html": "<p>France&hellip; Le décalage entre les gouvernants et les gouvernés&hellip; Comment parler du déni de société ? Comment aborder la violence d&rsquo;un système envers celleux qui ne la subissent pas ?</p>\n<p>Ce qu&rsquo;il se passe aujourd&rsquo;hui a été planté il y a longtemps.\nLe réveil est brutal.</p>\n",
+				"content_text": "France... Le décalage entre les gouvernants et les gouvernés... Comment parler du déni de société ? Comment aborder la violence d'un système envers celleux qui ne la subissent pas ?\n\nCe qu'il se passe aujourd'hui a été planté il y a longtemps.\nLe réveil est brutal. \n",
+				"date_published": "2023-07-01T11:08:29+02:00",
+				"url": "https://blog.rmendes.net/2023/07/01/france-le-dcalage.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/01/new-accusations-against.html",
+				
+				"content_html": "<p>New Accusations against the Greek Coast Guard: &ldquo;We Thought They Knew What They Were Doing&rdquo; - DER SPIEGEL</p>\n<p><a href=\"https://www.spiegel.de/international/europe/new-accusations-against-the-greek-coast-guard-we-thought-they-knew-what-they-were-doing-a-5b7b93b8-9ca0-4889-b52a-e134bbd84f43?sara_ref=re-so-app-sh\">www.spiegel.de/internati&hellip;</a></p>\n",
+				"content_text": "New Accusations against the Greek Coast Guard: \"We Thought They Knew What They Were Doing\" - DER SPIEGEL\n\n[www.spiegel.de/internati...](https://www.spiegel.de/international/europe/new-accusations-against-the-greek-coast-guard-we-thought-they-knew-what-they-were-doing-a-5b7b93b8-9ca0-4889-b52a-e134bbd84f43?sara_ref=re-so-app-sh)\n",
+				"date_published": "2023-07-01T11:00:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/01/new-accusations-against.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/30/well-the-mollusk.html",
+				
+				"content_html": "<p>Well, the Mollusk broke #Nitter, archive.is and probably archive.org</p>\n<p>Bad Mollusk, very bad Mollusk.</p>\n<p><a href=\"https://www.theverge.com/2023/6/30/23779764/twitter-blocks-unregistered-users-account-tweets\">www.theverge.com/2023/6/30&hellip;</a></p>\n",
+				"content_text": "Well, the Mollusk broke #Nitter, archive.is and probably archive.org \n\nBad Mollusk, very bad Mollusk. \n\n[www.theverge.com/2023/6/30...](https://www.theverge.com/2023/6/30/23779764/twitter-blocks-unregistered-users-account-tweets)\n",
+				"date_published": "2023-06-30T21:13:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/30/well-the-mollusk.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/30/testing-webmentions-httpswwwwyrdsystems.html",
+				
+				"content_html": "<p>Testing #webmentions \n<a href=\"https://www.wyrd.systems/2023/06/30/77/\">www.wyrd.systems/2023/06/3&hellip;</a></p>\n",
+				"content_text": "Testing #webmentions \r\n[www.wyrd.systems/2023/06/3...](https://www.wyrd.systems/2023/06/30/77/)\n",
+				"date_published": "2023-06-30T19:15:38+02:00",
+				"url": "https://blog.rmendes.net/2023/06/30/testing-webmentions-httpswwwwyrdsystems.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/30/see-this-kind.html",
+				
+				"content_html": "<p>See this kind of post on the #threadiverse? That&rsquo;s the kind of post that used to live on #reddit.</p>\n<p>It&rsquo;s now being crafted on the open web and it&rsquo;s delicious!</p>\n<p><a href=\"https://lemmy.world/post/854092\">lemmy.world/post/8540&hellip;</a></p>\n",
+				"content_text": "See this kind of post on the #threadiverse? That's the kind of post that used to live on #reddit. \n\nIt's now being crafted on the open web and it's delicious! \n\n[lemmy.world/post/8540...](https://lemmy.world/post/854092)\n",
+				"date_published": "2023-06-30T19:09:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/30/see-this-kind.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/30/emissary-is-a.html",
+				
+				"content_html": "<p>#Emissary is a new kind of #social app that natively connects to the #Fediverse and the #IndieWeb. This site is a resource for #developers and #designers who are building Emissary #apps, or contributing to the core #server. Please visit emissary.social :\n<a href=\"https://emissary.dev/\">emissary.dev</a></p>\n",
+				"content_text": "#Emissary is a new kind of #social app that natively connects to the #Fediverse and the #IndieWeb. This site is a resource for #developers and #designers who are building Emissary #apps, or contributing to the core #server. Please visit emissary.social :\n[emissary.dev](https://emissary.dev/)\n",
+				"date_published": "2023-06-30T18:33:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/30/emissary-is-a.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/06/30/i-still-think.html",
+				
+				"content_html": "<p>I still think there is a place for a self-hosted open source FriendFeed, with #activitypub and #webmentions on top, there is still room for a decentralized social feed reader that can mix all kinds of feed sources.</p>\n<p><a href=\"https://en.m.wikipedia.org/wiki/FriendFeed\">en.m.wikipedia.org/wiki/Frie&hellip;</a></p>\n",
+				"content_text": "I still think there is a place for a self-hosted open source FriendFeed, with #activitypub and #webmentions on top, there is still room for a decentralized social feed reader that can mix all kinds of feed sources. \n\n[en.m.wikipedia.org/wiki/Frie...](https://en.m.wikipedia.org/wiki/FriendFeed)\n",
+				"date_published": "2023-06-30T17:28:00+02:00",
+				"url": "https://blog.rmendes.net/2023/06/30/i-still-think.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2023/06/30/tragic-story-im.html",
 				
 				"content_html": "<p>Tragic story, I&rsquo;m still hurt, not because I didn&rsquo;t find my own ways to build my feed reader (and have been using consistently ever since) but this story encapsulate the blindness of big tech better than anything else.</p>\n<p>And 2 decades later, guess how I&rsquo;m consuming the most out of Reddit and now Kbin/Lemmy and the fediverse?\nAn RSS feed reader, that&rsquo;s right!</p>\n<p>Add to it a dash of webmentions and social reactions, without owning the social graph and you have probably the direction at which the open web is heading to, right now.</p>\n<p>And this time, neither, Google, Facebook or Reddit or Twitter will be part of it, because they are blind but above all because people want something else.</p>\n<p>And they want to define and own it.</p>\n<p>Who killed Google Reader?\nTen years after its untimely death, the team that built the much-beloved feed reader reflects on what went wrong and what could have been.</p>\n<p><a href=\"https://www.theverge.com/23778253/google-reader-death-2013-rss-social\">www.theverge.com/23778253/&hellip;</a></p>\n",
@@ -28,7 +188,7 @@
 				"id": "http://rmdes.micro.blog/2023/06/29/juin-une-des.html",
 				"title": "29 Juin 2020 Une des dernières audiences au palais de justice de liège",
 				"content_html": "<p>Mémoire</p>\n<p>Ils peuvent essayer de nous décrédibiliser, commander des &ldquo;preuves&rdquo; forgées sur commande par d&rsquo;ancien adeptes mais Ils n&rsquo;auront pas nos esprits, nos vies, nos vécus et même si à la fin ils gardent nos photos, nos lettres, nos commentaires Facebook, ça ne sera que pour mieux contempler leur défaite.</p>\n<p>Demain, une k7 áudio monologue de Robert Spatz de 1h au Palais de Justice de Liège, suivi d&rsquo;un audio de 17 minutes pour se justifier de la débilité de son monologue. Audience Publique.</p>\n<p>La cour ne sera pas dupe !</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mémoire \r\n\r\nIls peuvent essayer de nous décrédibiliser, commander des \"preuves\" forgées sur commande par d'ancien adeptes mais Ils n'auront pas nos esprits, nos vies, nos vécus et même si à la fin ils gardent nos photos, nos lettres, nos commentaires Facebook, ça ne sera que pour mieux contempler leur défaite.\r\n\r\nDemain, une k7 áudio monologue de Robert Spatz de 1h au Palais de Justice de Liège, suivi d'un audio de 17 minutes pour se justifier de la débilité de son monologue. Audience Publique. \r\n\r\nLa cour ne sera pas dupe !\n\n<img src=\"uploads/2023/screenshot-20230629-233416.jpg\" width=\"338\" height=\"600\" alt=\"moi en gris, mémoire de 2020 à la cour de justice de Liège\">\n",
+				"content_text": "Mémoire \r\n\r\nIls peuvent essayer de nous décrédibiliser, commander des \"preuves\" forgées sur commande par d'ancien adeptes mais Ils n'auront pas nos esprits, nos vies, nos vécus et même si à la fin ils gardent nos photos, nos lettres, nos commentaires Facebook, ça ne sera que pour mieux contempler leur défaite.\r\n\r\nDemain, une k7 áudio monologue de Robert Spatz de 1h au Palais de Justice de Liège, suivi d'un audio de 17 minutes pour se justifier de la débilité de son monologue. Audience Publique. \r\n\r\nLa cour ne sera pas dupe !\n\n<img src=\"https://blog.rmendes.net/uploads/2023/screenshot-20230629-233416.jpg\" width=\"338\" height=\"600\" alt=\"moi en gris, mémoire de 2020 à la cour de justice de Liège\">\n",
 				"date_published": "2023-06-29T23:43:42+02:00",
 				"url": "https://blog.rmendes.net/2023/06/29/juin-une-des.html",
 				"tags": ["OKCinfo","Photos"]
