@@ -7,6 +7,127 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2023/07/10/lima-a-nice.html",
+				
+				"content_html": "<p>Lima: a nice way to run Linux VMs on Mac</p>\n<p><a href=\"https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/\">jvns.ca/blog/2023&hellip;</a></p>\n",
+				"content_text": "Lima: a nice way to run Linux VMs on Mac \n\n[jvns.ca/blog/2023...](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)\n",
+				"date_published": "2023-07-10T20:36:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/10/lima-a-nice.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/09/it-had-to.html",
+				
+				"content_html": "<p>It had to happen&hellip;</p>\n<p>PoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news</p>\n<p><a href=\"https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/\">blog.mithrilsecurity.io/poisongpt&hellip;</a></p>\n",
+				"content_text": "It had to happen... \n\nPoisonGPT: How we hid a lobotomized LLM on Hugging Face to spread fake news\n\n[blog.mithrilsecurity.io/poisongpt...](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)\n",
+				"date_published": "2023-07-09T22:38:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/09/it-had-to.html",
+				"tags": ["AI"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/09/meutes-aprs-la.html",
+				"title": "Émeutes après la mort de Nahel M. : retour sur une semaine de désinformation",
+				"content_html": "<p>Chiffres erronés, partage de vidéos sorties de leur contexte, d’images tirées de films ou de fausses lettres… la mort du jeune Nahel M. et les émeutes qu’elle a déclenchées ont une nouvelle fois mis au jour l’usage des réseaux sociaux en matière de désinformation.</p>\n<p><a href=\"https://www.lessurligneurs.eu/emeutes-apres-la-mort-de-nahel-m-retour-sur-une-semaine-de-desinformation/\">www.lessurligneurs.eu/emeutes-a&hellip;</a></p>\n",
+				"content_text": "Chiffres erronés, partage de vidéos sorties de leur contexte, d’images tirées de films ou de fausses lettres… la mort du jeune Nahel M. et les émeutes qu’elle a déclenchées ont une nouvelle fois mis au jour l’usage des réseaux sociaux en matière de désinformation.\r\n\r\n[www.lessurligneurs.eu/emeutes-a...](https://www.lessurligneurs.eu/emeutes-apres-la-mort-de-nahel-m-retour-sur-une-semaine-de-desinformation/)\n",
+				"date_published": "2023-07-09T00:30:33+02:00",
+				"url": "https://blog.rmendes.net/2023/07/09/meutes-aprs-la.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/08/lets-not-leave.html",
+				
+				"content_html": "<p>Let&rsquo;s not leave #Google decide in private on the future of robots.txt in the context of #AI #LLM&rsquo;s, join this list and make sure #fediverse voice is heard!</p>\n<p><a href=\"https://services.google.com/fb/forms/ai-web-publisher-controls-external/\">services.google.com/fb/forms/&hellip;</a></p>\n",
+				"content_text": "Let's not leave #Google decide in private on the future of robots.txt in the context of #AI #LLM's, join this list and make sure #fediverse voice is heard! \n\n[services.google.com/fb/forms/...](https://services.google.com/fb/forms/ai-web-publisher-controls-external/)\n",
+				"date_published": "2023-07-08T08:51:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/08/lets-not-leave.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/07/telegram-has-become.html",
+				
+				"content_html": "<p>Telegram has become a window into war\nThe messaging app has become a key channel for news about the Russian invasion of Ukraine. But the government’s relationship with it is complicated. <a href=\"https://www.theverge.com/2023/7/7/23786422/telegram-russia-war-news-blogging-censorship-disinformation\">Read more</a></p>\n",
+				"content_text": "Telegram has become a window into war\r\nThe messaging app has become a key channel for news about the Russian invasion of Ukraine. But the government’s relationship with it is complicated. [Read more](https://www.theverge.com/2023/7/7/23786422/telegram-russia-war-news-blogging-censorship-disinformation)\n",
+				"date_published": "2023-07-07T16:35:44+02:00",
+				"url": "https://blog.rmendes.net/2023/07/07/telegram-has-become.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/07/logical-step-for.html",
+				
+				"content_html": "<p>Logical step for bluesky to enable domain name identity management.</p>\n<p><a href=\"https://blueskyweb.xyz/blog/7-05-2023-namecheap\">blueskyweb.xyz/blog/7-05&hellip;</a></p>\n",
+				"content_text": "Logical step for bluesky to enable domain name identity management. \n\n[blueskyweb.xyz/blog/7-05...](https://blueskyweb.xyz/blog/7-05-2023-namecheap)\n",
+				"date_published": "2023-07-07T15:14:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/07/logical-step-for.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/07/must-read-fighting.html",
+				"title": "Must read : Fighting Fascism in America (and Europe)",
+				"content_html": "<p>The War Department thought it was important for Americans to understand the tactics fascists would use to take power in the United States. They would try to gain power &ldquo;under the guise of &lsquo;super-patriotism&rsquo; and &lsquo;super-Americanism.'&rdquo; And they would use three techniques: <a href=\"https://kottke.org/23/05/fighting-fascism-in-america\">kottke.org/23/05/fig&hellip;</a></p>\n",
+				"content_text": "The War Department thought it was important for Americans to understand the tactics fascists would use to take power in the United States. They would try to gain power \"under the guise of 'super-patriotism' and 'super-Americanism.'\" And they would use three techniques: [kottke.org/23/05/fig...](https://kottke.org/23/05/fighting-fascism-in-america)\r\n\r\n",
+				"date_published": "2023-07-07T14:10:02+02:00",
+				"url": "https://blog.rmendes.net/2023/07/07/must-read-fighting.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/07/lavenir-nest-jamais.html",
+				
+				"content_html": "<p>l&rsquo;avenir n&rsquo;est jamais rien d&rsquo;autre que le présent à mettre en ordre.</p>\n",
+				"content_text": "l'avenir n'est jamais rien d'autre que le présent à mettre en ordre.\n",
+				"date_published": "2023-07-07T09:50:46+02:00",
+				"url": "https://blog.rmendes.net/2023/07/07/lavenir-nest-jamais.html",
+				"tags": ["OKCinfo"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/06/of-coursepitty-mollusk.html",
+				
+				"content_html": "<p>Of course..pitty Mollusk can&rsquo;t swallow it.\nI&rsquo;m baffled. Not.</p>\n<p>Twitter is threatening to sue Meta over Threads</p>\n<p><a href=\"https://www.semafor.com/article/07/06/2023/twitter-is-threatening-to-sue-meta-over-threads\">www.semafor.com/article/0&hellip;</a></p>\n",
+				"content_text": "Of course..pitty Mollusk can't swallow it. \nI'm baffled. Not. \n\nTwitter is threatening to sue Meta over Threads\n\n[www.semafor.com/article/0...](https://www.semafor.com/article/07/06/2023/twitter-is-threatening-to-sue-meta-over-threads)\n",
+				"date_published": "2023-07-06T23:00:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/06/of-coursepitty-mollusk.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/06/france-has-a.html",
+				
+				"content_html": "<p>France has a public beneficial ownership register, and authorities have published a list of parcels owned by corporate entities. With all that info in the public domain, there can&rsquo;t be a lot of secrecy left, right? Wrong🔻</p>\n<p><a href=\"https://us7.campaign-archive.com/?u=6a23b6038bada8cc6b5287991&amp;id=75db91bdbc\">us7.campaign-archive.com</a></p>\n",
+				"content_text": "France has a public beneficial ownership register, and authorities have published a list of parcels owned by corporate entities. With all that info in the public domain, there can't be a lot of secrecy left, right? Wrong🔻\n\n[us7.campaign-archive.com](https://us7.campaign-archive.com/?u=6a23b6038bada8cc6b5287991&id=75db91bdbc)\n",
+				"date_published": "2023-07-06T15:12:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/06/france-has-a.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/06/who-wants-more.html",
+				
+				"content_html": "<p>Who wants more emails? 😂</p>\n<p><a href=\"https://feeds.sh/\">feeds.sh</a></p>\n",
+				"content_text": "Who wants more emails? 😂\n\n[feeds.sh](https://feeds.sh/)\n",
+				"date_published": "2023-07-06T14:08:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/06/who-wants-more.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/06/this-hn-blog.html",
+				
+				"content_html": "<p>This #HN blog thread is literally a mine of gems from the internet.. I love it ☺️</p>\n<p><a href=\"https://32bit.cafe/\">32bit.cafe</a></p>\n",
+				"content_text": "This #HN blog thread is literally a mine of gems from the internet.. I love it ☺️\n\n[32bit.cafe](https://32bit.cafe/)\n",
+				"date_published": "2023-07-06T13:49:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/06/this-hn-blog.html",
+				"tags": ["Blogs"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/06/mwitter-silently-removes.html",
+				
+				"content_html": "<p>Mwitter silently removes login requirement for viewing tweets.</p>\n<p>Means that #Nitter should probably work again&hellip;</p>\n<p>Afraid of #Threads, the Mollusk must be?</p>\n",
+				"content_text": "Mwitter silently removes login requirement for viewing tweets.\n\nMeans that #Nitter should probably work again... \n\nAfraid of #Threads, the Mollusk must be? \n",
+				"date_published": "2023-07-06T09:04:05+02:00",
+				"url": "https://blog.rmendes.net/2023/07/06/mwitter-silently-removes.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/05/oh-god-i.html",
+				
+				"content_html": "<p>Oh god, I hope someone scrap the amazing suggestion of blogs on this HN thread <a href=\"https://news.ycombinator.com/item?id=36575081\">news.ycombinator.com/item</a> there are so many it&rsquo;s mind-blowing..</p>\n<p>I wish to get an OPML list of that entire collection, must be amazing discoveries !</p>\n",
+				"content_text": "Oh god, I hope someone scrap the amazing suggestion of blogs on this HN thread [news.ycombinator.com/item](https://news.ycombinator.com/item?id=36575081) there are so many it's mind-blowing..\r\n\r\nI wish to get an OPML list of that entire collection, must be amazing discoveries !\n",
+				"date_published": "2023-07-05T21:53:21+02:00",
+				"url": "https://blog.rmendes.net/2023/07/05/oh-god-i.html"
+			},
+			{
 				"id": "http://rmdes.micro.blog/2023/07/05/damn-activitypub-solid.html",
 				
 				"content_html": "<p>Damn,</p>\n<p>ActivityPub + Solid = ActivityPod\n<a href=\"https://activitypods.org\">activitypods.org</a></p>\n<p>This has a huge potential to streamline our abilities to use different fediverse apps with the same identity&hellip;</p>\n",
