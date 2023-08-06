@@ -7,13 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2023/08/06/just-take-it.html",
+				
+				"content_html": "<p>Just take it, you won&rsquo;t regret it!</p>\n<p>Sync for #Lemmy\n<a href=\"https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync\">play.google.com/store/app&hellip;</a></p>\n",
+				"content_text": "Just take it, you won't regret it! \n\nSync for #Lemmy\n[play.google.com/store/app...](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)\n",
+				"date_published": "2023-08-06T16:16:51+02:00",
+				"url": "https://blog.rmendes.net/2023/08/06/just-take-it.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/08/02/they-need-us.html",
+				
+				"content_html": "<p>&ldquo;They need us. We don&rsquo;t need them:&rdquo; The fall of Twitter is making the trolls and grifters desperate</p>\n<p><a href=\"https://www.salon.com/2023/08/01/they-need-us-we-dont-need-them-the-fall-of-twitter-is-making-the-and-grifters-desperate/\">www.salon.com/2023/08/0&hellip;</a></p>\n",
+				"content_text": "\"They need us. We don't need them:\" The fall of Twitter is making the trolls and grifters desperate\n\n[www.salon.com/2023/08/0...](https://www.salon.com/2023/08/01/they-need-us-we-dont-need-them-the-fall-of-twitter-is-making-the-and-grifters-desperate/)\n",
+				"date_published": "2023-08-02T00:23:00+02:00",
+				"url": "https://blog.rmendes.net/2023/08/02/they-need-us.html",
+				"tags": ["Tech","Politics"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/08/01/currently-reading-this.html",
+				
+				"content_html": "<p>Currently reading this interesting take :\nThe Fediverse has a Mental Health Problem by <a href=\"https://micro.blog/thisismissem@hachyderm.io\">@thisismissem@hachyderm.io</a></p>\n<p><a href=\"https://medium.com/@thisismissem/the-fediverse-has-a-mental-health-problem-4cb4845dfee1\">medium.com/@thisismi&hellip;</a></p>\n",
+				"content_text": "Currently reading this interesting take :\nThe Fediverse has a Mental Health Problem by [@thisismissem@hachyderm.io](https://micro.blog/thisismissem@hachyderm.io)\n\n[medium.com/@thisismi...](https://medium.com/@thisismissem/the-fediverse-has-a-mental-health-problem-4cb4845dfee1)\n",
+				"date_published": "2023-08-01T18:41:00+02:00",
+				"url": "https://blog.rmendes.net/2023/08/01/currently-reading-this.html",
+				"tags": ["Fediverse"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/08/01/im-using-openai.html",
+				
+				"content_html": "<p>I&rsquo;m using OpenAI Whisper (locally, without access to cloud) to transcribe 3h of French audio recording into text.</p>\n<p>I&rsquo;m actually really impressed.\nIt&rsquo;s not fast but it&rsquo;s doing the job.</p>\n<p>I had to amplify the audio signal +3db to increase the amplitude but other than that it&rsquo;s amazing.</p>\n<p>Very precise.</p>\n",
+				"content_text": "I'm using OpenAI Whisper (locally, without access to cloud) to transcribe 3h of French audio recording into text. \n\nI'm actually really impressed.\nIt's not fast but it's doing the job.\n\nI had to amplify the audio signal +3db to increase the amplitude but other than that it's amazing.\n\nVery precise. \n",
+				"date_published": "2023-08-01T18:07:18+02:00",
+				"url": "https://blog.rmendes.net/2023/08/01/im-using-openai.html",
+				"tags": ["AI"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2023/07/31/wow-bbc-joining.html",
 				
 				"content_html": "<p>Wow #BBC joining the #fediverse</p>\n<p><a href=\"https://social.bbc/about\">social.bbc/about</a></p>\n",
 				"content_text": "Wow #BBC joining the #fediverse \n\n[social.bbc/about](https://social.bbc/about)\n",
 				"date_published": "2023-07-31T18:09:00+02:00",
 				"url": "https://blog.rmendes.net/2023/07/31/wow-bbc-joining.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/07/31/holy-crap-thats.html",
@@ -70,6 +105,24 @@
 				"tags": ["Fediverse"]
 			},
 			{
+				"id": "http://rmdes.micro.blog/2023/07/29/interesting-tool-for.html",
+				
+				"content_html": "<p>Interesting tool for devs</p>\n<p>Explore the #ActivityPub protocol interactively</p>\n<p>ActivityPub.Academy is a learning resource for ActivityPub. The protocol is brought to life by showing Activities sent between different instances in real time!</p>\n<p><a href=\"https://activitypub.academy\">activitypub.academy</a></p>\n",
+				"content_text": "Interesting tool for devs \n\nExplore the #ActivityPub protocol interactively\n\nActivityPub.Academy is a learning resource for ActivityPub. The protocol is brought to life by showing Activities sent between different instances in real time!\n\n[activitypub.academy](https://activitypub.academy)\n",
+				"date_published": "2023-07-29T15:23:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/29/interesting-tool-for.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/07/29/055100.html",
+				
+				"content_html": "<p>Interesting&hellip;#activitypub</p>\n<p>Vocata/vocata: Vocabulary-Agnostic Transport Agent - #vocata</p>\n<p><a href=\"https://codeberg.org/Vocata/vocata\">codeberg.org/Vocata/vo&hellip;</a></p>\n",
+				"content_text": "Interesting...#activitypub \n\nVocata/vocata: Vocabulary-Agnostic Transport Agent - #vocata \n\n\n[codeberg.org/Vocata/vo...](https://codeberg.org/Vocata/vocata)\n",
+				"date_published": "2023-07-29T05:51:00+02:00",
+				"url": "https://blog.rmendes.net/2023/07/29/055100.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2023/07/27/new-research-suggests.html",
 				"title": "New research suggests social media doesn’t fuel political polarization. Oh really? ",
 				"content_html": "<p>This is interesting, but it doesn&rsquo;t represent the reality for one simple reason : 3 months in social media is a snapshot in a much more complicated issue.</p>\n<p>Second, the elephant in the room is the fact most of the societal harm done by big tech platforms (and their ever changing algorithms) has been done progressively in the last 15 years. The drill has been done already. A lost of the most impacted people are not even using Facebook daily anymore.</p>\n<p>The study feels like a a sample experiment done after the crime scene.</p>\n<p><a href=\"https://ground.news/article/new-research-suggests-social-media-doesnt-fuel-political-polarization_9209eb\">ground.news/article/n&hellip;</a></p>\n",
@@ -102,7 +155,8 @@
 				"content_html": "<p>The whole point of the #fediverse is to enable &ldquo;mutual coexistence&rdquo; on top of a protocol that everyone can build with.\nWe don&rsquo;t need to agree on everything &amp; we won&rsquo;t but we can speak &amp; understand each other on the same layer. It&rsquo;s beautiful ❤️</p>\n",
 				"content_text": "The whole point of the #fediverse is to enable \"mutual coexistence\" on top of a protocol that everyone can build with.\nWe don't need to agree on everything & we won't but we can speak & understand each other on the same layer. It's beautiful ❤️\n",
 				"date_published": "2023-07-26T00:58:47+02:00",
-				"url": "https://blog.rmendes.net/2023/07/26/the-whole-point.html"
+				"url": "https://blog.rmendes.net/2023/07/26/the-whole-point.html",
+				"tags": ["Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/07/26/interesting-exciting-times.html",
@@ -217,7 +271,7 @@
 				"content_text": "Reading :\n\n#ActivityPub, #Fediverse and the Future of social networks\n\n[medium.com/@leonardo...](https://medium.com/@leonardotmenezes/activitypub-fediverse-and-the-future-of-social-networks-5be48719d71e)\n",
 				"date_published": "2023-07-21T19:31:00+02:00",
 				"url": "https://blog.rmendes.net/2023/07/21/reading-activitypub-fediverse.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/07/21/deploy-test-linux.html",
@@ -322,7 +376,8 @@
 				"content_html": "<p>In many ways, issues of moderation (even basic ones) are way worst on Bluesky than on the fediverse, yes, for the simple reason that fediverse is powered by people, Bluesky has millions in store to treat itself with a proper T&amp;S team and it choose not to.\nRepeatedly.</p>\n",
 				"content_text": "In many ways, issues of moderation (even basic ones) are way worst on Bluesky than on the fediverse, yes, for the simple reason that fediverse is powered by people, Bluesky has millions in store to treat itself with a proper T&S team and it choose not to.\nRepeatedly. \n",
 				"date_published": "2023-07-15T23:49:39+02:00",
-				"url": "https://blog.rmendes.net/2023/07/15/in-many-ways.html"
+				"url": "https://blog.rmendes.net/2023/07/15/in-many-ways.html",
+				"tags": ["Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/07/15/there-you-just.html",
@@ -473,7 +528,7 @@
 				"content_text": "Let's not leave #Google decide in private on the future of robots.txt in the context of #AI #LLM's, join this list and make sure #fediverse voice is heard! \n\n[services.google.com/fb/forms/...](https://services.google.com/fb/forms/ai-web-publisher-controls-external/)\n",
 				"date_published": "2023-07-08T08:51:00+02:00",
 				"url": "https://blog.rmendes.net/2023/07/08/lets-not-leave.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/07/07/telegram-has-become.html",
@@ -566,7 +621,8 @@
 				"content_html": "<p>Damn,</p>\n<p>ActivityPub + Solid = ActivityPod\n<a href=\"https://activitypods.org\">activitypods.org</a></p>\n<p>This has a huge potential to streamline our abilities to use different fediverse apps with the same identity&hellip;</p>\n",
 				"content_text": "Damn, \r\n\r\nActivityPub + Solid = ActivityPod\r\n[activitypods.org](https://activitypods.org)\r\n\r\nThis has a huge potential to streamline our abilities to use different fediverse apps with the same identity...\n",
 				"date_published": "2023-07-05T13:56:18+02:00",
-				"url": "https://blog.rmendes.net/2023/07/05/damn-activitypub-solid.html"
+				"url": "https://blog.rmendes.net/2023/07/05/damn-activitypub-solid.html",
+				"tags": ["Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/07/05/russia-terrorist-state.html",
@@ -584,7 +640,7 @@
 				"content_text": "And now the veteran Tweetdeck is going behind Blue \"Verified\" jail in less than 30 days.. It's really great how Musk keeps destroying #Twitter\n\nMore people for the fediverse, like it or not, but this has been the best catalyzer to move people away from big tech.\n\nYes Meta will retain some of the bleeding, it's unavoidable! Better than Musk anyway. At this stage, everything should be done to empty Twitter. \n",
 				"date_published": "2023-07-04T11:05:53+02:00",
 				"url": "https://blog.rmendes.net/2023/07/04/tweetdeck-will-be.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/07/03/just-take-a.html",
@@ -656,7 +712,7 @@
 				"content_text": "The birdsite : how it's going versus what's coming to hunt the Mollusk nights.\n\nThe Fediverse will thrive just fine, people will take control the way they want but one thing is very clear, #Meta is coming to Mwitter self-suicide. \n\n<img src=\"https://blog.rmendes.net/uploads/2023/7d762dd23f.jpg\" width=\"433\" height=\"600\" alt=\"Twitter absurd limiting rules edicted by the Mollusk today \"><img src=\"https://blog.rmendes.net/uploads/2023/5b56870697.jpg\" width=\"600\" height=\"483\" alt=\"Apparently this is Project92 screenshota from today. \">\n",
 				"date_published": "2023-07-01T20:42:50+02:00",
 				"url": "https://blog.rmendes.net/2023/07/01/the-birdsite-how.html",
-				"tags": ["Tech","News","Photos"]
+				"tags": ["Tech","News","Photos","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/07/01/france-le-dcalage.html",
@@ -709,7 +765,7 @@
 				"content_text": "#Emissary is a new kind of #social app that natively connects to the #Fediverse and the #IndieWeb. This site is a resource for #developers and #designers who are building Emissary #apps, or contributing to the core #server. Please visit emissary.social :\n[emissary.dev](https://emissary.dev/)\n",
 				"date_published": "2023-06-30T18:33:00+02:00",
 				"url": "https://blog.rmendes.net/2023/06/30/emissary-is-a.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/30/i-still-think.html",
@@ -727,7 +783,7 @@
 				"content_text": "Tragic story, I'm still hurt, not because I didn't find my own ways to build my feed reader (and have been using consistently ever since) but this story encapsulate the blindness of big tech better than anything else. \n\nAnd 2 decades later, guess how I'm consuming the most out of Reddit and now Kbin/Lemmy and the fediverse? \nAn RSS feed reader, that's right! \n\nAdd to it a dash of webmentions and social reactions, without owning the social graph and you have probably the direction at which the open web is heading to, right now. \n\nAnd this time, neither, Google, Facebook or Reddit or Twitter will be part of it, because they are blind but above all because people want something else. \n\nAnd they want to define and own it. \n\nWho killed Google Reader?\nTen years after its untimely death, the team that built the much-beloved feed reader reflects on what went wrong and what could have been.\n\n[www.theverge.com/23778253/...](https://www.theverge.com/23778253/google-reader-death-2013-rss-social)\n",
 				"date_published": "2023-06-30T17:02:00+02:00",
 				"url": "https://blog.rmendes.net/2023/06/30/tragic-story-im.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/30/the-monstrous-arrogance.html",
@@ -880,7 +936,7 @@
 				"content_text": "Must Read! \n\n#Project92 and the #Fediverse - A Smarter Battle Plan to Protect the Open Social Web\n\n[www.timothychambers.net/2023/06/2...](https://www.timothychambers.net/2023/06/23/project-and-the.html)\n",
 				"date_published": "2023-06-23T18:53:00+02:00",
 				"url": "https://blog.rmendes.net/2023/06/23/must-read-project.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/23/il-y-a.html",
@@ -943,7 +999,7 @@
 				"content_text": "Thinking about Hacker News but sprinkled with #activitypub\n\n- imagine being able to reply and participate in any #HN post from the #fediverse and with #webmentions have fediverse comments mingled with native HN activity.\n\nNodebb Discourse + Lemmy #kbin and we shift the balance back in the open web. \n",
 				"date_published": "2023-06-23T01:30:35+02:00",
 				"url": "https://blog.rmendes.net/2023/06/23/thinking-about-hacker.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/23/the-triumph-movie.html",
@@ -1086,7 +1142,7 @@
 				"content_text": "40% of subs that have pledged to go dark are still private/restricted.\nAfter more than 10 days.\n/u/spez struck a dormant nerve and it's just the beginning of the inevitable multi stage #reddit exodus to fediverse. There will be more. 😼\n",
 				"date_published": "2023-06-19T14:27:18+02:00",
 				"url": "https://blog.rmendes.net/2023/06/19/of-subs-that.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/19/haha-trop-bien.html",
@@ -1121,7 +1177,7 @@
 				"content_text": "Heh that's kinda original : MOP3 a #mastodon to pop3/smtp gateway. \n\nTldr: use your email to Interact with the #fediverse 😂\n\n[github.com/nkizz/mop...](https://github.com/nkizz/mop3)\n",
 				"date_published": "2023-06-19T00:26:00+02:00",
 				"url": "https://blog.rmendes.net/2023/06/19/heh-thats-kinda.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/18/automated-rogue-genius.html",
@@ -1157,7 +1213,7 @@
 				"content_text": "A bunch of Python related ressources and ActivityPub \n---\n\n### Implementations\nThese are examples of ActivityPub server implementations written in Python:\n\n- [ActivityPub Example](https://github.com/dsblank/activitypub): An example of an ActivityPub server implementation written in Python.\n- [dsblank/activitypub](https://github.com/dsblank/activitypub): Prototyping a Python ActivityPub distributed server in Tornado.\n- [pylodon](https://github.com/pylodon/pylodon): Flask-based ActivityPub server implementation. Source: [GitHub - BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub)\n\n### Libraries\nThese are libraries that can help you with implementing ActivityPub:\n\n- [activity](https://github.com/go-fed/activity): ActivityPub library for Golang.\n- [activitypub-php](https://github.com/pterotype-project/activitypub-php): A library to turn any PHP project into a full ActivityPub implementation. Source: [GitHub - BasixKOR/awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub)\n\n### Other Resources\nHere are some Python libraries and resources that might be useful:\n\n- [atoot](https://github.com/tootsuite/atoot): A library providing an easy way to create Mastodon API applications. Source: [delightful-activitypub-development - Codeberg.org](https://codeberg.org/fediverse/delightful-activitypub-development)\n- [Federation](https://gitlab.com/federation/federation): Library to abstract social web federation protocols like ActivityPub, Diaspora, and Matrix. Source: [delightful-activitypub-development - Codeberg.org](https://codeberg.org/fediverse/delightful-activitypub-development)\n- [fuwuqi](https://git.exozy.me/exozy/fuwuqi): A server for ActivityPub enthusiasts. Source: [delightful-activitypub-development - Codeberg.org](https://codeberg.org/fediverse/delightful-activitypub-development)\n- [Little Boxes](https://little-boxes.readthedocs.io): A tiny ActivityPub framework that is both database and server agnostic. Source: [delightful-activitypub-development - Codeberg.org](https://codeberg.org/fediverse/delightful-activitypub-development)\n- [Mastodon.py](https://github.com/halcy/Mastodon.py): A Python wrapper for the Mastodon API. Source: [delightful-activitypub-development - Codeberg.org](https://codeberg.org/fediverse/delightful-activitypub-development)\n- [pynodeinfo](https://github.com/jaywink/pynodeinfo): NodeInfo library implemented with poetry. Source: [delightful-activitypub-development - Codeberg.org](https://codeberg.org/fediverse/delightful-activitypub-development)\n- [Python ActivityPub](https://github.com/dsblank/activitypub): A general ActivityPub library. Source: [delightful-activitypub-development - Codeberg.org](https://codeberg.org/fediverse/delightful-activitypub-development)\n\nRemember to check each resource to see if it's suitable for your project's specific needs and constraints.\n\n---\n",
 				"date_published": "2023-06-18T17:15:36+02:00",
 				"url": "https://blog.rmendes.net/2023/06/18/python-activitypub-initial.html",
-				"tags": ["Coding"]
+				"tags": ["Coding","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/18/the-price-of.html",
@@ -1319,7 +1375,7 @@
 				"content_text": "Turn your WordPress multi author site into multi identities on the #fediverse \n\nPlugin #activitypub for #wordpress \n\n\n[github.com/Automatti...](https://github.com/Automattic/wordpress-activitypub)\n",
 				"date_published": "2023-06-16T20:50:00+02:00",
 				"url": "https://blog.rmendes.net/2023/06/16/turn-your-wordpress.html",
-				"tags": ["Social"]
+				"tags": ["Social","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/16/pourquoi-il-faut.html",
@@ -1362,7 +1418,7 @@
 				"content_text": "Reading : Don't tell people \"it's easy\", and six more things #Kbin, #Lemmy, and the #fediverse can learn from #Mastodon\n\n[privacy.thenexus.today/kbin-lemm...](https://privacy.thenexus.today/kbin-lemmy-fediverse-learnings-from-mastodon/)\n",
 				"date_published": "2023-06-16T18:16:00+02:00",
 				"url": "https://blog.rmendes.net/2023/06/16/reading-dont-tell.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/16/there-is-no.html",
@@ -1532,7 +1588,7 @@
 				"content_text": "Webinar : Mitigating #DDOS in the #Fediverse with #Mastodon\n\n[learn.fastly.com/security-...](https://learn.fastly.com/security-mitigating-ddos-and-traffic-surges-with-mastodon)\n",
 				"date_published": "2023-06-13T23:42:00+02:00",
 				"url": "https://blog.rmendes.net/2023/06/13/webinar-mitigating-ddos.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/13/elon-musk-investing.html",
@@ -1620,7 +1676,8 @@
 				"content_html": "<p>So I have been cross-posting from my blog to Twitter, Mastodon, Bluesky, Nostr (granted I don&rsquo;t have the same number of followers on each) but the point is : where I get the most interactions is on the #fediverse. This is written from my micro.blog <a href=\"https://blog.rmendes.net\">blog.rmendes.net</a></p>\n",
 				"content_text": "So I have been cross-posting from my blog to Twitter, Mastodon, Bluesky, Nostr (granted I don't have the same number of followers on each) but the point is : where I get the most interactions is on the #fediverse. This is written from my micro.blog [blog.rmendes.net](https://blog.rmendes.net)\n",
 				"date_published": "2023-06-12T18:12:27+02:00",
-				"url": "https://blog.rmendes.net/2023/06/12/so-i-have.html"
+				"url": "https://blog.rmendes.net/2023/06/12/so-i-have.html",
+				"tags": ["Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/12/douard-durand-magistrat.html",
@@ -1638,7 +1695,7 @@
 				"content_text": "Lemmy Communities Browser, an attempt to map corresponding #reddit subs to their fediverse home. \n\n[browse.feddit.de](https://browse.feddit.de/)\n",
 				"date_published": "2023-06-12T17:48:00+02:00",
 				"url": "https://blog.rmendes.net/2023/06/12/lemmy-communities-browser.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/12/he-would-be.html",
@@ -1727,7 +1784,8 @@
 				"content_html": "<p>Wishing I could use self-hosted ntfy.sh to have like a unified interface for notifications, no matter where they come from: Mastodon, Lemmy, Kbin, pixelfed</p>\n<p>TLDR : the ability to route any fediverse social app notification&rsquo;s to one single interface.</p>\n",
 				"content_text": "Wishing I could use self-hosted ntfy.sh to have like a unified interface for notifications, no matter where they come from: Mastodon, Lemmy, Kbin, pixelfed \n\nTLDR : the ability to route any fediverse social app notification's to one single interface. \n",
 				"date_published": "2023-06-11T19:40:42+02:00",
-				"url": "https://blog.rmendes.net/2023/06/11/wishing-i-could.html"
+				"url": "https://blog.rmendes.net/2023/06/11/wishing-i-could.html",
+				"tags": ["Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/11/handy-for-redditers.html",
@@ -1772,7 +1830,7 @@
 				"content_text": "Looking for a way to handle many different fediverse tools such as mastodon, lemmy/kbin, pixelfed and what not all from one single place : [ferdium.org](https://ferdium.org/)\r\nUse Ferdium custom sources and prep it to have these different tools accessible in one shot, it's just much easier to manage the diversity of tools or instances you might want to try until you settle. \n",
 				"date_published": "2023-06-11T17:41:00+02:00",
 				"url": "https://blog.rmendes.net/2023/06/11/what-the-fediverse.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/06/11/they-twitter-reddit.html",
@@ -2116,7 +2174,8 @@
 				"content_html": "<p>Interesting&hellip; #fediverse #news #content discovery</p>\n<p><a href=\"https://news.feedseer.com/?posts=3\">news.feedseer.com</a></p>\n",
 				"content_text": "Interesting... #fediverse #news #content discovery \n\n[news.feedseer.com](https://news.feedseer.com/?posts=3)\n",
 				"date_published": "2023-05-28T21:30:00+02:00",
-				"url": "https://blog.rmendes.net/2023/05/28/interesting-fediverse-news.html"
+				"url": "https://blog.rmendes.net/2023/05/28/interesting-fediverse-news.html",
+				"tags": ["Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/05/28/bluesky-related-the.html",
@@ -2206,7 +2265,7 @@
 				"content_text": "A #n8n node for #bluesky would be really really cool to move some feeds over there from Twitter #wishlist \n\n(already present on the #fediverse) \n",
 				"date_published": "2023-05-26T13:28:42+02:00",
 				"url": "https://blog.rmendes.net/2023/05/26/a-nn-node.html",
-				"tags": ["Tech"]
+				"tags": ["Tech","Fediverse"]
 			},
 			{
 				"id": "http://rmdes.micro.blog/2023/05/26/there-seems-to.html",
