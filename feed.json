@@ -7,6 +7,59 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2023/09/06/javais-oubli-quel.html",
+				
+				"content_html": "<p>J&rsquo;avais oublié à quel point j&rsquo;aimais ce <a href=\"https://www.youtube.com/watch?v=8qVKYzWle48\">morceau</a> : \nAir - All I Need via <a href=\"https://somafm.com/player/#/now-playing/gsclassic\">somafm.com</a></p>\n",
+				"content_text": "J'avais oublié à quel point j'aimais ce [morceau](https://www.youtube.com/watch?v=8qVKYzWle48) : \r\nAir - All I Need via [somafm.com](https://somafm.com/player/#/now-playing/gsclassic)\n",
+				"date_published": "2023-09-06T15:22:30+02:00",
+				"url": "https://blog.rmendes.net/2023/09/06/javais-oubli-quel.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/09/05/mon-extension-chromevivaldiedge.html",
+				"title": "Mon extension Chrome/Vivaldi/Edge pour poster sur Bluesky marche en mode basique !",
+				"content_html": "<p>Mon extension Chrome/Vivaldi/Edge pour poster sur Bluesky depuis n&rsquo;importe quel tab sur lequel on est dans le navigateur fonctionne, en mode décoffrage brut : le titre et le lien sont postés, mais pas de carte intégrée et le lien n&rsquo;est pas clickable, mais pour 2 ou 3h de dev ça me va, next corriger les bugs!!</p>\n<p>c&rsquo;est aussi la première fois de ma vie que je crée une extension pour chrome et c&rsquo;est une chouette learning curve !</p>\n<h2 id=\"ce-qui-marche\">ce qui marche</h2>\n<ul>\n<li>login</li>\n<li>click to share</li>\n<li>text posts</li>\n</ul>\n<h2 id=\"ce-qui-ne-marche-pas\">ce qui ne marche pas</h2>\n<ul>\n<li>URL avec carte intégrée</li>\n<li>se déconnecter via l&rsquo;extension</li>\n</ul>\n",
+				"content_text": "Mon extension Chrome/Vivaldi/Edge pour poster sur Bluesky depuis n'importe quel tab sur lequel on est dans le navigateur fonctionne, en mode décoffrage brut : le titre et le lien sont postés, mais pas de carte intégrée et le lien n'est pas clickable, mais pour 2 ou 3h de dev ça me va, next corriger les bugs!!\r\n\r\nc'est aussi la première fois de ma vie que je crée une extension pour chrome et c'est une chouette learning curve !\r\n\r\n## ce qui marche\r\n- login\r\n- click to share\r\n- text posts\r\n\r\n## ce qui ne marche pas\r\n- URL avec carte intégrée\r\n- se déconnecter via l'extension\r\n \n",
+				"date_published": "2023-09-05T20:06:44+02:00",
+				"url": "https://blog.rmendes.net/2023/09/05/mon-extension-chromevivaldiedge.html",
+				"tags": ["Coding","Bluesky"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/09/03/vdeo-thomas-wiesel.html",
+				
+				"content_html": "<p><a href=\"https://onelineplayer.com/player.html?autoplay=false&amp;autopause=false&amp;muted=false&amp;loop=true&amp;url=https%3A%2F%2Fapi.f-cdn.xyz%2Fdownload%3Ffile%3DCfDJ8Dx1oCGZ67pGtJJEiWYfCPP-BbjQiQyQDdgc_sA5dsQoy1n-6ZzDiBNjvPP7lLWPFFRfe9rJdpmqTtbI6bPvsRCb2EeEZvxKhliK_HDdqxdxi14T8kCoXMoBdyk3gX08YUYPL6EJ4sHedC4oULkS-SgDCf24xgkSWe1kuFElWwU7JcbKVw8GVuiLlAQBdECbdx30GF4PwY53SiYoSqJvFX9Z0E9EvocCnvDEIKZUyLr7dgJpRqrOEPq8WcxI2bR3wL77ztIEyT8FReEIdya46is&amp;poster=&amp;time=true&amp;progressBar=true&amp;overlay=true&amp;muteButton=true&amp;fullscreenButton=true&amp;style=light&amp;quality=auto&amp;playButton=true\">Vídeo</a> : Thomas Wiesel sur l&rsquo;agression de Rubiales&hellip; Thomas, c&rsquo;est pas une polémique, mais c&rsquo;est bien résumé !</p>\n",
+				"content_text": "[Vídeo](https://onelineplayer.com/player.html?autoplay=false&autopause=false&muted=false&loop=true&url=https%3A%2F%2Fapi.f-cdn.xyz%2Fdownload%3Ffile%3DCfDJ8Dx1oCGZ67pGtJJEiWYfCPP-BbjQiQyQDdgc_sA5dsQoy1n-6ZzDiBNjvPP7lLWPFFRfe9rJdpmqTtbI6bPvsRCb2EeEZvxKhliK_HDdqxdxi14T8kCoXMoBdyk3gX08YUYPL6EJ4sHedC4oULkS-SgDCf24xgkSWe1kuFElWwU7JcbKVw8GVuiLlAQBdECbdx30GF4PwY53SiYoSqJvFX9Z0E9EvocCnvDEIKZUyLr7dgJpRqrOEPq8WcxI2bR3wL77ztIEyT8FReEIdya46is&poster=&time=true&progressBar=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&quality=auto&playButton=true) : Thomas Wiesel sur l'agression de Rubiales... Thomas, c'est pas une polémique, mais c'est bien résumé ! \n",
+				"date_published": "2023-09-03T20:56:22+02:00",
+				"url": "https://blog.rmendes.net/2023/09/03/vdeo-thomas-wiesel.html",
+				"tags": ["Videos"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/09/03/pypi-on-github.html",
+				
+				"content_html": "<p>Pypi on github, an analysis 😳</p>\n<p><a href=\"https://py-code.org/repositories\">py-code.org/repositor&hellip;</a></p>\n",
+				"content_text": "Pypi on github, an analysis 😳\n\n[py-code.org/repositor...](https://py-code.org/repositories)\n",
+				"date_published": "2023-09-03T01:10:00+02:00",
+				"url": "https://blog.rmendes.net/2023/09/03/pypi-on-github.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/09/03/je-vous-balance.html",
+				
+				"content_html": "<p>Je vous balance une surprise en primeur là : de la haute qualité, plus de 2 ans de travail, un produit léché autant sur mobile que sur desktop, si t&rsquo;aimes les #livres, rendez-vous sur <a href=\"https://bookvillage.app\">bookvillage.app</a></p>\n<p>lancement officiel demain !</p>\n<p>#secondesmains #bouquins #vente #occasions</p>\n",
+				"content_text": "Je vous balance une surprise en primeur là : de la haute qualité, plus de 2 ans de travail, un produit léché autant sur mobile que sur desktop, si t'aimes les #livres, rendez-vous sur [bookvillage.app](https://bookvillage.app)\n\nlancement officiel demain ! \n\n#secondesmains #bouquins #vente #occasions \n",
+				"date_published": "2023-09-03T00:24:01+02:00",
+				"url": "https://blog.rmendes.net/2023/09/03/je-vous-balance.html",
+				"tags": ["Tech","Social"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/09/01/le-spam-sur.html",
+				
+				"content_html": "<p>Le spam sur Bluesky, ça a déjà commencé et des chercheurs actifs sur feu Twitter ont déjà commencé à repérer leurs manigances : <a href=\"https://conspirator0.substack.com/p/spamming-where-the-skies-are-blue\">conspirator0.substack.com/p/spammin&hellip;</a></p>\n",
+				"content_text": "Le spam sur Bluesky, ça a déjà commencé et des chercheurs actifs sur feu Twitter ont déjà commencé à repérer leurs manigances : [conspirator0.substack.com/p/spammin...](https://conspirator0.substack.com/p/spamming-where-the-skies-are-blue)\n",
+				"date_published": "2023-09-01T16:26:16+02:00",
+				"url": "https://blog.rmendes.net/2023/09/01/le-spam-sur.html",
+				"tags": ["Tech","Bluesky"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2023/09/01/mchant-a-a.html",
 				
 				"content_html": "<p>Méchant ça : A <a href=\"https://www.forbes.com/sites/thomasbrewster/2023/08/30/malicious-signal-app-planted-on-google-play-by-china-linked-cyber-spies/\">Fake Signal App</a> Was Planted On Google Play By China-Linked Hackers</p>\n",
