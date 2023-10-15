@@ -7,6 +7,59 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2023/10/15/how-to-export.html",
+				
+				"content_html": "<p>How to export your Google Podcast subscriptions to <a href=\"https://Podcastindex.org\">Podcastindex.org</a> and then to Any other podcast app you like?</p>\n<p>This is <a href=\"https://github.com/lucasrangit/google-podcasts-export-opml/blob/main/README.md\">how</a></p>\n<p>Once you have it all in podcastindex.org, it&rsquo;s easy to export your list to OPML and then import back into another podcast app.</p>\n",
+				"content_text": "How to export your Google Podcast subscriptions to [Podcastindex.org](https://Podcastindex.org) and then to Any other podcast app you like?\n\nThis is [how](https://github.com/lucasrangit/google-podcasts-export-opml/blob/main/README.md)\n\nOnce you have it all in podcastindex.org, it's easy to export your list to OPML and then import back into another podcast app. \n",
+				"date_published": "2023-10-15T15:34:58+02:00",
+				"url": "https://blog.rmendes.net/2023/10/15/how-to-export.html",
+				"tags": ["Tech","Audio"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/10/13/wordpressorg-blogs-can.html",
+				
+				"content_html": "<p>WordPress.org <a href=\"https://wordpress.com/blog/2023/10/11/activitypub/\">blogs can now be part of the fediverse</a>, this is big for ActivityPub!</p>\n<p>All self-hosted WordPress could already do that by installing the ActivityPub plugin obviously 😍</p>\n",
+				"content_text": "WordPress.org [blogs can now be part of the fediverse](https://wordpress.com/blog/2023/10/11/activitypub/), this is big for ActivityPub!\n\nAll self-hosted WordPress could already do that by installing the ActivityPub plugin obviously 😍\n\n",
+				"date_published": "2023-10-13T10:52:15+02:00",
+				"url": "https://blog.rmendes.net/2023/10/13/wordpressorg-blogs-can.html",
+				"tags": ["Fediverse"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/10/11/saying-that-the.html",
+				
+				"content_html": "<p>Saying that the Mollusk &ldquo;failed the test&rdquo; is a false narrative used to justify why so much of the media/journalists are still on X. It was entirely predictable, known, expected.</p>\n<p><a href=\"https://mashable.com/article/elon-musk-x-twitter-israel-palestine-linda-yaccarino\">mashable.com/article/e&hellip;</a></p>\n",
+				"content_text": "Saying that the Mollusk \"failed the test\" is a false narrative used to justify why so much of the media/journalists are still on X. It was entirely predictable, known, expected.\n\n[mashable.com/article/e...](https://mashable.com/article/elon-musk-x-twitter-israel-palestine-linda-yaccarino)\n",
+				"date_published": "2023-10-11T09:49:36+02:00",
+				"url": "https://blog.rmendes.net/2023/10/11/saying-that-the.html",
+				"tags": ["Tech","News"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/10/10/comment-changer-son.html",
+				
+				"content_html": "<p>Comment changer son nom d&rsquo;utilisateur sur Bluesky en utilisant son propre nom de domaine ?</p>\n<p><a href=\"https://youtube.com/live/Bgjd_eqPeJk\">Video</a></p>\n",
+				"content_text": "Comment changer son nom d'utilisateur sur Bluesky en utilisant son propre nom de domaine ?\r\n\r\n[Video](https://youtube.com/live/Bgjd_eqPeJk)\n",
+				"date_published": "2023-10-10T15:42:40+02:00",
+				"url": "https://blog.rmendes.net/2023/10/10/comment-changer-son.html",
+				"tags": ["Bluesky"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/10/10/mise-jour-de.html",
+				"title": "Mise à jour de Bluesky, voici ce qui change ! ",
+				"content_html": "<p>Vous pouvez maintenant changer votre email!</p>\n<p>• La vérification des e-mails est désormais disponible en tant que protection supplémentaire pour les comptes d’utilisateurs.</p>\n<p>• La visionneuse d’images devrait être plus naturelle à utiliser maintenant.</p>\n<p>• Les suggestions des utilisateurs dans la recherche et les mentions donnent désormais la priorité aux personnes que vous suivez.</p>\n<p>• Vous pouvez maintenant changer de compte rapidement en appuyant longuement sur votre photo de profil dans le pied de page.</p>\n<p>• Les liens externes potentiellement suspect reçoivent maintenant un avertissement avant l’ouverture.</p>\n<p>• Autres corrections de bugs.</p>\n<p>mettez votre app à jour dans les stores !</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Vous pouvez maintenant changer votre email!\n\n• La vérification des e-mails est désormais disponible en tant que protection supplémentaire pour les comptes d’utilisateurs.\n\n• La visionneuse d’images devrait être plus naturelle à utiliser maintenant.\n\n• Les suggestions des utilisateurs dans la recherche et les mentions donnent désormais la priorité aux personnes que vous suivez.\n\n• Vous pouvez maintenant changer de compte rapidement en appuyant longuement sur votre photo de profil dans le pied de page.\n\n• Les liens externes potentiellement suspect reçoivent maintenant un avertissement avant l’ouverture.\n\n• Autres corrections de bugs.\n\nmettez votre app à jour dans les stores ! \n\n<img src=\"uploads/2023/8847dbd5eb.jpg\" width=\"600\" height=\"600\" alt=\"Midjourney generated image using Magritte and Bluesky&10;standing man with a hat in front of a frame window opening to a blue sky and two threes\">\n",
+				"date_published": "2023-10-10T09:48:01+02:00",
+				"url": "https://blog.rmendes.net/2023/10/10/mise-jour-de.html",
+				"tags": ["Photos","Bluesky"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/10/09/bonjour-dhabitude-je.html",
+				
+				"content_html": "<p>Bonjour 😊 + ☕ d&rsquo;habitude je me jette pas sur les infos dès le matin, mais avec ce qu&rsquo;il se passe j&rsquo;écoute les infos sur la matinale de <a href=\"https://www.twitch.tv/ostpolitik\">Ostpolitik</a></p>\n",
+				"content_text": "Bonjour 😊 + ☕ d'habitude je me jette pas sur les infos dès le matin, mais avec ce qu'il se passe j'écoute les infos sur la matinale de [Ostpolitik](https://www.twitch.tv/ostpolitik)\n",
+				"date_published": "2023-10-09T07:41:42+02:00",
+				"url": "https://blog.rmendes.net/2023/10/09/bonjour-dhabitude-je.html"
+			},
+			{
 				"id": "http://rmdes.micro.blog/2023/10/08/todo-list-afterwork.html",
 				"title": "todo list after-work ",
 				"content_html": "<h2 id=\"geeky-stuff-bluesky\">Geeky stuff Bluesky</h2>\n<ul>\n<li>terminer ajustement de mon extension Bluesky pour Firefox</li>\n<li>mise à jour du code python pour choper mes codes d&rsquo;invites</li>\n<li>terminer mon code python pour choper notifications Bluesky multicomptes</li>\n<li>rediriger la page source sur blog.skyfleet.blue vers skyfleet.blue</li>\n<li>bouger une partie du contenu du Blog vers le Wiki</li>\n<li>Lancer bot juridique</li>\n<li>Lancer bot Moyen-Orient</li>\n<li>Lancer bot géopolitique/mil/sécurité</li>\n<li>Terminer place en place du Wiki skyfleet.blue</li>\n<li>Produire de nouveaux Tutoriels</li>\n<li>Convertir tutoriel texte en Video</li>\n</ul>\n<h2 id=\"geeky-stuff-mastodon\">Geeky stuff Mastodon</h2>\n<ul>\n<li>déployer une partie des bots skyfleet.blue sur Mastodon</li>\n<li>Ajouter un système de queue publi postage pour espacer les Posts sur code base actuelle</li>\n</ul>\n<h2 id=\"justice\">Justice</h2>\n<ul>\n<li>Terminer lancement <a href=\"http://chardonsbleus.org\">@chardonsbleus.org</a></li>\n<li>relance avocats 🇫🇷</li>\n<li>faire le point situation juridique</li>\n<li>faire le point situation instruction</li>\n<li>Lancement levée de fond soutien juridique</li>\n</ul>\n<h2 id=\"bouddhistes\">Bouddhistes</h2>\n<ul>\n<li>relance JKR</li>\n<li>relance Représentation DL retrait attestation</li>\n<li>lettre ouverte Bouddhistes de France et du Portugal</li>\n</ul>\n",
