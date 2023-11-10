@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2023/11/10/bridgy-indieweb-et.html",
+				"title": "Brid.gy Indieweb et Bluesky + Mastodon 🤩",
+				"content_html": "<p>Ça fait longtemps que je l&rsquo;attendais pour refaire de mon Blog mon client principal pour poster sur les réseaux décentralisé !</p>\n<p>En principe si tu répond à ce Post sur #Bluesky ou #Mastodon ta réponse devrait s&rsquo;afficher comme commentaires sur mon blog !</p>\n<p>Je remplis ce post depuis l&rsquo;application mobile pour alimenter mon <a href=\"https://blog.rmendes.net\">Blog</a> et en principe ça devrait récupérer les commentaires sous ce Post !</p>\n<p>Avec la fédération qui arrive sur Bluesky, l&rsquo;avenir des réseaux sociaux décentralisé va devenir une norme !</p>\n",
+				"content_text": "Ça fait longtemps que je l'attendais pour refaire de mon Blog mon client principal pour poster sur les réseaux décentralisé ! \n\nEn principe si tu répond à ce Post sur #Bluesky ou #Mastodon ta réponse devrait s'afficher comme commentaires sur mon blog !\n\nJe remplis ce post depuis l'application mobile pour alimenter mon [Blog](https://blog.rmendes.net) et en principe ça devrait récupérer les commentaires sous ce Post !\n\nAvec la fédération qui arrive sur Bluesky, l'avenir des réseaux sociaux décentralisé va devenir une norme ! \n",
+				"date_published": "2023-11-10T14:05:49+01:00",
+				"url": "https://blog.rmendes.net/2023/11/10/bridgy-indieweb-et.html",
+				"tags": ["Fediverse","Bluesky"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/11/05/la-lutte-contre.html",
+				
+				"content_html": "<p>La lutte contre l&rsquo;invasion de la pub évolue et s&rsquo;adapte</p>\n<p><a href=\"https://sponsor.ajay.app/\">sponsor.ajay.app</a></p>\n",
+				"content_text": "La lutte contre l'invasion de la pub évolue et s'adapte \n\n[sponsor.ajay.app](https://sponsor.ajay.app/)\n",
+				"date_published": "2023-11-05T07:35:00+01:00",
+				"url": "https://blog.rmendes.net/2023/11/05/la-lutte-contre.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/11/04/yay-github-multi.html",
+				
+				"content_html": "<p>Yay Github <a href=\"https://github.blog/changelog/2023-11-03-multi-account-support-on-github-com/\">Multi</a> Account Support 😎</p>\n",
+				"content_text": "Yay Github [Multi](https://github.blog/changelog/2023-11-03-multi-account-support-on-github-com/) Account Support 😎\n",
+				"date_published": "2023-11-04T07:52:31+01:00",
+				"url": "https://blog.rmendes.net/2023/11/04/yay-github-multi.html",
+				"tags": ["Coding"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2023/11/01/je-commence-le.html",
 				
 				"content_html": "<p>Je commence le nouveau taf demain, je vais avoir beaucoup moins de temps ici, du coup, si vous voulez un code, aller sur le <a href=\"https://skyfleet.blue\">chat</a>, je n&rsquo;ai plus le temps de répondre et d&rsquo;envoyer la même réponse à chaque fois, plusieurs fois par jour. Aussi, à sert à rien de m&rsquo;envoyer plusieurs fois la même demande😇</p>\n",
