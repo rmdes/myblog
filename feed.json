@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2023/11/22/lulb-qui-clture.html",
+				
+				"content_html": "<p>l&rsquo;ULB qui clôture son activité sur X, bravo !\nQuand est ce que la RTBF, VRT, Partis politiques belges, institutions vont enfin s&rsquo;y mettre ?</p>\n",
+				"content_text": "l'ULB qui clôture son activité sur X, bravo !\r\nQuand est ce que la RTBF, VRT, Partis politiques belges, institutions vont enfin s'y mettre ?\n",
+				"date_published": "2023-11-22T15:13:24+01:00",
+				"url": "https://blog.rmendes.net/2023/11/22/lulb-qui-clture.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/11/21/pour-celleux-qui.html",
+				
+				"content_html": "<p>pour celleux qui ont comme moi, un pied sur #mastodon et #bluesky, un client vraiment super sympa pour masto : <a href=\"https://phanpy.social/\">phanpy.social</a> ça peut s&rsquo;installer comme une app sur votre smartphone ou desktop et être accessible comme n&rsquo;importe quel applications !</p>\n",
+				"content_text": "pour celleux qui ont comme moi, un pied sur #mastodon et #bluesky, un client vraiment super sympa pour masto : [phanpy.social](https://phanpy.social/) ça peut s'installer comme une app sur votre smartphone ou desktop et être accessible comme n'importe quel applications ! \n",
+				"date_published": "2023-11-21T20:17:24+01:00",
+				"url": "https://blog.rmendes.net/2023/11/21/pour-celleux-qui.html",
+				"tags": ["Fediverse","Bluesky"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/11/19/partir-de-quand.html",
+				"title": "À partir de quand les dérives du Mollusk seront-elles de trop et la réponse plus qu'une pause publicitaire ? ",
+				"content_html": "<p>À partir de quel moment, les institutions, les médias, les sociétés, les organisations décident que rester sur X c&rsquo;est nourrir une dérive politique, idéologique et informationnelle qui va directement à l&rsquo;encontre des démocraties abîmées, de leurs missions, de l&rsquo;intérêt général qu&rsquo;elles sont censées servir ?</p>\n",
+				"content_text": "À partir de quel moment, les institutions, les médias, les sociétés, les organisations décident que rester sur X c'est nourrir une dérive politique, idéologique et informationnelle qui va directement à l'encontre des démocraties abîmées, de leurs missions, de l'intérêt général qu'elles sont censées servir ? \n",
+				"date_published": "2023-11-19T11:11:24+01:00",
+				"url": "https://blog.rmendes.net/2023/11/19/partir-de-quand.html",
+				"tags": ["Tech","News","Politics"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/11/19/cest-hyper-cool.html",
+				
+				"content_html": "<p>c&rsquo;est hyper cool quand même ce que devient <a href=\"https://micro.blog\">micro.blog</a>, une façon de reinventer le Blog qui fait le pont avec Mastodon et Bluesky tout en étant lui même un réseau social autour de chaque Blog, c&rsquo;est 2003 all over again mais en mieux !</p>\n",
+				"content_text": "c'est hyper cool quand même ce que devient [micro.blog](https://micro.blog), une façon de reinventer le Blog qui fait le pont avec Mastodon et Bluesky tout en étant lui même un réseau social autour de chaque Blog, c'est 2003 all over again mais en mieux ! \n",
+				"date_published": "2023-11-19T09:52:22+01:00",
+				"url": "https://blog.rmendes.net/2023/11/19/cest-hyper-cool.html",
+				"tags": ["Tibetan Buddhism","Bluesky"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/11/17/testing-lillihubcom.html",
+				"title": "Testing lillihub.com",
+				"content_html": "<p>This is a cute client for micro.blog and I&rsquo;m loving it!</p>\n",
+				"content_text": "This is a cute client for micro.blog and I'm loving it! \n",
+				"date_published": "2023-11-17T22:56:21+01:00",
+				"url": "https://blog.rmendes.net/2023/11/17/testing-lillihubcom.html",
+				"tags": ["Thoughts","Games"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2023/11/17/sam-altam-getting.html",
+				
+				"content_html": "<p>Sam Altam getting fired from OpenAi shows one thing : how toxic X, Tesla or any of the Mollusk ventures really are, a personality cult run like a dictatorship with top down edicts and junk Managers/CEO&rsquo;s</p>\n",
+				"content_text": "Sam Altam getting fired from OpenAi shows one thing : how toxic X, Tesla or any of the Mollusk ventures really are, a personality cult run like a dictatorship with top down edicts and junk Managers/CEO's \n",
+				"date_published": "2023-11-17T22:51:32+01:00",
+				"url": "https://blog.rmendes.net/2023/11/17/sam-altam-getting.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2023/11/10/mullvad-consistently-kicking.html",
 				
 				"content_html": "<p>Mullvad, consistently kicking asses 😅</p>\n<p><a href=\"https://mullvad.net/en/blog/moving-our-encrypted-dns-servers-to-run-in-ram\">mullvad.net/en/blog/m&hellip;</a></p>\n",
