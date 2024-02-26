@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2024/02/26/listening-don-randi.html",
+				
+				"content_html": "<p>Listening : Don Randi</p>\n<p>Theme From Che</p>\n<p>from somaFM - <a href=\"https://somafm.com/player/#/now-playing/insound\">The-In-Sound</a> 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes.</p>\n",
+				"content_text": "Listening : Don Randi\r\n\r\nTheme From Che\r\n\r\nfrom somaFM - [The-In-Sound](https://somafm.com/player/#/now-playing/insound) 60s/70s Hipster Euro Pop where psychedelic melodies meets groovy vibes.\r\n\r\n",
+				"date_published": "2024-02-26T09:28:57+01:00",
+				"url": "https://blog.rmendes.net/2024/02/26/listening-don-randi.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/02/24/fausse-dmission-et.html",
+				"title": "Fausse Démission et Manipulation judiciaire : l'héritage de la OKC ",
+				"content_html": "<p>Aujourd&rsquo;hui, il  y a 8 ans, le pédocriminel gourou de la OKC, Robert Spatz, était &ldquo;démissionné&rdquo; de l&rsquo;ASBL OKC lors des premières semaines du premier procès OKC, une démission de pacotille pour organiser la perception de la cour d&rsquo;un gourou en retrait, laissant aux mains de ses lieutenants la gestion et la direction de la OKC, alors même qu&rsquo;en arrière plan il plaçait ses adeptes les plus fêlés au sein même des membres de la OKC pour être certain de garder un contrôle indirecte et surtout une majorité qui a de fait, découragé les quelques adeptes touché par un regain de lucidité, de s&rsquo;organiser pour extraire l&rsquo;organisation du contrôle de Spatz et ses lieutenants.</p>\n<p>Aujourd&rsquo;hui, cette même direction qui a présidé durant l&rsquo;ensemble des périodes incriminées est toujours au pouvoir et n&rsquo;a jamais démissionnée.</p>\n<p>Visiblement, même la sortie en 2023 de leur directeur spirituel, Rabjam Rinpoche, en quelque sorte le régent qui a décoré la direction de la OKC pendant plus de 20 ans n&rsquo;a pas été suffisant pour donner à Rui Oliveira alias Lamten lá réalisation qu&rsquo;il était peut être temps d&rsquo;enterrer l&rsquo;association.</p>\n<p>Pas plus que la déclaration fin 2023 de la part du Kashag / Dalai-Lama ne reconnaissant plus la OKC comme un centre bouddhiste tibétain légitime.</p>\n<p>Lamten et Cabe sont tellement attaché a ce cadavre qu&rsquo;ils vont préférer aller en enfer plutôt que de reconnaître l&rsquo;énorme folie qu&rsquo;à été la dérive sectaire Ogyen Kunzang Choling.</p>\n<p>l&rsquo;instruction en France suit son cour, les survivant-es\nd&rsquo;OKC n&rsquo;ont pas encore dit leurs derniers mots.</p>\n<p>Il y aurait des pages et des pages à écrire sur les manipulations judiciaires de la OKC pour expliquer le fiasco de la justice belge après 20 ans d&rsquo;instruction, mais ces pages me s&rsquo;écriront peut-être jamais, en effet, un chapitre se ferme.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Aujourd'hui, il  y a 8 ans, le pédocriminel gourou de la OKC, Robert Spatz, était \"démissionné\" de l'ASBL OKC lors des premières semaines du premier procès OKC, une démission de pacotille pour organiser la perception de la cour d'un gourou en retrait, laissant aux mains de ses lieutenants la gestion et la direction de la OKC, alors même qu'en arrière plan il plaçait ses adeptes les plus fêlés au sein même des membres de la OKC pour être certain de garder un contrôle indirecte et surtout une majorité qui a de fait, découragé les quelques adeptes touché par un regain de lucidité, de s'organiser pour extraire l'organisation du contrôle de Spatz et ses lieutenants.\n\nAujourd'hui, cette même direction qui a présidé durant l'ensemble des périodes incriminées est toujours au pouvoir et n'a jamais démissionnée. \n\nVisiblement, même la sortie en 2023 de leur directeur spirituel, Rabjam Rinpoche, en quelque sorte le régent qui a décoré la direction de la OKC pendant plus de 20 ans n'a pas été suffisant pour donner à Rui Oliveira alias Lamten lá réalisation qu'il était peut être temps d'enterrer l'association. \n\nPas plus que la déclaration fin 2023 de la part du Kashag / Dalai-Lama ne reconnaissant plus la OKC comme un centre bouddhiste tibétain légitime. \n\nLamten et Cabe sont tellement attaché a ce cadavre qu'ils vont préférer aller en enfer plutôt que de reconnaître l'énorme folie qu'à été la dérive sectaire Ogyen Kunzang Choling. \n\nl'instruction en France suit son cour, les survivant-es \nd'OKC n'ont pas encore dit leurs derniers mots.\n\nIl y aurait des pages et des pages à écrire sur les manipulations judiciaires de la OKC pour expliquer le fiasco de la justice belge après 20 ans d'instruction, mais ces pages me s'écriront peut-être jamais, en effet, un chapitre se ferme. \n\n<img src=\"uploads/2024/ea2cbb991a.jpg\" width=\"600\" height=\"600\" alt=\"Dessein du pédocriminel gourou Robert Spatz inspiré d'une photo du début des années 80 (voir Robert Spatz Wikipedia) \">\n",
+				"date_published": "2024-02-24T19:18:56+01:00",
+				"url": "https://blog.rmendes.net/2024/02/24/fausse-dmission-et.html",
+				"tags": ["OKCinfo","Dalai Lama","Photos"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/02/24/deploy-your-selfhosted.html",
+				
+				"content_html": "<p>Deploy your self-hosted Bluesky PDS <a href=\"https://github.com/bluesky-social/pds?tab=readme-ov-file#self-hosting-pds\">with</a> or <a href=\"https://benharri.org/bluesky-pds-without-docker/\">without</a> Docker !</p>\n",
+				"content_text": "Deploy your self-hosted Bluesky PDS [with](https://github.com/bluesky-social/pds?tab=readme-ov-file#self-hosting-pds) or [without](https://benharri.org/bluesky-pds-without-docker/) Docker !\n",
+				"date_published": "2024-02-24T17:10:00+01:00",
+				"url": "https://blog.rmendes.net/2024/02/24/deploy-your-selfhosted.html",
+				"tags": ["Bluesky"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/02/23/this-is-bad.html",
+				
+				"content_html": "<p>This is bad bad news&hellip; Fani Willis Didn’t Stand a Chance, read it <a href=\"https://www.thecut.com/article/fani-willis-trump-double-standard.html\">here</a></p>\n<p>Trump might escape Justice on a perception problem used to recuse one of the few judges actually willing to do the job!</p>\n",
+				"content_text": "This is bad bad news... Fani Willis Didn’t Stand a Chance, read it [here](https://www.thecut.com/article/fani-willis-trump-double-standard.html)\n\nTrump might escape Justice on a perception problem used to recuse one of the few judges actually willing to do the job! \n",
+				"date_published": "2024-02-23T08:04:32+01:00",
+				"url": "https://blog.rmendes.net/2024/02/23/this-is-bad.html",
+				"tags": ["Politics"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2024/02/20/une-recap-sur.html",
 				
 				"content_html": "<p>Une recap sur Navalny qui sur le fond, n&rsquo;a pas grand chose à voir avec une véritable opposition à un régime, c&rsquo;est juste une version diluée du colonialisme russe érigé en figure d&rsquo;opposition, un myth</p>\n<p><a href=\"https://www.ukrainer.net/en-alexei-navalny-ukraine\">Alexei Navalny and Ukraine: how the Russian “opposition” leader’s team sees the end of the war</a></p>\n",
