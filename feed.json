@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2024/03/18/great-read-and.html",
+				
+				"content_html": "<p>Great read and amazing news actually!</p>\n<p>Oh, Zot! Nomadic Identity is Coming to #ActivityPub <a href=\"https://wedistribute.org/2024/03/activitypub-nomadic-identity/\">wedistribute.org/2024/03/a&hellip;</a></p>\n",
+				"content_text": "Great read and amazing news actually!\n\nOh, Zot! Nomadic Identity is Coming to #ActivityPub [wedistribute.org/2024/03/a...](https://wedistribute.org/2024/03/activitypub-nomadic-identity/)\n",
+				"date_published": "2024-03-18T20:08:11+01:00",
+				"url": "https://blog.rmendes.net/2024/03/18/great-read-and.html",
+				"tags": ["Fediverse"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2024/03/04/ableton-live-will.html",
 				
 				"content_html": "<p>Ableton Live 12 will be released tomorrow, and is coming to Push 3 standalone on March 19. Until then, it won’t be possible to sync Live 12 Projects to  Push 3, in the meantime I&rsquo;m still digesting Ableton Live 11 Suite coming from 8-10 a few years ago!</p>\n",
