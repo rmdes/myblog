@@ -7,6 +7,68 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2024/05/09/interesting-oui-jai.html",
+				
+				"content_html": "<p>Interesting&hellip;   oui j`ai un clavier #qwerty avec lequel j&rsquo;aimerais bien écrire plus souvent en français</p>\n",
+				"content_text": "Interesting...   oui j`ai un clavier #qwerty avec lequel j'aimerais bien écrire plus souvent en français \n",
+				"date_published": "2024-05-09T09:33:13+02:00",
+				"url": "https://blog.rmendes.net/2024/05/09/interesting-oui-jai.html",
+				"tags": ["Random"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/05/03/spent-the-last.html",
+				
+				"content_html": "<p>spent the last few weeks on #Keycloak and #Tyk API Gateway, with the goal of securing a set of API endpoints deployed on the open web.</p>\n<p>It&rsquo;s both challenging and fascinating learning curve, from deployment (kubernetes/helm/openshift) to configurations and tweaking. #WIP</p>\n",
+				"content_text": "spent the last few weeks on #Keycloak and #Tyk API Gateway, with the goal of securing a set of API endpoints deployed on the open web. \r\n\r\nIt's both challenging and fascinating learning curve, from deployment (kubernetes/helm/openshift) to configurations and tweaking. #WIP \n",
+				"date_published": "2024-05-03T19:56:48+02:00",
+				"url": "https://blog.rmendes.net/2024/05/03/spent-the-last.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/05/03/fascinating-h-with.html",
+				
+				"content_html": "<p>Fascinating : 24h with #copilot 😮</p>\n<p><a href=\"https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces\">every.to/chain-of-&hellip;</a></p>\n",
+				"content_text": "Fascinating : 24h with #copilot 😮\n\n[every.to/chain-of-...](https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces)\n",
+				"date_published": "2024-05-03T19:50:00+02:00",
+				"url": "https://blog.rmendes.net/2024/05/03/fascinating-h-with.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/05/01/lhumain-est-quand.html",
+				
+				"content_html": "<p>l&rsquo;humain est quand même incroyable.. une startup qui vend son café depuis un terminal&hellip;😂</p>\n<p><a href=\"https://www.terminal.shop/\">www.terminal.shop</a></p>\n",
+				"content_text": "l'humain est quand même incroyable.. une startup qui vend son café depuis un terminal...😂\n\n[www.terminal.shop](https://www.terminal.shop/)\n",
+				"date_published": "2024-05-01T22:24:09+02:00",
+				"url": "https://blog.rmendes.net/2024/05/01/lhumain-est-quand.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/05/01/everything-you-think.html",
+				
+				"content_html": "<p><a href=\"https://tedium.co/2024/04/27/mobile-phone-imei-number-history/\">Everything you think you didn&rsquo;t need to know about your phone&rsquo;s IMEI serial number. </a></p>\n",
+				"content_text": "[Everything you think you didn't need to know about your phone's IMEI serial number. ](https://tedium.co/2024/04/27/mobile-phone-imei-number-history/)\n",
+				"date_published": "2024-05-01T13:24:49+02:00",
+				"url": "https://blog.rmendes.net/2024/05/01/everything-you-think.html"
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/05/01/tu-cherche-quelque.html",
+				
+				"content_html": "<p>tu cherche quelque chose à regarder mais tu sais pas où ? ✨⤵️</p>\n<p>Streaming options for movies &amp; TV shows – <a href=\"https://whereto.stream\">whereto.stream</a></p>\n",
+				"content_text": "tu cherche quelque chose à regarder mais tu sais pas où ? ✨⤵️\n\nStreaming options for movies & TV shows – [whereto.stream](https://whereto.stream)\n",
+				"date_published": "2024-05-01T11:23:01+02:00",
+				"url": "https://blog.rmendes.net/2024/05/01/tu-cherche-quelque.html",
+				"tags": ["Videos"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/04/29/worrying-the-internet.html",
+				
+				"content_html": "<p>Worrying : The Internet Archive&rsquo;s last-ditch effort to <a href=\"https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself\">save itself</a></p>\n<p>We can&rsquo;t lose it, but we will, because our system is broken.</p>\n",
+				"content_text": "Worrying : The Internet Archive's last-ditch effort to [save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself)\n\nWe can't lose it, but we will, because our system is broken. \n\n",
+				"date_published": "2024-04-29T21:48:07+02:00",
+				"url": "https://blog.rmendes.net/2024/04/29/worrying-the-internet.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2024/04/29/ghost-joining-the.html",
 				
 				"content_html": "<p>Ghost Joining the ActivityPub network</p>\n<p><a href=\"https://ghost.org/changelog/activitypub-alpha/\">ghost.org/changelog&hellip;</a></p>\n<p>Another win for the fediverse!</p>\n",
