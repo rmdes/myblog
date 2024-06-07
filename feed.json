@@ -7,10 +7,73 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2024/06/07/civil-war-it.html",
+				
+				"content_html": "<p>Civil War : it sucks so much it&rsquo;s almost amazing that thing got produced.</p>\n",
+				"content_text": "Civil War : it sucks so much it's almost amazing that thing got produced. \n",
+				"date_published": "2024-06-07T22:22:59+02:00",
+				"url": "https://blog.rmendes.net/2024/06/07/civil-war-it.html",
+				"tags": ["Videos"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/06/06/participer-mme-avec.html",
+				"title": "Participer même avec 1€ à notre cagnotte juridique ! ",
+				"content_html": "<p>Salut, tu veux <a href=\"https://chardonsbleus.org\">nous</a> aider et contribuer financièrement à notre défense juridique en France ?</p>\n<p>Ce <a href=\"https://payconiq.com/payme/1/b45ew234y3lm\">lien</a> est valide jusqu&rsquo;au 6 juillet 2024 et sinon il y a d&rsquo;autres modalités de dons sur le site de l&rsquo;association Chardons Bleus 🙏🏽</p>\n<p>Si 1000 personnes donnent 1€ ça serait déjà un dixième de notre prochaine tranche de paiement !</p>\n<p>Merci d&rsquo;avance pour chaque centimes !\nDu fond de nos cœurs piquants, mais plein d&rsquo;amour 🫂</p>\n",
+				"content_text": "Salut, tu veux [nous](https://chardonsbleus.org) aider et contribuer financièrement à notre défense juridique en France ? \n\nCe [lien](https://payconiq.com/payme/1/b45ew234y3lm) est valide jusqu'au 6 juillet 2024 et sinon il y a d'autres modalités de dons sur le site de l'association Chardons Bleus 🙏🏽\n\nSi 1000 personnes donnent 1€ ça serait déjà un dixième de notre prochaine tranche de paiement ! \n\nMerci d'avance pour chaque centimes ! \nDu fond de nos cœurs piquants, mais plein d'amour 🫂\n\n \n",
+				"date_published": "2024-06-06T19:44:25+02:00",
+				"url": "https://blog.rmendes.net/2024/06/06/participer-mme-avec.html",
+				"tags": ["OKCinfo"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/06/06/a-fait-plusieurs.html",
+				
+				"content_html": "<p>Ça fait plusieurs semaines qu&rsquo;au boulot je nage entre des Keycloak, des Tyk, des frontend #AngularJS et mine de rien ça avance, on va pouvoir décommissioner tout un bazar de serveurs qui a plusieurs années, hors support, non maintenu, bref une cata ambulante 🖖🏽</p>\n",
+				"content_text": "Ça fait plusieurs semaines qu'au boulot je nage entre des Keycloak, des Tyk, des frontend #AngularJS et mine de rien ça avance, on va pouvoir décommissioner tout un bazar de serveurs qui a plusieurs années, hors support, non maintenu, bref une cata ambulante 🖖🏽\n",
+				"date_published": "2024-06-06T19:00:59+02:00",
+				"url": "https://blog.rmendes.net/2024/06/06/a-fait-plusieurs.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/06/06/je-repassais-sur.html",
+				
+				"content_html": "<p>Je repassais sur le <a href=\"https://skyfleet.blue/fr/home\">wiki Bluesky</a> en me disant, il y a tellement de chose à adapter dans les <a href=\"https://skyfleet.blue/fr/tutoriels\">tutos</a> sur les feed 😅</p>\n",
+				"content_text": "Je repassais sur le [wiki Bluesky](https://skyfleet.blue/fr/home) en me disant, il y a tellement de chose à adapter dans les [tutos](https://skyfleet.blue/fr/tutoriels) sur les feed 😅\n\n",
+				"date_published": "2024-06-06T18:58:05+02:00",
+				"url": "https://blog.rmendes.net/2024/06/06/je-repassais-sur.html",
+				"tags": ["Bluesky"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/06/02/ive-made-the.html",
+				
+				"content_html": "<p>I&rsquo;ve made the switch and now pay for a quality search engine : #kagi.</p>\n<p>Maybe in a few years, when the chaos of #AI and the mess left on the internet&rsquo;s front page settle, I&rsquo;ll reconsider my options. But for now, it&rsquo;s just too polluted.</p>\n",
+				"content_text": "I've made the switch and now pay for a quality search engine : #kagi. \n\nMaybe in a few years, when the chaos of #AI and the mess left on the internet's front page settle, I'll reconsider my options. But for now, it's just too polluted.\n",
+				"date_published": "2024-06-02T21:54:51+02:00",
+				"url": "https://blog.rmendes.net/2024/06/02/ive-made-the.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/06/02/the-title-of.html",
+				
+				"content_html": "<p>The title of this <a href=\"https://podverse.fm/episode/zxnlis1pg\">podcast</a> episode missing part is : and the rest of the American people is watching the show, waiting to see if the titanic is going to crash, paralysed by the almost inevitable tide of hate, disinformation and rage that is taking over the 🇺🇸 political landscape.</p>\n",
+				"content_text": "The title of this [podcast](https://podverse.fm/episode/zxnlis1pg) episode missing part is : and the rest of the American people is watching the show, waiting to see if the titanic is going to crash, paralysed by the almost inevitable tide of hate, disinformation and rage that is taking over the 🇺🇸 political landscape. \n",
+				"date_published": "2024-06-02T21:43:52+02:00",
+				"url": "https://blog.rmendes.net/2024/06/02/the-title-of.html",
+				"tags": ["Politics"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2024/06/02/hmm-dommage-la.html",
+				
+				"content_html": "<p>Hmm Dommage, la #RTBF a raté une belle occasion de faire de ce <a href=\"https://alexirrthum.quarto.pub/une-critique-du-test-electoral-rtbf-2024/\">test électoral</a> un outil transparent et vérifié par d&rsquo;autres experts, bref du service public #electionsBE</p>\n",
+				"content_text": "Hmm Dommage, la #RTBF a raté une belle occasion de faire de ce [test électoral](https://alexirrthum.quarto.pub/une-critique-du-test-electoral-rtbf-2024/) un outil transparent et vérifié par d'autres experts, bref du service public #electionsBE\n",
+				"date_published": "2024-06-02T17:18:44+02:00",
+				"url": "https://blog.rmendes.net/2024/06/02/hmm-dommage-la.html",
+				"tags": ["Politics"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2024/05/29/didjou-la-srie.html",
 				
 				"content_html": "<p>Didjou, la série <a href=\"https://www.rottentomatoes.com/tv/tribes_of_europa\">Tribes of Europa</a>, c&rsquo;est d&rsquo;une violence.. un truc de dingue..</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Didjou, la série [Tribes of Europa](https://www.rottentomatoes.com/tv/tribes_of_europa), c'est d'une violence.. un truc de dingue.. \n\n<img src=\"uploads/2024/a0fad7da2b.jpg\" width=\"450\" height=\"600\" alt=\"couverture de la série Netflix Tribes of Europa, un cube géant bleu flottant au dessus d'humains \">\n",
+				"content_text": "Didjou, la série [Tribes of Europa](https://www.rottentomatoes.com/tv/tribes_of_europa), c'est d'une violence.. un truc de dingue.. \n\n<img src=\"https://blog.rmendes.net/uploads/2024/a0fad7da2b.jpg\" width=\"450\" height=\"600\" alt=\"couverture de la série Netflix Tribes of Europa, un cube géant bleu flottant au dessus d'humains \">\n",
 				"date_published": "2024-05-29T21:46:20+02:00",
 				"url": "https://blog.rmendes.net/2024/05/29/didjou-la-srie.html",
 				"tags": ["Random","Photos","Videos"]
