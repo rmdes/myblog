@@ -25,6 +25,28 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://blog.rmendes.net/2025/03/22/atmosphereconf-smoke-signal-an-journey.html" class="u-url"><time class="dt-published" datetime="2025-03-22 19:40:50 &#43;0100">Mar 22, 2025</time></a>
+
+		<div class="e-content">
+			 <p><a href="https://stream.place/atprotocol.dev">ATmosphereConf </a>2025 - Smoke Signal, an journey in building open ecosystems for communities - Nick Gerakines</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.rmendes.net/2025/03/19/about-vibe-coding-llm-ai.html" class="u-url"><time class="dt-published" datetime="2025-03-19 22:07:25 &#43;0100">Mar 19, 2025</time></a>
+
+		<div class="e-content">
+			 <p>About &ldquo;<a href="https://simonwillison.net/2025/Mar/19/vibe-coding/">vibe coding</a>&rdquo; #LLM #AI #coding</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://blog.rmendes.net/2025/03/19/hes-not-joking-its-not.html" class="u-url"><time class="dt-published" datetime="2025-03-19 22:02:43 &#43;0100">Mar 19, 2025</time></a>
 
 		<div class="e-content">
@@ -1235,12 +1257,67 @@ The internet has allowed independent creators to thrive, finding niche audiences
 <h2 id="exemple-de-résultat">Exemple de Résultat</h2>
 <p>Voici un exemple du message généré :</p>
 <pre tabindex="0"><code>There are 646 days until the Midterms, 1381 days until the next Presidential Election, and 1490 days until the next Inauguration Day.
-Midterms Progress: ███▒▒▒▒▒▒▒ 33%
-Presidential Election Progress: █▒▒▒▒▒▒▒▒▒ 5% 
+Midterms Progress: █▒▒▒▒▒▒▒▒▒ 9%
+Presidential Election Progress: █▒▒▒▒▒▒▒▒▒ 4% 
 Until Inauguration: ▒▒▒▒▒▒▒▒▒▒ 0%
 </code></pre><h2 id="code">Code</h2>
-<p><a href="https://gist.github.com/rmdes/2724abe42d04c65422c70156517041cb">Gist</a></p>
-<h2 id="où-il-publie">Où il publie</h2>
+<pre tabindex="0"><code>// JavaScript code for N8N to calculate and post daily countdowns with a graphical loading bar
+
+// Define the reference start date (Trump's 2025 inauguration)
+const startOfMandate = new Date('2025-01-20T00:00:00Z');
+
+// Define the target dates
+const midtermsDate = new Date('2026-11-03T00:00:00Z'); // Next USA Midterms
+const presidentialElectionDate = new Date('2028-11-07T00:00:00Z'); // Next Presidential Election
+const inaugurationDate = new Date('2029-01-20T00:00:00Z'); // Next Inauguration Day
+
+// Get the current date
+const currentDate = new Date();
+
+// Function to calculate correct progress
+function calculateProgress(targetDate) {
+  const totalDays = Math.ceil((targetDate - startOfMandate) / (1000 * 60 * 60 * 24));
+  const elapsedDays = Math.ceil((currentDate - startOfMandate) / (1000 * 60 * 60 * 24));
+  return Math.min(100, Math.max(0, Math.floor((elapsedDays / totalDays) * 100)));
+}
+
+// Calculate days remaining
+const daysUntilMidterms = Math.ceil((midtermsDate - currentDate) / (1000 * 60 * 60 * 24));
+const daysUntilPresidentialElection = Math.ceil((presidentialElectionDate - currentDate) / (1000 * 60 * 60 * 24));
+const daysUntilInauguration = Math.ceil((inaugurationDate - currentDate) / (1000 * 60 * 60 * 24));
+
+// Calculate accurate progress percentages
+const midtermsProgress = calculateProgress(midtermsDate);
+const presidentialProgress = calculateProgress(presidentialElectionDate);
+const inaugurationProgress = calculateProgress(inaugurationDate);
+
+// Create a graphical loading bar function
+function createLoadingBar(percentage) {
+  const totalBars = 10; // Length of the loading bar
+  const filledBars = Math.floor((percentage / 100) * totalBars);
+  const emptyBars = totalBars - filledBars;
+  return `${'█'.repeat(filledBars)}${'▒'.repeat(emptyBars)} ${percentage}%`;
+}
+
+// Generate the loading bars
+const midtermsLoadingBar = createLoadingBar(midtermsProgress);
+const presidentialLoadingBar = createLoadingBar(presidentialProgress);
+const inaugurationLoadingBar = createLoadingBar(inaugurationProgress);
+
+// Generate the message
+const message = `There are ${daysUntilMidterms} days until the Midterms, ${daysUntilPresidentialElection} days until the next Presidential Election, and ${daysUntilInauguration} days until the next Inauguration Day.\n\n` +
+  `Midterms Progress: \n${midtermsLoadingBar}\n\n` +
+  `Presidential Election Progress: \n${presidentialLoadingBar}\n\n` +
+  `Inauguration Progress: \n${inaugurationLoadingBar}`;
+
+// Output the message
+return [{
+  json: {
+    message,
+  },
+}];
+
+</code></pre><h2 id="où-il-publie">Où il publie</h2>
 <p>Le script retourne le message sous forme d&rsquo;un objet JSON, prêt à être utilisé dans un flux N8N pour une publication quotidienne via un nœud horaire configuré.</p>
 <h2 id="configuration-recommandée">Configuration Recommandée</h2>
 <ul>
@@ -1257,7 +1334,7 @@ Until Inauguration: ▒▒▒▒▒▒▒▒▒▒ 0%
 </li>
 </ol>
 <h2 id="résultat">Résultat</h2>
-<p><a href="https://bsky.app/profile/trumpwatch.skyfleet.blue/post/3lgnmqujzod2q">Trumpwatch</a></p>
+<p><a href="https://bsky.app/profile/trumpwatch.skyfleet.blue/post/3lkqzr6bg5n27">Trumpwatch</a></p>
 
 		</div>
 	  </div>
