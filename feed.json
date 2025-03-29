@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://rmdes.micro.blog/2025/03/29/not-just-millenials-its-everywhere.html",
+				
+				"content_html": "<p>Not just Millenials, it&rsquo;s everywhere.</p>\n<p><a href=\"https://www.newsweek.com/millennials-phones-ruining-relationships-technoference-2047963\">www.newsweek.com/millennia&hellip;</a></p>\n",
+				"content_text": "Not just Millenials, it's everywhere. \n\n[www.newsweek.com/millennia...](https://www.newsweek.com/millennials-phones-ruining-relationships-technoference-2047963)\n",
+				"date_published": "2025-03-29T09:42:36+01:00",
+				"url": "https://blog.rmendes.net/2025/03/29/not-just-millenials-its-everywhere.html",
+				"tags": ["Tech","Microposts"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2025/03/25/ouch-the-maintainers-of-kubernetes.html",
+				
+				"content_html": "<p>Ouch</p>\n<p>The maintainers of #Kubernetes have released patches for four critical vulnerabilities in the Ingress NGINX Controller, affecting 6,500, or 41%, of <a href=\"https://www.darkreading.com/application-security/critical-ingressnightmare-vulns-kubernetes-environments\">all Internet-facing container orchestration clusters</a>, including those used by several Fortune 500 companies.</p>\n",
+				"content_text": "Ouch\n\nThe maintainers of #Kubernetes have released patches for four critical vulnerabilities in the Ingress NGINX Controller, affecting 6,500, or 41%, of [all Internet-facing container orchestration clusters](https://www.darkreading.com/application-security/critical-ingressnightmare-vulns-kubernetes-environments), including those used by several Fortune 500 companies.\n",
+				"date_published": "2025-03-25T19:43:34+01:00",
+				"url": "https://blog.rmendes.net/2025/03/25/ouch-the-maintainers-of-kubernetes.html",
+				"tags": ["Tech","Microposts"]
+			},
+			{
+				"id": "http://rmdes.micro.blog/2025/03/23/im-not-on-x-anymore.html",
+				
+				"content_html": "<p>I&rsquo;m not on X anymore but this is nonetheless interesting</p>\n<p><a href=\"https://notetracker.socialmediadata.org/\">notetracker.socialmediadata.org</a></p>\n",
+				"content_text": "I'm not on X anymore but this is nonetheless interesting \n\n[notetracker.socialmediadata.org](https://notetracker.socialmediadata.org/)\n",
+				"date_published": "2025-03-23T13:18:52+01:00",
+				"url": "https://blog.rmendes.net/2025/03/23/im-not-on-x-anymore.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://rmdes.micro.blog/2025/03/22/atmosphereconf-smoke-signal-an-journey.html",
 				
 				"content_html": "<p><a href=\"https://stream.place/atprotocol.dev\">ATmosphereConf </a>2025 - Smoke Signal, an journey in building open ecosystems for communities - Nick Gerakines</p>\n",
