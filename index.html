@@ -24,6 +24,243 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://blog.rmendes.net/2025/07/11/how-to-use-sdkman-with.html">How to use SDKMAN with MobaXterm on Win11</a></h1>
+		
+
+		<a href="https://blog.rmendes.net/2025/07/11/how-to-use-sdkman-with.html" class="u-url"><time class="dt-published" datetime="2025-07-11 16:17:18 &#43;0200">Jul 11, 2025</time></a>
+
+		<div class="e-content">
+			 <h1 id="prerequisites--mobas-built-in-cygwin-has-apt-cyg-otherwise-use-the-gui-package-manager">prerequisites – Moba’s built-in Cygwin has apt-cyg; otherwise use the GUI package manager</h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">apt-cyg install curl zip unzip sed
+</code></pre></div><h1 id="install-sdkman">install SDKMAN!</h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">curl -s <span style="color:#e6db74">&#34;https://get.sdkman.io&#34;</span> | bash
+</code></pre></div><h1 id="adapt-your-bashrc">Adapt your .Bashrc</h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh"><span style="color:#75715e"># --- SDKMAN &amp; MobaXterm/Cygwin compatibility shim -----------------</span>
+
+<span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> -d <span style="color:#e6db74">&#34;</span>$HOME<span style="color:#e6db74">/.sdkman&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+  PLATFORM_FILE<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span>$HOME<span style="color:#e6db74">/.sdkman/var/platform&#34;</span>
+  TARGET<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;windowsx64&#34;</span>
+  <span style="color:#75715e"># refresh every shell start in case sdk selfupdate reset it</span>
+  <span style="color:#f92672">[[</span> ! -f <span style="color:#e6db74">&#34;</span>$PLATFORM_FILE<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">||</span> <span style="color:#e6db74">&#34;</span><span style="color:#66d9ef">$(</span>cat <span style="color:#e6db74">&#34;</span>$PLATFORM_FILE<span style="color:#e6db74">&#34;</span><span style="color:#66d9ef">)</span><span style="color:#e6db74">&#34;</span> !<span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;</span>$TARGET<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]]</span> <span style="color:#f92672">&amp;&amp;</span>
+      printf <span style="color:#e6db74">&#39;%s\n&#39;</span> <span style="color:#e6db74">&#34;</span>$TARGET<span style="color:#e6db74">&#34;</span> &gt; <span style="color:#e6db74">&#34;</span>$PLATFORM_FILE<span style="color:#e6db74">&#34;</span>
+<span style="color:#66d9ef">fi</span>
+<span style="color:#75715e"># ------------------------------------------------------------------</span>
+</code></pre></div><h1 id="script-à-copier-dans-votre-homemobaxterm">Script à copier dans votre /home/mobaxterm</h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh"><span style="color:#75715e">#!/usr/bin/env bash
+</span><span style="color:#75715e"></span><span style="color:#75715e"># ---------------------------------------------------------------------------</span>
+<span style="color:#75715e"># Installe Maven + les JDK majeurs (7 / 8 / 11 / 17 / 21) via SDKMAN!</span>
+<span style="color:#75715e"># Préférence Zulu, menu alternatif si absent.</span>
+<span style="color:#75715e"># À la fin, propose de choisir la version Java par défaut.</span>
+<span style="color:#75715e"># ---------------------------------------------------------------------------</span>
+set -eo pipefail               <span style="color:#75715e"># -u volontairement omis pour la compatibilité SDKMAN!</span>
+
+<span style="color:#75715e">### 0. Prérequis ---------------------------------------------------------------</span>
+<span style="color:#66d9ef">for</span> cmd in curl awk grep tr; <span style="color:#66d9ef">do</span>
+  command -v <span style="color:#e6db74">&#34;</span>$cmd<span style="color:#e6db74">&#34;</span> &gt;/dev/null <span style="color:#f92672">||</span> <span style="color:#f92672">{</span> echo <span style="color:#e6db74">&#34;</span>$cmd<span style="color:#e6db74"> is required&#34;</span> ; exit <span style="color:#ae81ff">1</span> ; <span style="color:#f92672">}</span>
+<span style="color:#66d9ef">done</span>
+
+<span style="color:#75715e">### 1. SDKMAN! -----------------------------------------------------------------</span>
+<span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> ! -s <span style="color:#e6db74">&#34;</span>$HOME<span style="color:#e6db74">/.sdkman/bin/sdkman-init.sh&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+  echo <span style="color:#e6db74">&#34;Installing SDKMAN!…&#34;</span>
+  curl -s https://get.sdkman.io | bash
+<span style="color:#66d9ef">fi</span>
+<span style="color:#75715e"># shellcheck source=/dev/null</span>
+source <span style="color:#e6db74">&#34;</span>$HOME<span style="color:#e6db74">/.sdkman/bin/sdkman-init.sh&#34;</span>
+
+<span style="color:#75715e">### 2. Patch platform pour MobaXterm/Cygwin ------------------------------------</span>
+<span style="color:#f92672">[[</span> <span style="color:#e6db74">&#34;</span><span style="color:#66d9ef">$(</span>uname -s<span style="color:#66d9ef">)</span><span style="color:#e6db74">&#34;</span> <span style="color:#f92672">==</span> CYGWIN* <span style="color:#f92672">]]</span> <span style="color:#f92672">&amp;&amp;</span> echo windowsx64 &gt;<span style="color:#e6db74">&#34;</span>$HOME<span style="color:#e6db74">/.sdkman/var/platform&#34;</span>
+
+<span style="color:#75715e">### 3. Fonctions utilitaires ----------------------------------------------------</span>
+preferred_vendors<span style="color:#f92672">=(</span>zulu tem kona librca graalce ms oracle<span style="color:#f92672">)</span>
+
+have<span style="color:#f92672">()</span> <span style="color:#f92672">{</span> <span style="color:#f92672">[[</span> -d <span style="color:#e6db74">&#34;</span>$HOME<span style="color:#e6db74">/.sdkman/candidates/java/</span>$1<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#f92672">}</span>
+
+get_available_ids<span style="color:#f92672">()</span> <span style="color:#f92672">{</span>           <span style="color:#75715e"># $1=major</span>
+  local major<span style="color:#f92672">=</span>$1 vendor
+  <span style="color:#66d9ef">for</span> vendor in <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>preferred_vendors[@]<span style="color:#e6db74">}</span><span style="color:#e6db74">&#34;</span>; <span style="color:#66d9ef">do</span>
+    sdk list java | awk -F<span style="color:#e6db74">&#39;|&#39;</span> <span style="color:#ae81ff">\
+</span><span style="color:#ae81ff"></span>      -v maj<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>major<span style="color:#e6db74">}</span><span style="color:#e6db74">\\.&#34;</span> -v vend<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span>$vendor<span style="color:#e6db74">&#34;</span> -v dir<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span>$HOME<span style="color:#e6db74">/.sdkman&#34;</span> <span style="color:#e6db74">&#39;
+</span><span style="color:#e6db74">      {
+</span><span style="color:#e6db74">        for(i=1;i&lt;=NF;i++) gsub(/^[ \t]+|[ \t]+$/, &#34;&#34;, $i)
+</span><span style="color:#e6db74">        version=$3; dist=$4; status=$5; id=$6
+</span><span style="color:#e6db74">        if(dist==vend &amp;&amp; version ~ &#34;^&#34;maj &amp;&amp; status!=&#34;installed&#34;){
+</span><span style="color:#e6db74">          cmd=&#34;test -d \&#34;&#34;dir&#34;/candidates/java/&#34;id&#34;\&#34;&#34;
+</span><span style="color:#e6db74">          if(system(cmd)!=0) print id
+</span><span style="color:#e6db74">        }
+</span><span style="color:#e6db74">      }&#39;</span> 
+  <span style="color:#66d9ef">done</span> | awk <span style="color:#e6db74">&#39;!seen[$0]++&#39;</span>
+<span style="color:#f92672">}</span>
+
+install_build<span style="color:#f92672">()</span> <span style="color:#f92672">{</span>               <span style="color:#75715e"># $1=identifier</span>
+  yes | sdk install java <span style="color:#e6db74">&#34;</span>$1<span style="color:#e6db74">&#34;</span>
+<span style="color:#f92672">}</span>
+
+choose_id<span style="color:#f92672">()</span> <span style="color:#f92672">{</span>                   <span style="color:#75715e"># $1=major, reste=ids</span>
+  local major<span style="color:#f92672">=</span>$1; shift; local ids<span style="color:#f92672">=(</span><span style="color:#e6db74">&#34;</span>$@<span style="color:#e6db74">&#34;</span><span style="color:#f92672">)</span> choice
+  echo -e <span style="color:#e6db74">&#34;\n--- Java </span>$major<span style="color:#e6db74"> : pas de build Zulu trouvé ---&#34;</span>
+  echo <span style="color:#e6db74">&#34;Sélectionnez une distribution (0 = ignorer) :&#34;</span>
+  <span style="color:#66d9ef">select</span> choice in <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>ids[@]<span style="color:#e6db74">}</span><span style="color:#e6db74">&#34;</span>; <span style="color:#66d9ef">do</span>
+    <span style="color:#f92672">[[</span> $REPLY <span style="color:#f92672">=</span>~ ^<span style="color:#f92672">[</span>0-9<span style="color:#f92672">]</span>+$ <span style="color:#f92672">]]</span> <span style="color:#f92672">||</span> <span style="color:#f92672">{</span> echo <span style="color:#e6db74">&#34;Entrez un nombre.&#34;</span> ; <span style="color:#66d9ef">continue</span> ; <span style="color:#f92672">}</span>
+    <span style="color:#f92672">[[</span> $REPLY <span style="color:#f92672">==</span> <span style="color:#ae81ff">0</span> <span style="color:#f92672">]]</span> <span style="color:#f92672">&amp;&amp;</span> echo <span style="color:#e6db74">&#34;&#34;</span> <span style="color:#f92672">&amp;&amp;</span> <span style="color:#66d9ef">return</span>
+    <span style="color:#f92672">[[</span> -n $choice <span style="color:#f92672">]]</span> <span style="color:#f92672">&amp;&amp;</span> echo <span style="color:#e6db74">&#34;</span>$choice<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">&amp;&amp;</span> <span style="color:#66d9ef">return</span>
+  <span style="color:#66d9ef">done</span>
+<span style="color:#f92672">}</span>
+
+<span style="color:#75715e">### 4. Boucle d’installation ----------------------------------------------------</span>
+declare -a installed_ids        <span style="color:#75715e"># pour proposer le choix final</span>
+majors<span style="color:#f92672">=(</span><span style="color:#ae81ff">7</span> <span style="color:#ae81ff">8</span> <span style="color:#ae81ff">11</span> <span style="color:#ae81ff">17</span> 21<span style="color:#f92672">)</span>
+
+<span style="color:#66d9ef">for</span> major in <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>majors[@]<span style="color:#e6db74">}</span><span style="color:#e6db74">&#34;</span>; <span style="color:#66d9ef">do</span>
+  <span style="color:#75715e"># 4a. déjà présent ?</span>
+  installed<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>sdk list java | awk -F<span style="color:#e6db74">&#39;|&#39;</span> -v maj<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>major<span style="color:#e6db74">}</span><span style="color:#e6db74">\\.&#34;</span> <span style="color:#e6db74">&#39;
+</span><span style="color:#e6db74">    $0 ~ /^[[:space:]]/ {
+</span><span style="color:#e6db74">      for(i=1;i&lt;=NF;i++) gsub(/^[ \t]+|[ \t]+$/, &#34;&#34;, $i)
+</span><span style="color:#e6db74">      if($3 ~ &#34;^&#34;maj &amp;&amp; $5==&#34;installed&#34;){ print $6 ; exit }
+</span><span style="color:#e6db74">    }&#39;</span><span style="color:#66d9ef">)</span>
+  <span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> -n $installed <span style="color:#f92672">]]</span> <span style="color:#f92672">||</span> have <span style="color:#e6db74">&#34;*-</span><span style="color:#e6db74">${</span>major<span style="color:#e6db74">}</span><span style="color:#e6db74">&#34;</span> ; <span style="color:#66d9ef">then</span>
+    echo <span style="color:#e6db74">&#34;✓  Java </span>$major<span style="color:#e6db74"> déjà installé (</span>$installed<span style="color:#e6db74">) – ignoré.&#34;</span>
+    installed_ids<span style="color:#f92672">+=(</span><span style="color:#e6db74">&#34;</span>$installed<span style="color:#e6db74">&#34;</span><span style="color:#f92672">)</span>
+    <span style="color:#66d9ef">continue</span>
+  <span style="color:#66d9ef">fi</span>
+
+  <span style="color:#75715e"># 4b. builds disponibles</span>
+  mapfile -t ids &lt; &lt;<span style="color:#f92672">(</span>get_available_ids <span style="color:#e6db74">&#34;</span>$major<span style="color:#e6db74">&#34;</span><span style="color:#f92672">)</span>
+  <span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> <span style="color:#e6db74">${#</span>ids[@]<span style="color:#e6db74">}</span> -eq <span style="color:#ae81ff">0</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+    echo <span style="color:#e6db74">&#34;⚠  Aucun build disponible pour Java </span>$major<span style="color:#e6db74">.&#34;</span>
+    <span style="color:#66d9ef">continue</span>
+  <span style="color:#66d9ef">fi</span>
+
+  <span style="color:#75715e"># 4c. priorité Zulu, sinon menu</span>
+  zulu<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;&#34;</span>
+  <span style="color:#66d9ef">for</span> id in <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>ids[@]<span style="color:#e6db74">}</span><span style="color:#e6db74">&#34;</span>; <span style="color:#66d9ef">do</span> <span style="color:#f92672">[[</span> $id <span style="color:#f92672">==</span> *<span style="color:#e6db74">&#34;-zulu&#34;</span> <span style="color:#f92672">]]</span> <span style="color:#f92672">&amp;&amp;</span> <span style="color:#f92672">{</span> zulu<span style="color:#f92672">=</span>$id; break; <span style="color:#f92672">}</span>; <span style="color:#66d9ef">done</span>
+  <span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> -n $zulu <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+    echo <span style="color:#e6db74">&#34;➡  Installation du dernier Zulu Java </span>$major<span style="color:#e6db74"> (</span>$zulu<span style="color:#e6db74">)…&#34;</span>
+    install_build <span style="color:#e6db74">&#34;</span>$zulu<span style="color:#e6db74">&#34;</span>
+    installed_ids<span style="color:#f92672">+=(</span><span style="color:#e6db74">&#34;</span>$zulu<span style="color:#e6db74">&#34;</span><span style="color:#f92672">)</span>
+  <span style="color:#66d9ef">else</span>
+    selected<span style="color:#f92672">=</span><span style="color:#66d9ef">$(</span>choose_id <span style="color:#e6db74">&#34;</span>$major<span style="color:#e6db74">&#34;</span> <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>ids[@]<span style="color:#e6db74">}</span><span style="color:#e6db74">&#34;</span><span style="color:#66d9ef">)</span>
+    <span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> -n $selected <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+      echo <span style="color:#e6db74">&#34;➡  Installation de </span>$selected<span style="color:#e6db74">…&#34;</span>
+      install_build <span style="color:#e6db74">&#34;</span>$selected<span style="color:#e6db74">&#34;</span>
+      installed_ids<span style="color:#f92672">+=(</span><span style="color:#e6db74">&#34;</span>$selected<span style="color:#e6db74">&#34;</span><span style="color:#f92672">)</span>
+    <span style="color:#66d9ef">else</span>
+      echo <span style="color:#e6db74">&#34;⏭  Java </span>$major<span style="color:#e6db74"> ignoré.&#34;</span>
+    <span style="color:#66d9ef">fi</span>
+  <span style="color:#66d9ef">fi</span>
+<span style="color:#66d9ef">done</span>
+
+<span style="color:#75715e">### 5. Maven --------------------------------------------------------------------</span>
+<span style="color:#66d9ef">if</span> ! sdk current maven &gt;/dev/null 2&gt;&amp;1; <span style="color:#66d9ef">then</span>
+  echo -e <span style="color:#e6db74">&#34;\n➡  Installation de Maven…&#34;</span>
+  yes | sdk install maven
+<span style="color:#66d9ef">else</span>
+  echo -e <span style="color:#e6db74">&#34;\n✓  Maven déjà installé.&#34;</span>
+<span style="color:#66d9ef">fi</span>
+
+<span style="color:#75715e">### 6. Choix de la version Java par défaut -------------------------------------</span>
+echo -e <span style="color:#e6db74">&#34;\n--- Sélection de la version Java par défaut ------------------------&#34;</span>
+PS3<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Numéro (0 = ne rien changer) : &#34;</span>
+<span style="color:#66d9ef">select</span> def in <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>installed_ids[@]<span style="color:#e6db74">}</span><span style="color:#e6db74">&#34;</span>; <span style="color:#66d9ef">do</span>
+  <span style="color:#f92672">[[</span> $REPLY <span style="color:#f92672">=</span>~ ^<span style="color:#f92672">[</span>0-9<span style="color:#f92672">]</span>+$ <span style="color:#f92672">]]</span> <span style="color:#f92672">||</span> <span style="color:#f92672">{</span> echo <span style="color:#e6db74">&#34;Entrez un nombre.&#34;</span> ; <span style="color:#66d9ef">continue</span> ; <span style="color:#f92672">}</span>
+  <span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> $REPLY <span style="color:#f92672">==</span> <span style="color:#ae81ff">0</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+    echo <span style="color:#e6db74">&#34;⏭  Aucun changement de version courante.&#34;</span>
+  <span style="color:#66d9ef">elif</span> <span style="color:#f92672">[[</span> -n $def <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+    sdk default java <span style="color:#e6db74">&#34;</span>$def<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">||</span> true   <span style="color:#75715e"># code 1 inoffensif</span>
+    echo <span style="color:#e6db74">&#34;✓  </span>$def<span style="color:#e6db74"> est maintenant la version par défaut.&#34;</span>
+  <span style="color:#66d9ef">fi</span>
+  break
+<span style="color:#66d9ef">done</span>
+
+<span style="color:#75715e"># Exporte JAVA_HOME pour la session actuelle</span>
+export JAVA_HOME<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span>$HOME<span style="color:#e6db74">/.sdkman/candidates/java/current&#34;</span>
+export PATH<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;</span>$JAVA_HOME<span style="color:#e6db74">/bin:</span>$PATH<span style="color:#e6db74">&#34;</span>
+
+<span style="color:#75715e">### 7. Persistance JAVA_HOME ----------------------------------------------------</span>
+<span style="color:#66d9ef">if</span> ! grep -q <span style="color:#e6db74">&#39;export JAVA_HOME=.*\.sdkman&#39;</span> <span style="color:#e6db74">&#34;</span>$HOME<span style="color:#e6db74">/.bashrc&#34;</span> 2&gt;/dev/null; <span style="color:#66d9ef">then</span>
+cat &gt;&gt;<span style="color:#e6db74">&#34;</span>$HOME<span style="color:#e6db74">/.bashrc&#34;</span> <span style="color:#e6db74">&lt;&lt;&#39;EOF&#39;
+</span><span style="color:#e6db74">
+</span><span style="color:#e6db74"># --- SDKMAN! Java/Maven (auto-ajout) ------------------------------------------
+</span><span style="color:#e6db74">export JAVA_HOME=&#34;$HOME/.sdkman/candidates/java/current&#34;
+</span><span style="color:#e6db74">export PATH=&#34;\$JAVA_HOME/bin:\$PATH&#34;
+</span><span style="color:#e6db74"># -----------------------------------------------------------------------------#
+</span><span style="color:#e6db74">EOF</span>
+  echo <span style="color:#e6db74">&#34;ℹ  JAVA_HOME ajouté à ~/.bashrc&#34;</span>
+<span style="color:#66d9ef">fi</span>
+
+<span style="color:#75715e">### 8. Résumé ------------------------------------------------------------------</span>
+echo -e <span style="color:#e6db74">&#34;\nÉtat actuel :&#34;</span>
+sdk current
+echo -e <span style="color:#e6db74">&#34;\n✅  Installation terminée.&#34;</span>
+<span style="color:#e6db74">``````</span>shvi install_java_stack.sh
+chmod +x install_java_stack.sh
+<span style="color:#e6db74">```</span><span style="color:#75715e"># Installer les Java versions</span>
+<span style="color:#e6db74">```</span>sh
+./install_java_stack.sh
+</code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">  11/07/2025   16:09.24   /home/mobaxterm  ./install_java_stack.sh
+✓  Java <span style="color:#ae81ff">7</span> déjà installé <span style="color:#f92672">(</span>7.0.352-zulu<span style="color:#f92672">)</span> – ignoré.
+✓  Java <span style="color:#ae81ff">8</span> déjà installé <span style="color:#f92672">(</span>8.0.452.fx-zulu<span style="color:#f92672">)</span> – ignoré.
+✓  Java <span style="color:#ae81ff">11</span> déjà installé <span style="color:#f92672">(</span>11.0.27.fx-zulu<span style="color:#f92672">)</span> – ignoré.
+✓  Java <span style="color:#ae81ff">17</span> déjà installé <span style="color:#f92672">(</span>17.0.15.fx-zulu<span style="color:#f92672">)</span> – ignoré.
+✓  Java <span style="color:#ae81ff">21</span> déjà installé <span style="color:#f92672">(</span>21.0.7.fx-zulu<span style="color:#f92672">)</span> – ignoré.
+
+✓  Maven déjà installé.
+
+--- Sélection de la version Java par défaut ------------------------
+1<span style="color:#f92672">)</span> 7.0.352-zulu     3<span style="color:#f92672">)</span> 11.0.27.fx-zulu  5<span style="color:#f92672">)</span> 21.0.7.fx-zulu
+2<span style="color:#f92672">)</span> 8.0.452.fx-zulu  4<span style="color:#f92672">)</span> 17.0.15.fx-zulu
+Numéro <span style="color:#f92672">(</span>0 <span style="color:#f92672">=</span> ne rien changer<span style="color:#f92672">)</span> : <span style="color:#ae81ff">0</span>
+⏭  Aucun changement de version courante.
+
+État actuel :
+
+Using:
+
+java: 17.0.15.fx-zulu
+maven: 3.9.10
+
+✅  Installation terminée.
+</code></pre></div>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://blog.rmendes.net/2025/07/10/unlearning-heartless-buddhism-why-we.html">Unlearning Heartless Buddhism : Why We Need to Reject the Guru Class</a></h1>
+		
+
+		<a href="https://blog.rmendes.net/2025/07/10/unlearning-heartless-buddhism-why-we.html" class="u-url"><time class="dt-published" datetime="2025-07-10 17:45:38 &#43;0200">Jul 10, 2025</time></a>
+
+		<div class="e-content">
+			 <p>Context, just some thinking after reading about more aftermath of Tibetan Buddhism abuses and the trail of trauma it leaves behind, while our societies still portray it, as an alternative to other religions that have shown to be abusive systems</p>
+<hr>
+<h2 id="tldr">TL;DR:</h2>
+<p>Tibetan Buddhism—and the broader spiritual exotica we&rsquo;ve imported into Western culture—doesn’t offer a path to healing, but a system of emotional denial and hierarchical control. We&rsquo;ve allowed sociopathic authority figures to occupy the role of “teacher” for too long, romanticizing ideas like karma, reincarnation, and guru devotion without questioning their real-world consequences. It&rsquo;s time to unlearn the whole framework—not replace it.</p>
+<hr>
+<p>I think one of the reasons so many teachers in Tibetan Buddhism struggle to truly engage with suffering, despite building an entire system around it, is that many of them are profoundly disconnected from their own emotional lives.</p>
+<p>Some, I would even argue, display traits that align with sociopathy or deep dissociation.</p>
+<p>Many were raised in rigid, hierarchical environments where vulnerability was punished and emotional detachment was mistaken for maturity.</p>
+<p>They were conditioned to conflate &ldquo;mind training&rdquo; with emotional repression, to confuse silence with wisdom, and to treat suffering not as something to confront with clarity and accountability, but as an illusion to sidestep.</p>
+<p>The result is what I’d call &ldquo;Heartless Buddhism&rdquo; a doctrinal system built like a bunker.</p>
+<p>Everything passes through layers of metaphysics and tradition, but rarely through the lens of lived, felt human experience.</p>
+<p>Compassion is ritualized and abstract. When confronted with real suffering, trauma, abuse, grief, these teachers are often completely incapable of response.</p>
+<p>Be them from western or oriental origin, the actions of ALL the Tibetan Buddhist &ldquo;teachers&rdquo; or &ldquo;masters&rdquo; have been a living demonstration on how NOT to be a Buddhist.</p>
+<p>Not because the topics are complex, but because they’ve been trained to deny their own pain—and rewarded for doing so.</p>
+<p>Trained to output platitudes instead of stepping down from their pedestal and meet the actual people that used to be at their feet&rsquo;s.</p>
+<p>Still, they hold the seat of “teacher.”</p>
+<p>But the real question is: why have we, in the West and beyond, been so willing to give them that seat? Why did we so easily import and elevate a system built on feudal hierarchy, unquestioned authority, and metaphysical obedience?</p>
+<p>It’s not just Tibetan Buddhism that should concern us—it’s the entire apparatus of imported religious exotic-new-age BS that’s been smuggled into our cultures under the banners of Karma, Yoga, Tantra, Reincarnation and countless other concepts.</p>
+<p>Spiritual Commodities, now currency tokens used on bio&rsquo;s as if they were legit.</p>
+<p>These are not harmless lifestyle add-ons. They carry with them embedded worldviews that justify inequality, fatalism, and abuse, often dressed up as wisdom.</p>
+<p>We need to stop romanticizing these traditions and start unlearning them.</p>
+<p>Not by replacing them with another guru or “authentic” lineage, but by reclaiming our critical faculties and cultural agency. The so-called teachers have nothing to offer that justifies the pass they&rsquo;ve been given. What we need isn’t more bowing—it’s more refusing.</p>
+<p>Unlearning is political.</p>
+<p><a href="https://youtu.be/Sg-5CDOcsTM?si=i7kaLONzvueb1JVv">Tibetan Buddhism, the law of silence</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://blog.rmendes.net/2025/07/09/the-only-way-to-support.html">The only way to support the future is to enable and encourage migration. </a></h1>
 		
 
